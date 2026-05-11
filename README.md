@@ -2,11 +2,11 @@
 
 This repository hosts the latest public versions of my professional resume.
 
-## Files
+## Resume Files
 
-- `Fares_Mohamed_AI_Engineer_Resume.pdf`
-- `Fares_Mohamed_ML_Engineer_Resume.pdf`
-- `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- [AI Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
+- [ML Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)
+- [Robotics and Embedded AI Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
 
 ## Profiles
 
@@ -17,4 +17,4 @@ This repository hosts the latest public versions of my professional resume.
 
 ## Notes
 
-This repo is meant to provide a stable public resume link for applications, networking, and profile pages.
+This repo is meant to provide stable public resume links for applications, networking, and profile pages.

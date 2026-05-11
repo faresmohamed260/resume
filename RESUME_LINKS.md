@@ -1,14 +1,14 @@
 # Resume Hosting Plan
 
-## Suggested Public Files
+## Live Repository
 
-- `Fares_Mohamed_AI_Engineer_Resume.pdf`
-- `Fares_Mohamed_ML_Engineer_Resume.pdf`
-- `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Repository: [faresmohamed260/resume](https://github.com/faresmohamed260/resume)
 
-## Suggested Repo Name
+## Public Resume Links
 
-- `resume`
+- AI Engineer: [Fares_Mohamed_AI_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
+- ML Engineer: [Fares_Mohamed_ML_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)
+- Robotics and Embedded AI: [Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
 
 ## Suggested Pinned Usage
 
