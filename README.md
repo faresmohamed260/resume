@@ -1,12 +1,20 @@
 # Fares Mohamed Resume
 
-This repository hosts the latest public versions of my professional resume.
+Public resume repository for current application-ready resume versions.
+
+## Featured Resume
+
+- [Agentic AI Systems / AI Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Agentic_AI_Systems_Resume.pdf)
 
 ## Resume Files
 
 - [AI Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
 - [ML Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)
 - [Robotics and Embedded AI Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
+
+## Source
+
+- [LaTeX Source](https://github.com/faresmohamed260/resume/blob/main/latex/Fares_Mohamed_AI_Engineer_Resume.tex)
 
 ## Profiles
 
@@ -17,4 +25,4 @@ This repository hosts the latest public versions of my professional resume.
 
 ## Notes
 
-This repo is meant to provide stable public resume links for applications, networking, and profile pages.
+This repo is used for stable public resume links for applications, networking, and portfolio references. The featured version currently emphasizes agentic AI systems, tool integration, lightweight product interfaces, and applied AI engineering.
