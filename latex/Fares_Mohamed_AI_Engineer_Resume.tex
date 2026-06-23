@@ -1,6 +1,6 @@
 \documentclass[letterpaper]{article}
 
-\usepackage[margin=0.45in]{geometry}
+\usepackage[margin=0.42in]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
@@ -12,31 +12,35 @@
 \setlength{\parindent}{0pt}
 \setlist[itemize]{leftmargin=*, itemsep=0pt, topsep=1pt, parsep=0pt, partopsep=0pt}
 \titleformat{\section}{\normalsize\bfseries}{}{0pt}{}[\titlerule]
-\titlespacing*{\section}{0pt}{4pt}{2pt}
+\titlespacing*{\section}{0pt}{2pt}{1pt}
 
 \newcommand{\roleline}[3]{
   \textbf{#1} \hfill #2 \\
   \textit{#3} \\
 }
+\newcommand{\projectheader}[2]{
+  \textbf{#1} \\
+  \textit{#2} \\
+}
 
 \begin{document}
-\small
+\footnotesize
 
 \begin{center}
     {\LARGE \textbf{Fares Mohamed}}\\[4pt]
-    Alexandria, Egypt \,|\, \href{mailto:faresmohamed260@gmail.com}{faresmohamed260@gmail.com} \,|\, \href{https://github.com/faresmohamed260}{GitHub} \,|\, \href{https://www.linkedin.com/in/fares-mohamed-b83454194/}{LinkedIn} \,|\, \href{https://huggingface.co/faresmohamed260}{Hugging Face} \,|\, \href{https://www.kaggle.com/faresmohamed260}{Kaggle}\\[2pt]
+    Alexandria, Egypt \,|\, \href{mailto:faresmohamed260@gmail.com}{faresmohamed260@gmail.com} \\
+    GitHub: \href{https://github.com/faresmohamed260}{github.com/faresmohamed260} \,|\, LinkedIn: \href{https://www.linkedin.com/in/fares-mohamed-b83454194/}{linkedin.com/in/fares-mohamed-b83454194}\\[2pt]
     \textbf{AI Engineer} \,|\, Agentic AI Systems, LLM Orchestration, Tool-Integrated Workflows
 \end{center}
 
 \section*{Summary}
-2026 Computer Science graduate from Alexandria University focused on agentic AI systems, retrieval-grounded LLM workflows, and production-minded AI tooling across Python, FastAPI, React, Streamlit, and automation platforms.
+2026 Computer Science graduate focused on agentic AI systems, retrieval-grounded LLM workflows, and production-minded AI tooling across Python, FastAPI, React, Streamlit, and automation platforms.
 
 \section*{Experience}
 \roleline{Armstrong}{Jul 2024 -- Present}{AI and Automation Engineer, Alexandria, Egypt}
 \begin{itemize}
     \item Led AI automation work for the Digital Egypt Cubs Initiative (DECI), a national education program under Egypt's Ministry of Communications and Information Technology.
     \item Built tool-integrated workflows with n8n, custom GPTs, and open-source models to automate presentations, teacher guides, and educational video production at scale.
-    \item Designed reusable prompting and content-generation pipelines that improved delivery speed, reduced manual work, and kept outputs consistent across schools.
 \end{itemize}
 
 \roleline{Armstrong}{Aug 2024 -- Present}{Content Creator, Alexandria and Cairo, Egypt}
@@ -50,29 +54,29 @@
 \end{itemize}
 
 \section*{Projects}
-\textbf{SAGA: Database-Native Agentic AI Workspace} \hfill \textit{Python, FastAPI, React, SQLite, Streamlit, RAG}\\
+\projectheader{SAGA: Database-Native Agentic AI Workspace}{Python, FastAPI, React, SQLite, Streamlit, RAG}
 \href{https://github.com/faresmohamed260/saga}{github.com/faresmohamed260/saga}\\
 \begin{itemize}
     \item Built a narrative intelligence workspace for books that ingests EPUB and PDF sources, extracts structured canon, and supports grounded analysis, retrieval, and downstream story-generation workflows.
-    \item Designed a database-native agent pipeline for events, entities, character profiles, timelines, and world state so analysis outputs stay inspectable, reusable, and resumable across runs.
-    \item Implemented schema-constrained extraction, strict JSON outputs, retrieval-grounded reasoning, and a React + FastAPI dashboard for operator review and workflow control.
+    \item Designed a database-native agent pipeline for events, entities, character profiles, timelines, and world state so outputs stay inspectable, reusable, and resumable across runs.
+    \item Implemented schema-constrained extraction, strict JSON outputs, retrieval-grounded reasoning, and a React + FastAPI dashboard for workflow control.
 \end{itemize}
 
-\textbf{DUM-E: ESP32 Robotic Arm Platform} \hfill \textit{Python, ESP32, Streamlit, Robotics}\\
+\projectheader{DUM-E: ESP32 Robotic Arm Platform}{Python, ESP32, Streamlit, Robotics}
 \href{https://github.com/faresmohamed260/DUM-E}{github.com/faresmohamed260/DUM-E}\\
 \begin{itemize}
     \item Built a robotics control platform for a programmable ESP32-based arm that supports calibration, manual control, and repeatable task execution through a software operator interface.
-    \item Combined embedded control, a Streamlit dashboard, and ROS2-style workflows to bridge physical motion control with higher-level software orchestration.
-    \item Implemented sequence recording, FK/IK-assisted motion planning, and guarded pick-and-place flows for repeatable demonstrations.
+    \item Combined embedded control, a Streamlit dashboard, and FK/IK-assisted motion planning for repeatable demonstrations.
 \end{itemize}
 
 \section*{Education}
 \textbf{Alexandria University, Faculty of Computer and Data Science} \hfill 2022 -- 2026\\
-B.Sc. in Computer Science (Intelligent Systems), Alexandria, Egypt
+B.Sc. in Computer Science (Intelligent Systems), Alexandria, Egypt\\
 
 \section*{Leadership}
-\textbf{ElCoder} \hfill Head of AI Committee, Alexandria, Egypt\\
-Led student workshops and technical sessions on AI and machine learning fundamentals.
+\textbf{ElCoder} \\
+Head of AI Committee, Alexandria, Egypt\\
+Led student workshops and technical sessions on AI and machine learning fundamentals.\\
 
 \section*{Skills}
 \textbf{Languages \& Tools:} Python, C++, FastAPI, React, Streamlit, Docker, SQLite, n8n, Arduino, ESP32\\
