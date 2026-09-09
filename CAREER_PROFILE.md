@@ -9,6 +9,7 @@ This file is the living factual career record used to maintain resumes, evaluate
 - Name: Fares Mohamed
 - Location: Alexandria, Egypt
 - Primary positioning: AI Engineer — Agentic AI, LLM Systems, Applied ML
+- Secondary demonstrated areas: full-stack AI products, generative media systems, computer vision, robotics, backend/runtime architecture
 - GitHub: https://github.com/faresmohamed260
 - LinkedIn: https://www.linkedin.com/in/fares-mohamed-b83454194/
 - Hugging Face: https://huggingface.co/faresmohamed260
@@ -47,34 +48,77 @@ Aug 2025–Dec 2025 — Alexandria, Egypt
 ### SAGA — Agentic Narrative Intelligence Platform
 Authoritative repository: https://github.com/faresmohamed260/saga
 
-Current resume evidence includes Python, LangGraph, FastAPI, React, Supabase/Postgres, and pgvector; agentic workflows for book ingestion, identity resolution, canon extraction, character/world modeling, generation planning, and hybrid retrieval; typed tool contracts, persistent checkpoints, resumable jobs, structured traces, automated validation, and a React/FastAPI dashboard.
+- Built a contract-driven AI platform spanning source ingestion, identity resolution, canon extraction, character/world modeling, generation planning, narrative generation, semantic support, image generation/QA, audiobook synthesis/transcription QA, packaging, lineage, and qualification.
+- Uses reusable Python runtimes with LangGraph execution, FastAPI control/query surfaces, React dashboard, Supabase Postgres, pgvector, object storage, provider integrations, observability, deployment and qualification tooling.
+- Production architecture separates API, workers, scheduler, observability, frontend, migrations, and telemetry collector; release workflow includes pinned container bases, provenance attestations, image digests, release manifests, and promotion guards.
+- Verified end-to-end qualification on a previously unseen 58-chapter EPUB produced 107 scenes, 179 evidence-supported identities, 336 canon events, 718 entities, a grounded generated chapter, three accepted visual artifacts, a 123.64-second audiobook with maximum WER 0.0988, a valid EPUB/manifest, and 96 observability records.
+- Qualification gates recorded 243 backend tests passed (3 skipped), 13 dashboard tests passed, 60 security-sensitive runtime tests passed, and zero known production dashboard dependency vulnerabilities at the accepted run.
 
-**Maintenance rule:** inspect the SAGA repository before using detailed or recent SAGA claims. The project repository outranks this summary for current implementation facts.
+**Maintenance rule:** inspect the SAGA repository before using detailed or recent claims. The project repository outranks this summary for current implementation facts and metrics.
 
-### ComfyUI Generative Media Workflow System
+### RenderLab — AI Image/Video Creation Platform
+Authoritative repository: https://github.com/faresmohamed260/renderlab
 
-Current resume evidence includes ComfyUI, Z-Image, Qwen-Image, FLUX.2 Klein, ControlNet, LoRA, and Modal; local node graphs for reference-consistent character assets, editing, guidance, layered output, face workflows, and background removal; and operationalized GPU workflows integrated with SAGA.
+- Built a production-oriented AI image/video creation platform using cloud-hosted ComfyUI workflows while hiding provider/workflow complexity behind product-level generation contracts.
+- Frontend stack includes Next.js App Router, React, TypeScript, Tailwind CSS, shadcn/ui/Radix primitives and Motion; infrastructure uses Vercel, Cloudflare R2, Supabase and cloud-hosted ComfyUI/Modal workers.
+- Implemented durable server-owned generation lifecycle and result finalization so accepted jobs can complete without the initiating browser remaining open; includes idempotent reconciliation, lifecycle control, retry/cancel flows, admission limits, failover, observability and production release controls.
+- Product surface includes Create, Library/Viewer, Activity, Settings and authorized Admin workflows, with durable media, search, collections, batch organization, continuation actions, retry/cancel, invite-only admission and production authentication/email flows.
+- Verified phases include autonomous generation lifecycle, generation maintenance, creative iteration, observability/engineering quality, and a live-proved fixed 2× image-upscale capability.
 
-For current implementation details or metrics, verify against the relevant project source before publishing or applying.
+**Maintenance rule:** inspect RenderLab `AGENTS.md`, `PROJECT.md`, and relevant current architecture/UI docs before using recent implementation, deployment or validation claims.
+
+### Fares Uniform ERP
+Authoritative repository: https://github.com/faresmohamed260/fares-uniform
+
+- Designing and implementing a bilingual small-business ERP for a clothing/uniform operation, using Odoo Community as the operational core rather than creating a parallel accounting/inventory ledger.
+- Scope covers finished-stock retail, offline ordinary checkout, school-uniform preorders, deposits/balances, partial collection, size-specific inventory, role/location authorization, production-demand handoff and future B2B workflows.
+- Current Phase 2B server foundation has passed its hosted gate and implements/validates an Odoo-native preorder model with attributable payments, derived balances, full-balance-before-collection enforcement, partial collection semantics, idempotent stock release and server-enforced role boundaries; the phase is still incomplete and not merged/deployed.
+- Project is operated with remote-only GitHub/hosted validation, explicit phase contracts, policy decisions, regression gates and documented source-of-truth conventions.
+
+**Maintenance rule:** inspect the active branch and phase/validation docs before using current status claims. Do not describe incomplete phases as shipped production features.
+
+### Biped Robot Control System
+Authoritative repository: https://github.com/faresmohamed260/biped-robot-control-system
+
+- Built an ESP32-based six-servo biped robot with a Python desktop control application and Streamlit diagnostics dashboard.
+- Implemented automatic local-network device discovery, flash-backed pose storage/sequence playback, per-joint calibration, live Android IP camera input, color-based robot/ball tracking, video recording, and autonomous forward movement until a collision-distance threshold is reached.
+- Integrated computer vision with physical robot control so detected robot/ball geometry drives autonomous motion behavior.
+
+### VisionDeck — Computer Vision Suite
+Authoritative repository: https://github.com/faresmohamed260/visiondeck-cv-suite
+
+- Built a Streamlit computer-vision dashboard combining face detection/landmarks, real-time hand tracking and gesture recognition, and YOLO object detection.
+- Added webcam and Android IP Webcam support with automatic local-network discovery, cached last-known camera addressing, live feeds, image-upload testing and project switching.
+- Repository also includes a standalone custom 3-class COCO-subset object-detection assignment with YOLOv8 fine-tuning.
 
 ### DUM-E — ESP32 Robotic Arm Platform
 Authoritative repository: https://github.com/faresmohamed260/DUM-E
 
-Current resume evidence includes Python, C++, ESP32, Streamlit, calibration, manual control, sequence recording, controller mapping, and FK/IK-assisted pick-and-place execution.
+Current verified resume evidence includes Python, C++, ESP32, Streamlit, calibration, manual control, sequence recording, controller mapping, and FK/IK-assisted pick-and-place execution.
 
 **Maintenance rule:** inspect the DUM-E repository before using detailed or recent claims.
 
-## Verified skills currently represented in resumes
+### ComfyUI Generative Media Workflow System
 
-**Engineering:** Python, C++, FastAPI, React, Streamlit, SQL, Docker, pytest, Git, REST APIs
+Current verified evidence includes ComfyUI, Z-Image, Qwen-Image, FLUX.2 Klein, ControlNet, LoRA, and Modal; local node graphs for reference-consistent character assets, editing, guidance, layered output, face workflows, background removal, and operationalized GPU workflows integrated with SAGA/RenderLab infrastructure.
 
-**AI systems:** LangGraph, LLM orchestration, tool calling, structured outputs, RAG, hybrid retrieval, prompt engineering, NLP, computer vision
+For current implementation details or metrics, verify against the relevant project source before publishing or applying.
 
-**Generative media:** ComfyUI, Z-Image, Qwen-Image, FLUX.2, ControlNet, LoRA, reference conditioning, workflow automation
+## Verified skills and demonstrated technologies
 
-**Data & infrastructure:** PostgreSQL, Supabase, pgvector, SQLAlchemy, Modal, Docker, pytest, n8n
+**Engineering:** Python, C++, FastAPI, React, Next.js, TypeScript, Streamlit, SQL, REST APIs, Docker, pytest, Git, CI/CD concepts
 
-**Embedded:** Arduino, ESP32, sensors, circuits, FK/IK-assisted motion workflows
+**AI systems:** LangGraph, LLM orchestration, tool calling, structured outputs, RAG, hybrid retrieval, prompt engineering, NLP, computer vision, evaluation/qualification workflows
+
+**Generative media:** ComfyUI, Z-Image, Qwen-Image, FLUX.2, ControlNet, LoRA, reference conditioning, workflow automation, image/video generation pipelines
+
+**Computer vision:** OpenCV, MediaPipe, Ultralytics YOLO, live camera pipelines, color-based tracking, gesture recognition, object detection
+
+**Data & infrastructure:** PostgreSQL, Supabase, pgvector, SQLAlchemy, Modal, Cloudflare R2, Vercel, Docker, n8n, Odoo Community
+
+**Reliability / platform:** idempotent job lifecycle design, server-owned reconciliation, background finalization, admission controls, retry/cancel flows, observability, release provenance, hosted CI validation
+
+**Embedded / robotics:** Arduino, ESP32, sensors, circuits, servo calibration, pose sequencing, FK/IK-assisted motion workflows, vision-guided robot behavior
 
 **Languages:** Arabic, English
 
@@ -84,6 +128,12 @@ Current resume evidence includes Python, C++, ESP32, Streamlit, calibration, man
 - Machine Learning Specialization
 - Deep Learning Specialization
 - Google Cloud Big Data and Machine Learning Fundamentals
+
+## Resume implications
+
+The current published resume variants do not yet fully represent the verified RenderLab platform work, the stronger production/reliability evidence in SAGA, or the newer biped/VisionDeck evidence. Before the next serious application, inspect the target role and update the most relevant LaTeX resume variant if these additions materially improve fit.
+
+Do not automatically add all of these projects to a one-page resume. Select the evidence that best supports the target role.
 
 ## Career-profile update policy
 
