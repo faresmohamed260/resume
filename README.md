@@ -1,22 +1,31 @@
-# Fares Mohamed Resume
+# Fares Mohamed — Career & Resume Repository
 
-Public resume repository for current application-ready resume versions.
+Public resume repository and persistent source of truth for career materials used in job hunting and professional positioning.
+
+## Career workspace
+
+- [`AGENTS.md`](AGENTS.md) — governance and source-of-truth rules for ChatGPT/career workflows.
+- [`CAREER_PROFILE.md`](CAREER_PROFILE.md) — living verified career record. This is the master factual source; resumes are outputs derived from it.
+- [`APPLICATIONS.md`](APPLICATIONS.md) — job application tracking and continuity across sessions.
+- [`LINKEDIN.md`](LINKEDIN.md) — durable LinkedIn positioning and content strategy.
+
+For project-specific claims, the authoritative project repository should be inspected before using recent implementation details or metrics.
 
 ## Featured Resume
 
-- [Agentic AI Systems / AI Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Agentic_AI_Systems_Resume.pdf)
+- [Agentic AI Systems / AI Engineer Resume](Fares_Mohamed_Agentic_AI_Systems_Resume.pdf)
 
 ## Resume Files
 
-- [AI Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
-- [ML Engineer Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)
-- [Robotics and Embedded AI Resume](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
+- [AI Engineer Resume](Fares_Mohamed_AI_Engineer_Resume.pdf)
+- [ML Engineer Resume](Fares_Mohamed_ML_Engineer_Resume.pdf)
+- [Robotics and Embedded AI Resume](Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
 
 ## Sources
 
-- [LaTeX Source](https://github.com/faresmohamed260/resume/blob/main/latex/Fares_Mohamed_AI_Engineer_Resume.tex)
-- [ML Engineer LaTeX Source](https://github.com/faresmohamed260/resume/blob/main/latex/Fares_Mohamed_ML_Engineer_Resume.tex)
-- [Robotics and Embedded AI LaTeX Source](https://github.com/faresmohamed260/resume/blob/main/latex/Fares_Mohamed_Robotics_Embedded_AI_Resume.tex)
+- [AI Engineer LaTeX Source](latex/Fares_Mohamed_AI_Engineer_Resume.tex)
+- [ML Engineer LaTeX Source](latex/Fares_Mohamed_ML_Engineer_Resume.tex)
+- [Robotics and Embedded AI LaTeX Source](latex/Fares_Mohamed_Robotics_Embedded_AI_Resume.tex)
 
 ## Profiles
 
@@ -25,6 +34,8 @@ Public resume repository for current application-ready resume versions.
 - [Hugging Face](https://huggingface.co/faresmohamed260)
 - [Kaggle](https://www.kaggle.com/faresmohamed260)
 
-## Notes
+## Maintenance model
 
-This repo is used for stable public resume links for applications, networking, and portfolio references. Every published version is maintained as a one-page resume and reflects a first-in-class Computer Science graduate with a 3.97/4.00 CGPA.
+`CAREER_PROFILE.md` is kept current as verified, professionally meaningful work develops. Role-specific resumes are then maintained from that factual record. Application state belongs in `APPLICATIONS.md`; durable LinkedIn strategy belongs in `LINKEDIN.md`; live LinkedIn scheduling and analytics remain in Metricool when connected.
+
+Every published resume version is intended to remain concise and application-ready.
