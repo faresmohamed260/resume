@@ -1,6 +1,6 @@
 # Career Profile
 
-Last reviewed: 2026-09-10
+Last reviewed: 2026-10-04
 
 This file is the living factual career record used to maintain resumes, evaluate jobs, prepare applications, and support professional LinkedIn content. Update it when verified career-significant information changes.
 
@@ -48,34 +48,38 @@ Aug 2025–Dec 2025 — Alexandria, Egypt
 ### SAGA — Agentic Narrative Intelligence Platform
 Authoritative repository: https://github.com/faresmohamed260/saga
 
-- Built a contract-driven AI platform spanning source ingestion, identity resolution, canon extraction, character/world modeling, generation planning, narrative generation, semantic support, image generation/QA, audiobook synthesis/transcription QA, packaging, lineage, and qualification.
-- Uses reusable Python runtimes with LangGraph execution, FastAPI control/query surfaces, React dashboard, Supabase Postgres, pgvector, object storage, provider integrations, observability, deployment and qualification tooling.
-- Production architecture separates API, workers, scheduler, observability, frontend, migrations, and telemetry collector; release workflow includes pinned container bases, provenance attestations, image digests, release manifests, and promotion guards.
-- Verified end-to-end qualification on a previously unseen 58-chapter EPUB produced 107 scenes, 179 evidence-supported identities, 336 canon events, 718 entities, a grounded generated chapter, three accepted visual artifacts, a 123.64-second audiobook with maximum WER 0.0988, a valid EPUB/manifest, and 96 observability records.
-- Qualification gates recorded 243 backend tests passed (3 skipped), 13 dashboard tests passed, 60 security-sensitive runtime tests passed, and zero known production dashboard dependency vulnerabilities at the accepted run.
+- Building a web-first, invite-only narrative-intelligence platform that reverse-engineers books and series into evidence-linked characters, dialogue, events, relationships, state, time and later canon-aware retrieval/generation.
+- Active v2 architecture uses private source ingestion, durable jobs/leases/runs, Supabase/Postgres control-plane state, Backblaze B2 object storage, owner-scoped access and outbound-only local analysis workers.
+- Designed a subscription-free textual-analysis strategy: deterministic structure first, lightweight local literary NLP second, specialized local models for ambiguity and bounded local generative reasoning only when evidence still requires judgment.
+- Current measured evidence includes deterministic quote detection at 0.8563 F1, a BookNLP event-trigger challenger at 0.7791 F1, strict participant/qualifier/relationship/timeline/life-state candidate contracts and persistent BookNLP stdio execution with exact semantic equality and lower repeated-run latency.
+- The project has a production-domain closed-beta surface, but the v2 product is not yet operational end to end: required application APIs and additional qualification tests remain incomplete. Do not present experimental challengers as adopted production defaults or historical v1 capabilities as current v2 implementation.
 
-**Maintenance rule:** inspect the SAGA repository before using detailed or recent claims. The project repository outranks this summary for current implementation facts and metrics.
+**Maintenance rule:** inspect the SAGA repository, active phase contract and recent merged/open PRs before using detailed claims. The project repository outranks this summary for current implementation facts and metrics.
 
 ### RenderLab — AI Image/Video Creation Platform
 Authoritative repository: https://github.com/faresmohamed260/renderlab
+Production domain: https://renderlab.faresuniform.uk
 
-- Built a production-oriented AI image/video creation platform using cloud-hosted ComfyUI workflows while hiding provider/workflow complexity behind product-level generation contracts.
-- Frontend stack includes Next.js App Router, React, TypeScript, Tailwind CSS, shadcn/ui/Radix primitives and Motion; infrastructure uses Vercel, Cloudflare R2, Supabase and cloud-hosted ComfyUI/Modal workers.
-- Implemented durable server-owned generation lifecycle and result finalization so accepted jobs can complete without the initiating browser remaining open; includes idempotent reconciliation, lifecycle control, retry/cancel flows, admission limits, failover, observability and production release controls.
-- Product surface includes Create, Library/Viewer, Activity, Settings and authorized Admin workflows, with durable media, search, collections, batch organization, continuation actions, retry/cancel, invite-only admission and production authentication/email flows.
-- Verified phases include autonomous generation lifecycle, generation maintenance, creative iteration, observability/engineering quality, and a live-proved fixed 2× image-upscale capability.
+- Built a production-domain, invite-only AI image/video creation workspace over cloud-hosted ComfyUI/Modal workers while hiding workflow/provider complexity behind product-level contracts.
+- Next.js/React/TypeScript application spans Create, Library/Viewer, Activity, Settings and fresh-authorized Admin surfaces; infrastructure uses Supabase, PostgreSQL/RLS, Cloudflare R2 and Vercel.
+- Implemented browser-independent generation reconciliation and durable finalization, retry/cancel/run-again flows, admission limits, failover, sanitized failures, durable uploads/media organization and continuation actions.
+- Delivered closed-beta identity/admission, branded transactional email, profile/preferences, password/session controls, MFA, secure email change, data export/deletion and operator observability with owner-scoped authorization.
+- Production qualification uses exact-head CI, real browser journeys, fixture cleanup/non-interference, release manifests, explicit custom-domain cutover and rollback anchors.
+- Draft PR #313 proposes MiniMax H3 video support but is blocked on Modal payment/spend limits; it is not merged, deployed or a current production capability.
 
-**Maintenance rule:** inspect RenderLab `AGENTS.md`, `PROJECT.md`, and relevant current architecture/UI docs before using recent implementation, deployment or validation claims.
+**Maintenance rule:** inspect RenderLab AGENTS.md, PROJECT.md, architecture/UI docs and recent PRs before using implementation, deployment or validation claims.
 
-### Fares Uniform ERP
+### Fares Uniform — Experimental ERP and Public Website
 Authoritative repository: https://github.com/faresmohamed260/fares-uniform
+Current public staging: https://fares-uniform.vercel.app
 
-- Designing and implementing a bilingual small-business ERP for a clothing/uniform operation, using Odoo Community as the operational core rather than creating a parallel accounting/inventory ledger.
-- Scope covers finished-stock retail, offline ordinary checkout, school-uniform preorders, deposits/balances, partial collection, size-specific inventory, role/location authorization, production-demand handoff and future B2B workflows.
-- Current Phase 2B server foundation has passed its hosted gate and implements/validates an Odoo-native preorder model with attributable payments, derived balances, full-balance-before-collection enforcement, partial collection semantics, idempotent stock release and server-enforced role boundaries; the phase is still incomplete and not merged/deployed.
-- Project is operated with remote-only GitHub/hosted validation, explicit phase contracts, policy decisions, regression gates and documented source-of-truth conventions.
+- Building an experimental bilingual system for a real family uniform business, with two independent delivery tracks: an Odoo Community operational ERP and a Next.js public catalog/showcase.
+- ERP scope covers finished-stock variants/sizes, offline POS, school-uniform preorders, deposits/balances, partial collection, returns/exchanges, production-demand handoff, business-client orders, roles/locations and operational reporting.
+- Phases 0–8 are integrated; isolated staging Gate C is accepted with 149 Odoo tests, repeatable seven-addon upgrades, 8/8 public browser journeys, real POS-sync UAT, session/attachment continuity, WebSocket replay, cron locking, backup/restore and scheduled observability.
+- Public-site Phase 10 is active on draft PR #8 with engineering-green V2 content/API, R2 publication, contextual enquiry, canonical EN/AR routes, accessibility/reduced-motion, SEO/cache resilience and protected visual-review previews.
+- ERP production, public-site cutover, real-client publication and migration of real business data remain separately gated and NO-GO. Do not present the experimental system as a released SaaS product.
 
-**Maintenance rule:** inspect the active branch and phase/validation docs before using current status claims. Do not describe incomplete phases as shipped production features.
+**Maintenance rule:** inspect the active branch, PROJECT.md, PROJECT_TRACKS.md, phase/validation docs and recent PRs. Keep public-site and ERP progress separate.
 
 ### Biped Robot Control System
 Authoritative repository: https://github.com/faresmohamed260/biped-robot-control-system
@@ -131,7 +135,11 @@ For current implementation details or metrics, verify against the relevant proje
 
 ## Resume implications
 
-The current published resume variants do not yet fully represent the verified RenderLab platform work, the stronger production/reliability evidence in SAGA, or the newer biped/VisionDeck evidence. Before the next serious application, inspect the target role and update the most relevant LaTeX resume variant if these additions materially improve fit.
+- Public resume variants should say **ranked first / top of class** but omit the numerical CGPA.
+- All current role-specific variants should include SAGA, RenderLab and Fares Uniform with emphasis appropriate to the target role.
+- Present RenderLab as a production-domain closed beta; present SAGA v2 as an advanced but incomplete rebuild; present Fares Uniform as an experimental family-business system with separate ERP and public-site tracks.
+- Do not promote draft, blocked, experimental or unmerged capabilities to shipped production work.
+- Inspect the target role and the authoritative repositories before every serious application.
 
 Do not automatically add all of these projects to a one-page resume. Select the evidence that best supports the target role.
 

@@ -23,6 +23,7 @@ For project-specific claims, the authoritative project repository should be insp
 
 ## Sources
 
+- [Agentic AI Systems LaTeX Source](latex/Fares_Mohamed_Agentic_AI_Systems_Resume.tex)
 - [AI Engineer LaTeX Source](latex/Fares_Mohamed_AI_Engineer_Resume.tex)
 - [ML Engineer LaTeX Source](latex/Fares_Mohamed_ML_Engineer_Resume.tex)
 - [Robotics and Embedded AI LaTeX Source](latex/Fares_Mohamed_Robotics_Embedded_AI_Resume.tex)
@@ -38,4 +39,4 @@ For project-specific claims, the authoritative project repository should be insp
 
 `CAREER_PROFILE.md` is kept current as verified, professionally meaningful work develops. Role-specific resumes are then maintained from that factual record. Application state belongs in `APPLICATIONS.md`; durable LinkedIn strategy belongs in `LINKEDIN.md`; live LinkedIn scheduling and analytics remain in Metricool when connected.
 
-Every published resume version is intended to remain concise and application-ready.
+Every published resume version is intended to remain concise, one-page, and application-ready. The role-specific sources are compiled and page-count validated through GitHub-hosted CI; PDFs are generated outputs, while CAREER_PROFILE.md and the LaTeX files remain authoritative.
