@@ -42,6 +42,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin career/project-refresh-2026-10-04
           git add Fares_Mohamed_*_Resume.pdf
           if git diff --cached --quiet; then
             echo "Generated PDFs already match."
