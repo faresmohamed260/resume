@@ -1,5 +1,4 @@
 \documentclass[letterpaper]{article}
-
 \usepackage[margin=0.40in]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
@@ -12,81 +11,63 @@
 \setlist[itemize]{leftmargin=*, itemsep=0pt, topsep=1pt, parsep=0pt, partopsep=0pt}
 \titleformat{\section}{\normalsize\bfseries}{}{0pt}{}[\titlerule]
 \titlespacing*{\section}{0pt}{2pt}{1pt}
-
-\newcommand{\roleline}[3]{
-  \textbf{#1} \hfill #2 \\
-  \textit{#3} \\
-}
-\newcommand{\projectheader}[2]{
-  \textbf{#1} \\
-  \textit{#2} \\
-}
+\newcommand{\roleline}[3]{\textbf{#1} \hfill #2 \\\textit{#3} \\}
+\newcommand{\projectheader}[2]{\textbf{#1} \\\textit{#2} \\}
 
 \begin{document}
 \footnotesize
-
 \begin{center}
-    {\LARGE \textbf{Fares Mohamed}}\\[3pt]
-    Alexandria, Egypt \,|\, \href{mailto:faresmohamed260@gmail.com}{faresmohamed260@gmail.com} \,|\, \href{https://github.com/faresmohamed260}{github.com/faresmohamed260}\\
-    \href{https://www.linkedin.com/in/fares-mohamed-b83454194/}{linkedin.com/in/fares-mohamed-b83454194} \,|\, \textbf{AI Engineer -- Agentic AI, LLM Systems, Applied ML}
+{\LARGE \textbf{Fares Mohamed}}\\[3pt]
+Alexandria, Egypt \,|\, \href{mailto:faresmohamed260@gmail.com}{faresmohamed260@gmail.com} \,|\, \href{https://github.com/faresmohamed260}{github.com/faresmohamed260}\\
+\href{https://www.linkedin.com/in/fares-mohamed-b83454194/}{linkedin.com/in/fares-mohamed-b83454194} \,|\, \textbf{AI Engineer -- Agentic AI, LLM Systems, Applied ML}
 \end{center}
 
 \section*{Summary}
-Fresh Computer Science graduate ranked first in class (CGPA: 3.97/4.00), building agentic AI systems, retrieval-grounded LLM workflows, and production-minded AI products with Python, LangGraph, FastAPI, React, and cloud-backed data services.
+Computer Science graduate ranked first in class, building evidence-grounded AI systems, durable agent workflows, and production-minded AI products across NLP, generative media, and intelligent automation.
 
 \section*{Experience}
-\roleline{Armstrong}{2023 -- 2025}{AI \& Automation Engineer / Technical Content Creator (Part-time), Alexandria, Egypt}
+\roleline{Armstrong}{2023--2025}{AI \& Automation Engineer / Technical Content Creator (Part-time)}
 \begin{itemize}
-    \item Built AI-assisted content pipelines for the Digital Egypt Cubs Initiative (DECI), supporting a national technology-education program under Egypt's Ministry of Communications and Information Technology.
-    \item Orchestrated n8n, custom GPTs, open-source models, scripts, and visual-generation tools to produce presentations, teacher guides, videos, and other structured learning assets.
-    \item Developed robotics, AI, Arduino, circuits, and programming curricula; translated engineering concepts into classroom-ready lessons, demonstrations, and instructional media.
+\item Built AI-assisted pipelines for the Digital Egypt Cubs Initiative using n8n, custom GPTs, open-source models, scripts, and visual-generation tools to produce structured learning assets.
+\item Developed classroom-ready AI, robotics, Arduino, circuits, and programming curricula, guides, presentations, and videos.
+\end{itemize}
+\roleline{Kayfa}{Aug--Dec 2025}{AI Subject Matter Expert}
+\begin{itemize}
+\item Authored implementation-focused ML lessons, assignments, and Python notebooks covering neural networks, CNNs, clustering, anomaly detection, and unsupervised learning.
+\end{itemize}
+\roleline{Engineering for Kids-Egypt}{2023--2025}{AI \& Robotics Instructor (Seasonal)}
+\begin{itemize}
+\item Taught students aged 11--16 AI, robotics, Python, C++, Arduino, and circuits through project-based programs.
 \end{itemize}
 
-\roleline{Kayfa}{Aug 2025 -- Dec 2025}{AI Subject Matter Expert, Alexandria, Egypt}
+\section*{Selected Projects}
+\projectheader{S.A.G.A. -- Narrative Intelligence Platform}{Python, NLP, FastAPI, LangGraph, Supabase/Postgres, B2}
 \begin{itemize}
-    \item Authored implementation-focused lessons, assignments, and Python notebooks covering machine learning, neural networks, CNNs, clustering, anomaly detection, and unsupervised learning.
-    \item Connected theory to practical model-building workflows through exercises, visual explanations, and structured technical assessments.
+\item Architected a web-first, local-analysis platform for evidence-linked characters, dialogue, events, relationships, state, and time; built durable jobs/provenance and provider-neutral evaluation contracts.
+\item Measured deterministic quote detection at 0.8563 F1 and a BookNLP event-trigger challenger at 0.7791 F1 while keeping experimental evidence separate from adopted product truth.
 \end{itemize}
-
-\roleline{Engineering for Kids-Egypt}{2023 -- 2025}{AI \& Robotics Instructor (Seasonal), Alexandria, Egypt}
+\projectheader{RenderLab -- AI Image/Video Creative Workspace}{Next.js, React, TypeScript, Supabase, R2, ComfyUI, Modal}
 \begin{itemize}
-    \item Taught students aged 11--16 robotics, AI, Arduino, circuits, Python, and C++ through project-based seasonal programs.
-    \item Guided hardware/software builds from circuit assembly and sensor integration to programming, testing, debugging, and live demonstrations.
+\item Built a production-domain closed beta with server-owned generation reconciliation, durable media, retry/cancel/failover, continuation actions, owner-scoped accounts, MFA, sessions, exports, and guarded releases.
 \end{itemize}
-
-\section*{Projects}
-\projectheader{SAGA: Agentic Narrative Intelligence Platform}{Python, LangGraph, FastAPI, React, Supabase/Postgres, pgvector}
-\href{https://github.com/faresmohamed260/saga}{github.com/faresmohamed260/saga}\\
+\projectheader{Fares Uniform -- Experimental ERP \& Public Website}{Odoo 19, Python, Next.js, PostgreSQL, Playwright}
 \begin{itemize}
-    \item Architected LangGraph workflows for book ingestion, identity resolution, canon extraction, character/world modeling, generation planning, and hybrid retrieval over structured narrative memory.
-    \item Built typed tool contracts, persistent checkpoints, resumable jobs, structured traces, and automated validation; delivered a React + FastAPI dashboard over Supabase/Postgres, pgvector, and object storage.
+\item Engineered bilingual offline POS, preorders/payments, production and B2B workflows plus a separate public-site track; verified 149 Odoo tests, seven-addon upgrades, 8/8 browser journeys, UAT, recovery, and staging observability.
 \end{itemize}
-
-\projectheader{ComfyUI Generative Media Workflow System}{ComfyUI, Z-Image, Qwen-Image, FLUX.2 Klein, ControlNet, LoRA, Modal}
+\projectheader{DUM-E -- ESP32 Robotic Arm Platform}{Python, C++, ESP32, Streamlit}
 \begin{itemize}
-    \item Built and iterated 10 local node graphs across 130 saved renders for reference-consistent character sheets, asset/location generation, multi-reference editing, pose/line/depth guidance, layered RGBA output, face replacement/restoration, and background removal.
-    \item Operationalized Z-Image workflows in SAGA through Modal GPU endpoints with runtime prompt/seed/dimension injection, workflow sync/catalogs, persistent model caches, prefetch and warmup, health monitoring, and account failover.
-\end{itemize}
-
-\projectheader{DUM-E: ESP32 Robotic Arm Platform}{Python, C++, ESP32, Streamlit, Robotics}
-\href{https://github.com/faresmohamed260/DUM-E}{github.com/faresmohamed260/DUM-E}\\
-\begin{itemize}
-    \item Built an ESP32 robotic arm platform with calibration, manual control, sequence recording, controller mapping, and FK/IK-assisted pick-and-place execution.
+\item Built calibration, manual control, controller mapping, sequence recording, and FK/IK-assisted pick-and-place workflows.
 \end{itemize}
 
 \section*{Education}
-\textbf{Alexandria University, Faculty of Computer and Data Science} \hfill 2022 -- 2026\\
-B.Sc. Computer Science (Intelligent Systems) \,|\, \textbf{Class Rank: 1st} \,|\, \textbf{CGPA: 3.97/4.00}
+\textbf{Alexandria University, Faculty of Computer and Data Science} \hfill 2022--2026\\
+B.Sc. Computer Science (Intelligent Systems) \,|\, \textbf{Class Rank: 1st}
 
 \section*{Skills}
-\textbf{Engineering:} Python, C++, FastAPI, React, Streamlit, SQL, Docker, pytest, Git, REST APIs\\
-\textbf{AI Systems:} LangGraph, LLM orchestration, tool calling, structured outputs, RAG, hybrid retrieval, prompt engineering, NLP, computer vision\\
-\textbf{Generative Media:} ComfyUI, Z-Image, Qwen-Image, FLUX.2, ControlNet, LoRA, reference conditioning, workflow automation\\
-\textbf{Data \& Infrastructure:} PostgreSQL, Supabase, pgvector, SQLAlchemy, Modal, Docker, pytest, n8n\\
-\textbf{Embedded:} Arduino, ESP32, sensors, circuits, FK/IK-assisted motion workflows \,|\, \textbf{Languages:} Arabic, English
+\textbf{AI:} LangGraph, LLM orchestration, tool calling, structured outputs, RAG, NLP, computer vision, diffusion workflows\\
+\textbf{Engineering:} Python, C++, FastAPI, Next.js/React, SQL, Docker, pytest, Playwright, REST APIs\\
+\textbf{Data/Cloud:} PostgreSQL, Supabase, pgvector, Backblaze B2, Cloudflare R2, Modal, Vercel, n8n \,|\, \textbf{Languages:} Arabic, English
 
 \section*{Leadership \& Certifications}
-\textbf{Head of AI Committee, ElCoder} -- Led workshops on AI and machine learning fundamentals.\\
-Machine Learning Specialization \,|\, Deep Learning Specialization \,|\, Google Cloud Big Data and Machine Learning Fundamentals
-
+\textbf{Head of AI Committee, ElCoder} -- Led AI/ML workshops. \,|\, Machine Learning Specialization \,|\, Deep Learning Specialization \,|\, Google Cloud Big Data \& ML Fundamentals
 \end{document}
