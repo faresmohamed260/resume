@@ -112,7 +112,7 @@ For current implementation details or metrics, verify against the relevant proje
 
 **Engineering:** Python, C++, FastAPI, React, Next.js, TypeScript, Streamlit, SQL, REST APIs, Docker, pytest, Git, CI/CD concepts
 
-**AI systems:** LangGraph, LLM orchestration, tool calling, structured outputs, RAG, hybrid retrieval, prompt engineering, NLP, computer vision, evaluation/qualification workflows
+**AI systems:** LangGraph, LLM orchestration, tool calling, structured outputs, RAG, hybrid retrieval, prompt engineering, NLP, computer vision, evaluation/qualification workflows, Google AgentSpace
 
 **Generative media:** ComfyUI, Z-Image, Qwen-Image, FLUX.2, ControlNet, LoRA, reference conditioning, workflow automation, image/video generation pipelines
 

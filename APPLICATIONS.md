@@ -21,7 +21,7 @@ Use concise statuses where possible:
 - Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Entry-level role seeking 1–3 years or equivalent AI application experience; strong alignment with Python, PyTorch/TensorFlow-adjacent ML work, computer vision, NLP, backend integration, testing, documentation, and production-minded AI systems.
 - Compensation: Application asks whether the candidate is comfortable with USD 300–500; no interval or basis is stated in the listing.
-- Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Google AgentSpace implementation experience is not established, so answer `No`. Fares authorized reasonable capability-based answers but not fabricated prior experience. Salary is not a decision constraint. Phone number remains unavailable in the career repository and all current resume PDFs.
+- Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Fares directly confirmed experience with Google AgentSpace, so answer `Yes`. Salary is not a decision constraint. Phone number remains unavailable in the career repository and all current resume PDFs.
 - Recruiter/contact:
 - Next action: Complete the prepared application after Fares supplies the required phone number and completes the reCAPTCHA if requested.
 - Follow-up date:
