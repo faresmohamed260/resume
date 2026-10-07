@@ -21,28 +21,28 @@ Use concise statuses where possible:
 - Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Entry-level role seeking 1–3 years or equivalent AI application experience; strong alignment with Python, PyTorch/TensorFlow-adjacent ML work, computer vision, NLP, backend integration, testing, documentation, and production-minded AI systems.
 - Compensation: Application asks whether the candidate is comfortable with USD 300–500; no interval or basis is stated in the listing.
-- Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Fares directly confirmed experience with Google AgentSpace, so answer `Yes`. Salary is not a decision constraint. Phone number remains unavailable in the career repository and all current resume PDFs.
+- Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Fares directly confirmed experience with Google AgentSpace, so answer `Yes`. Salary is not a decision constraint. Phone: +20 120 554 9916.
 - Recruiter/contact:
-- Next action: Complete the prepared application after Fares supplies the required phone number and completes the reCAPTCHA if requested.
+- Next action: Resume is attached and all fields are complete; complete the reCAPTCHA and submit.
 - Follow-up date:
 - Notes: Official listing verified live on 2026-10-08. Remote, full-time, entry level.
 
 ### WyvTech — Junior AI Engineer
-- Status: preparing
+- Status: applied
 - Location: Canada / Egypt / Remote
 - Work mode: Full-time; remote is explicitly offered
 - Source: WyvTech official careers page
 - Job URL: https://wyvtech.com/careers.html
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used: Planned public link to `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-08
+- Resume used: Public GitHub link to `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong match for agentic AI, RAG, Python, computer vision, data pipelines, and production/reliability evidence. The role accepts 1–3 years or an equivalent strong portfolio.
 - Compensation:
 - Important screening answers: Application requires name, email, phone, resume/CV link, and LinkedIn/GitHub URL. All resume variants were checked and contain no phone number.
 - Recruiter/contact: hr@wyvtech.com
-- Next action: Complete the prepared application after Fares supplies the required phone number.
-- Follow-up date:
-- Notes: Official listing verified live on 2026-10-08. Submission was attempted on 2026-10-08 with the AI Engineer resume link, but the form blocked because Phone Number is mandatory; no application was sent.
+- Next action: Monitor for confirmation or recruiter response; follow up with HR if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Official listing verified live on 2026-10-08. Application submitted successfully through the employer's Formspree-backed careers form on 2026-10-08.
 
 ### Damashqi Digital Solutions — Artificial Intelligence Engineer
 - Status: shortlisted
