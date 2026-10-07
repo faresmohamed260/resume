@@ -11,21 +11,21 @@ Use concise statuses where possible:
 ## Active applications
 
 ### iHorizons — AI Engineer
-- Status: preparing
+- Status: applied
 - Location: Remote
 - Work mode: Remote, full-time
 - Source: iHorizons official JazzHR career page
 - Job URL: https://ihorizons.applytojob.com/apply/2zj6KozKMv/AI-Engineer
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Entry-level role seeking 1–3 years or equivalent AI application experience; strong alignment with Python, PyTorch/TensorFlow-adjacent ML work, computer vision, NLP, backend integration, testing, documentation, and production-minded AI systems.
 - Compensation: Application asks whether the candidate is comfortable with USD 300–500; no interval or basis is stated in the listing.
 - Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Fares directly confirmed experience with Google AgentSpace, so answer `Yes`. Salary is not a decision constraint. Phone: +20 120 554 9916.
 - Recruiter/contact:
-- Next action: Resume is attached and all fields are complete; complete the reCAPTCHA and submit.
-- Follow-up date:
-- Notes: Official listing verified live on 2026-10-08. Remote, full-time, entry level.
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Official listing verified live on 2026-10-08. Remote, full-time, entry level. JazzHR displayed `Your application has been received` after submission on 2026-10-08.
 
 ### WyvTech — Junior AI Engineer
 - Status: applied
