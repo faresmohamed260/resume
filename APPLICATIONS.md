@@ -10,6 +10,40 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### Sana Commerce — Software Engineer AI
+- Status: preparing
+- Location: Alexandria, Egypt
+- Work mode: Hybrid, full-time; three office days and two home days per week
+- Source: Sana Commerce official SmartRecruiters page
+- Job URL: https://jobs.smartrecruiters.com/SanaCommerce/744000151388434-software-engineer-ai-alexandria
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Exceptional technical match for production-grade AI agents, RAG, structured outputs, evaluation gates, failure recovery, observability, LLMOps, Python/FastAPI, PostgreSQL, Docker, and full-stack AI delivery. The four-plus years of web-engineering experience is a tenure stretch.
+- Compensation: Negotiable in EGP and aligned with the role and total compensation package.
+- Important screening answers: Near-native English: yes. Authorized to work in Egypt: yes. Sponsorship required: no. Able to work the stated Alexandria hybrid schedule: yes. Professional web/backend/full-stack experience: less than two years. Professional AI engineering: production systems using RAG, AI agents, LLM orchestration, evaluation, or LLMOps. Listed prior-company categories: none of the above.
+- Recruiter/contact:
+- Next action: Submit the completed SmartRecruiters application after final action-time confirmation.
+- Follow-up date:
+- Notes: Official vacancy verified live on 2026-10-08. All required fields, resume upload, links, tailored message, screening answers, declarations, and privacy consent are completed; the browser is paused at the final Submit button.
+
+### Pass Technology — AI Engineer, LLM & AI Agents
+- Status: preparing
+- Location: Cairo, Egypt listing; advertised as remote
+- Work mode: Remote, full-time
+- Source: Wuzzuf
+- Job URL: https://wuzzuf.net/jobs/p/sfiyszvm1gmq-ai-engineer-llm-ai-agents-tech-technology-cairo-egypt
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Very close technical match for LLM agents, multi-step workflows, RAG, conversational memory, tool calling, structured outputs, FastAPI, PostgreSQL, guardrails, and AI evaluation. The stated 3–7 years is a tenure stretch.
+- Compensation: Wuzzuf displays 600–1,000 EGP per month, which appears anomalous and should be verified if the employer advances the application.
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Log in to or create a Wuzzuf candidate account, then prepare and submit if the application remains active.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08 and posted two days earlier. The Wuzzuf application action did not proceed while browsing as a signed-out visitor.
+
 ### iHorizons — AI Engineer
 - Status: applied
 - Location: Remote
@@ -62,7 +96,7 @@ Use concise statuses where possible:
 - Notes: Listing was about three months old and showed 200+ applicants when checked on 2026-10-08; third-party aggregation listed a 2026-10-09 deadline.
 
 ### Madar Soft — AI Engineer (Computer Vision, Speech, NLP & Generative AI)
-- Status: shortlisted
+- Status: closed
 - Location: Fleming, Alexandria, Egypt
 - Work mode: Remote, full-time
 - Source: Wuzzuf
@@ -74,9 +108,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers:
 - Recruiter/contact:
-- Next action: Apply after higher-probability iHorizons and WyvTech applications if the Wuzzuf listing remains active.
+- Next action: None unless the role is reposted.
 - Follow-up date:
-- Notes: Listing showed remote/full-time and had been posted about five months earlier when checked on 2026-10-08.
+- Notes: Wuzzuf showed the listing as closed when rechecked on 2026-10-08; the page said it had been posted about seven months earlier.
 
 ## Application record format
 
