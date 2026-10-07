@@ -21,9 +21,9 @@ Use concise statuses where possible:
 - Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Entry-level role seeking 1–3 years or equivalent AI application experience; strong alignment with Python, PyTorch/TensorFlow-adjacent ML work, computer vision, NLP, backend integration, testing, documentation, and production-minded AI systems.
 - Compensation: Application asks whether the candidate is comfortable with USD 300–500; no interval or basis is stated in the listing.
-- Important screening answers: Arabic fluency is verified. Form asks for professional experience excluding internships, freelance, and part-time work; answer requires confirmation. Google AgentSpace experience is not established. Phone number and salary response require confirmation.
+- Important screening answers: Arabic fluency is verified. Use `0.5-2 Years` for professional experience excluding internships, freelance, and part-time work, based on the Aug-Dec 2025 Kayfa role and the form's available ranges. Google AgentSpace implementation experience is not established, so answer `No`. Fares authorized reasonable capability-based answers but not fabricated prior experience. Salary is not a decision constraint. Phone number remains unavailable in the career repository and all current resume PDFs.
 - Recruiter/contact:
-- Next action: Complete the prepared application after Fares confirms the missing screening details and final submission.
+- Next action: Complete the prepared application after Fares supplies the required phone number and completes the reCAPTCHA if requested.
 - Follow-up date:
 - Notes: Official listing verified live on 2026-10-08. Remote, full-time, entry level.
 
@@ -38,11 +38,11 @@ Use concise statuses where possible:
 - Resume used: Planned public link to `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong match for agentic AI, RAG, Python, computer vision, data pipelines, and production/reliability evidence. The role accepts 1–3 years or an equivalent strong portfolio.
 - Compensation:
-- Important screening answers: Application requires name, email, phone, resume/CV link, and LinkedIn/GitHub URL. Phone number requires confirmation.
+- Important screening answers: Application requires name, email, phone, resume/CV link, and LinkedIn/GitHub URL. All resume variants were checked and contain no phone number.
 - Recruiter/contact: hr@wyvtech.com
-- Next action: Complete the prepared application after Fares confirms phone number and final submission.
+- Next action: Complete the prepared application after Fares supplies the required phone number.
 - Follow-up date:
-- Notes: Official listing verified live on 2026-10-08.
+- Notes: Official listing verified live on 2026-10-08. Submission was attempted on 2026-10-08 with the AI Engineer resume link, but the form blocked because Phone Number is mandatory; no application was sent.
 
 ### Damashqi Digital Solutions — Artificial Intelligence Engineer
 - Status: shortlisted
