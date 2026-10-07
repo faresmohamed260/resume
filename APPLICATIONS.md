@@ -10,6 +10,23 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### The HR Game — Junior AI Engineer
+- Status: preparing
+- Location: Egypt; Cairo preferred
+- Work mode: Remote, full-time; 9:00 AM–5:00 PM with Friday and Saturday off
+- Source: Official Workable listing
+- Job URL: https://jobs.workable.com/view/gK2NF7pNpMF9nKVAA2HoLm/remote-junior-ai-engineer-in-egypt-at-company
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, computer vision, LLMs, generative AI, PyTorch, TensorFlow, and scikit-learn. The minimum two years of AI/ML experience is a moderate tenure stretch; AEC or construction-technology experience and BIM/Revit knowledge are preferred rather than mandatory.
+- Compensation:
+- Important screening answers: The application only requests name, email, phone, Alexandria address, and resume.
+- Recruiter/contact:
+- Next action: Submit the completed Workable application after final action-time confirmation.
+- Follow-up date:
+- Notes: Official listing verified live on 2026-10-08. The form is complete with `Fares_Mohamed_ML_Engineer_Resume.pdf` uploaded and is paused at the final Submit application button.
+
 ### Sana Commerce — Software Engineer AI
 - Status: applied
 - Location: Alexandria, Egypt
