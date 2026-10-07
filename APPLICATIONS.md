@@ -11,21 +11,21 @@ Use concise statuses where possible:
 ## Active applications
 
 ### Sana Commerce — Software Engineer AI
-- Status: preparing
+- Status: applied
 - Location: Alexandria, Egypt
 - Work mode: Hybrid, full-time; three office days and two home days per week
 - Source: Sana Commerce official SmartRecruiters page
 - Job URL: https://jobs.smartrecruiters.com/SanaCommerce/744000151388434-software-engineer-ai-alexandria
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Exceptional technical match for production-grade AI agents, RAG, structured outputs, evaluation gates, failure recovery, observability, LLMOps, Python/FastAPI, PostgreSQL, Docker, and full-stack AI delivery. The four-plus years of web-engineering experience is a tenure stretch.
 - Compensation: Negotiable in EGP and aligned with the role and total compensation package.
 - Important screening answers: Near-native English: yes. Authorized to work in Egypt: yes. Sponsorship required: no. Able to work the stated Alexandria hybrid schedule: yes. Professional web/backend/full-stack experience: less than two years. Professional AI engineering: production systems using RAG, AI agents, LLM orchestration, evaluation, or LLMOps. Listed prior-company categories: none of the above.
 - Recruiter/contact:
-- Next action: Submit the completed SmartRecruiters application after final action-time confirmation.
-- Follow-up date:
-- Notes: Official vacancy verified live on 2026-10-08. All required fields, resume upload, links, tailored message, screening answers, declarations, and privacy consent are completed; the browser is paused at the final Submit button.
+- Next action: Monitor for the confirmation email or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Official vacancy verified live on 2026-10-08. SmartRecruiters displayed `Application submitted!` and confirmed that the application was submitted successfully on 2026-10-08.
 
 ### Pass Technology — AI Engineer, LLM & AI Agents
 - Status: preparing
