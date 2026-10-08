@@ -40,9 +40,9 @@ Use concise statuses where possible:
 - Compensation: Listing displays USD 20–100 per hour.
 - Important screening answers: The official listing describes a flexible remote coding role that evaluates and improves AI-generated software.
 - Recruiter/contact:
-- Next action: In Brave, open `brave://extensions`, choose Details for the ChatGPT extension, and enable `Allow access to file URLs`; then upload the resume and complete the Alignerr profile/application.
+- Next action: Complete the required legal gender and date-of-birth fields, then finish the remaining profile/application steps.
 - Follow-up date:
-- Notes: Google sign-in completed and reached Alignerr's resume-upload page. The application could not proceed because Brave blocked the file chooser until the ChatGPT extension is granted local-file access.
+- Notes: Google sign-in completed. `Fares_Mohamed_AI_Engineer_Resume.pdf` uploaded successfully on 2026-10-08 and Alignerr parsed the legal name as Fares Mohamed. The next required fields are legal gender and date of birth, which are not recorded in authoritative career sources.
 
 ### iBrokerage Ltd. — AI & API Integration Developer
 - Status: shortlisted
