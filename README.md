@@ -20,6 +20,7 @@ For project-specific claims, the authoritative project repository should be insp
 - [AI Engineer Resume](Fares_Mohamed_AI_Engineer_Resume.pdf)
 - [ML Engineer Resume](Fares_Mohamed_ML_Engineer_Resume.pdf)
 - [Robotics and Embedded AI Resume](Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
+- [AI Subject Matter Expert and Technical Instructor Resume](Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf)
 
 ## Sources
 
@@ -27,6 +28,7 @@ For project-specific claims, the authoritative project repository should be insp
 - [AI Engineer LaTeX Source](latex/Fares_Mohamed_AI_Engineer_Resume.tex)
 - [ML Engineer LaTeX Source](latex/Fares_Mohamed_ML_Engineer_Resume.tex)
 - [Robotics and Embedded AI LaTeX Source](latex/Fares_Mohamed_Robotics_Embedded_AI_Resume.tex)
+- [AI Subject Matter Expert and Technical Instructor LaTeX Source](latex/Fares_Mohamed_AI_SME_Technical_Instructor_Resume.tex)
 
 ## Profiles
 
