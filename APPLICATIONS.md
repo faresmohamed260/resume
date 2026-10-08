@@ -180,6 +180,176 @@ Use concise statuses where possible:
 - Follow-up date:
 - Notes: Wuzzuf showed the listing as closed when rechecked on 2026-10-08; the page said it had been posted about seven months earlier.
 
+### Aptendo — Artificial Intelligence Engineer
+- Status: preparing
+- Location: EMEA
+- Work mode: Remote, contract
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4471995660
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, PyTorch/TensorFlow/scikit-learn, LLM and RAG systems, computer vision/NLP, cloud deployment, CI/CD, Docker, Kubernetes, and MLOps. The stated three-plus years is a tenure stretch.
+- Compensation:
+- Important screening answers: AI experience: 2 years. Comfortable working remotely: yes.
+- Recruiter/contact:
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The application is at LinkedIn's final review page.
+
+### Hire Feed — AI Engineer, Generative AI
+- Status: preparing
+- Location: EMEA
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4466099788
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, SQL, LangChain-style orchestration, RAG, prompt engineering, embeddings, vector databases, agent workflows, and cloud platforms. The listing describes the underlying opening as a Senior LLM Engineer, making seniority a stretch.
+- Compensation:
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The application is at the final submit step.
+
+### Crossing Hurdles — Software Engineer, AI Evaluation
+- Status: preparing
+- Location: EMEA
+- Work mode: Remote contract, 10–40 hours per week
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4473859219
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent match for creating coding tasks for AI systems, deterministic verifiers, scalable services and APIs, debugging, performance optimization, code review, algorithms, data structures, Python, C++, and TypeScript.
+- Compensation: Listing displays USD 30–100 per hour.
+- Important screening answers: LinkedIn work history and Alexandria University education are included in the prepared application.
+- Recruiter/contact: Sankalp Chhabra, job poster on LinkedIn.
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08 and posted five days earlier. The application is at LinkedIn's final review page.
+
+### Quik Hire Staffing — Machine Learning Engineer
+- Status: preparing
+- Location: EMEA
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4467460078
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, PyTorch/TensorFlow, data pipelines, feature engineering, model evaluation and optimization, SQL, Git, cloud deployment, and MLOps.
+- Compensation:
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The application is at the final submit step.
+
+### Hired — Machine Learning Engineer, Computer Vision
+- Status: preparing
+- Location: EMEA
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4466310694
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical match for Python, PyTorch, Keras, scikit-learn, supervised and unsupervised learning, preprocessing, feature engineering, model tuning, computer vision, and end-to-end ML delivery. The requested four-plus years is a tenure stretch.
+- Compensation:
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The application is at the final submit step.
+
+### British Business Review / Meridian Review Group — Software Engineer
+- Status: preparing
+- Location: Remote worldwide; optional London, Prague, or Costa Rica offices
+- Work mode: Remote, full-time or long-term contract
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4471763797
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent match for TypeScript, JavaScript, React, Next.js, Node.js, SQL, REST APIs, structured data, AI APIs, automation workflows, data pipelines, research tooling, and high-ownership product development. The compensation and scope suggest a seniority stretch, although the listing explicitly prioritizes demonstrated building ability over a rigid checklist.
+- Compensation: Listing states USD 9,000–12,000 per month depending on experience.
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Submit the prepared LinkedIn application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The application is at LinkedIn's final review page.
+
+### ErthDev — AI / ML Engineer
+- Status: preparing
+- Location: Egypt
+- Work mode: Fully remote, part-time
+- Source: ErthDev official careers page
+- Job URL: https://erthdev.com/ar/careers/ai-ml-engineer
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent match for practical AI/ML product features, model and prompt evaluation, data and inference pipelines, API integration, Python, PyTorch, scikit-learn, vector search, LLM frameworks, monitoring, privacy, and failure analysis.
+- Compensation:
+- Important screening answers: Portfolio link uses Fares's GitHub. A tailored statement emphasizes reliable AI workflows, evaluation, privacy, maintainability, agentic systems, RAG, automation, and computer vision.
+- Recruiter/contact:
+- Next action: Submit the completed official application after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live and prepared on 2026-10-08. Resume is attached and all required fields are complete.
+
+### Techlumas Solutions — AI/ML Engineer
+- Status: preparing
+- Location: Worldwide
+- Work mode: Remote, full-time
+- Source: Techlumas official careers page
+- Job URL: https://techlumas.com/careers/ai-ml-engineer/
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Public GitHub link to `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent match for Python, LangChain-style orchestration, OpenAI-compatible APIs, RAG, PyTorch, vector databases, FastAPI, MLOps, Docker, LLM integrations, agents, and custom ML models. The stated three-plus years is a tenure stretch.
+- Compensation:
+- Important screening answers: Experience: 2 years. Portfolio: LinkedIn. Resume: public GitHub PDF. Tailored statement focuses on production-minded LLM integrations, RAG, agents, vector search, FastAPI, Docker, evaluation, and reliability.
+- Recruiter/contact: hr@techlumas.com is listed on the company site.
+- Next action: Complete the site's security verification and submit after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live and prepared on 2026-10-08. All application fields are complete; only the verification and final submit remain.
+
+### FreshTalent — AI Engineer
+- Status: preparing
+- Location: Northern Africa, including Egypt
+- Work mode: Remote independent contract; about 15 hours per week with flexible schedule
+- Source: FreshTalent official Pitch N Hire page
+- Job URL: https://jobs.pitchnhire.com/freshtalent.africa/ai-engineer-clone-gktnT/019f603b-9790-7aa0-b3ab-0bfc71eb6d8e
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent match for Python, C++, TypeScript, MCP tool discovery, agent evaluation, reinforcement-learning environments, deterministic verification, debugging, refactoring, performance optimization, algorithms, data structures, code review, and AI/LLM systems.
+- Compensation: Listing states USD 60–120 per hour equivalent, with output-based task payment rather than a guaranteed hourly salary.
+- Important screening answers:
+- Recruiter/contact:
+- Next action: Create the required free candidate account with Google, complete screening, and submit after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The role lists 100 openings and one to ten years of experience. The official platform requires a candidate account before the application can proceed.
+
+### FEKRA — AI Engineer
+- Status: preparing
+- Location: Remote, Dubai business hours
+- Work mode: Remote, full-time
+- Source: FEKRA official careers page
+- Job URL: https://www.fekra-egy.com/careers/ai-engineer
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical match for Python, PyTorch/TensorFlow-adjacent work, NLP, LLMs, multimodal systems, data and training workflows, deployment, model optimization, and responsible AI. The stated five-plus years of professional AI/ML experience makes this a substantial seniority stretch.
+- Compensation:
+- Important screening answers: Location: Alexandria, Egypt. LinkedIn profile and contact information are entered truthfully.
+- Recruiter/contact: info@fekra-egy.com is listed on the company site.
+- Next action: Complete the visible verification check and submit after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live and prepared on 2026-10-08. Resume is attached, privacy consent is checked, and Cloudflare verification shows success; only the additional arithmetic check and final submit remain.
+
 ## Application record format
 
 Add one section per serious opportunity:
