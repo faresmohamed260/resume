@@ -367,6 +367,91 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-15
 - Notes: Verified live on 2026-10-08. FEKRA displayed `Thank you — your application has been received` after the security check and submission on 2026-10-08.
 
+### Smeetz — AI Product Engineer (Full-stack, Backend Oriented)
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4472775518
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical match for agentic applications, tool surfaces, RAG, evaluation, reliable backend workflows, Python/FastAPI, TypeScript, PostgreSQL, Docker, API design, and production-minded AI systems. The requirement for five-plus years shipping production code and owning an on-call system is a substantial seniority stretch.
+- Compensation: Application answer: EUR 2,250 gross monthly.
+- Important screening answers: Five-plus years of professional production-code and on-call ownership: no. Based in Egypt: yes. A tailored cover letter described SAGA, RenderLab, agentic systems, evaluation, guardrails, and reliability work without overstating tenure.
+- Recruiter/contact:
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live and posted one week earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
+### QNT Partners — Software Engineer
+- Status: applied
+- Location: EMEA
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4476167822
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Adjacent software-engineering opportunity with a current remote EMEA scope. Fares's C++, Python, backend, systems, and applied-AI experience are relevant; quantitative-finance and verified Linux work experience are gaps.
+- Compensation:
+- Important screening answers: Quantitative Finance: 0 years. C++: 2 years. Linux: 0 years.
+- Recruiter/contact:
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live, posted two days earlier, and marked as actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
+### Gaming Corps — Full Stack Engineer
+- Status: applied
+- Location: EMEA
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4465206072
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent match for TypeScript/JavaScript, React/Next.js, backend APIs, SQL/PostgreSQL, debugging, production support, and full-stack product development. The listing describes a senior role requiring five-plus years, making tenure a substantial stretch.
+- Compensation:
+- Important screening answers: Willing to undergo a lawful background check: yes. Gambling-facilities and casino experience: 0 years. English proficiency: professional.
+- Recruiter/contact: Tricia Mae Galea, Head of Human Resources and LinkedIn job poster.
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live and posted three weeks earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
+### Mindrift — Senior Python Data Scraping Engineer (Freelance)
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, part-time freelance
+- Source: LinkedIn Easy Apply, application powered by Workable
+- Job URL: https://www.linkedin.com/jobs/view/4475308467
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Relevant match for Python, structured data pipelines, unstructured-content processing, validation, automation, and reliable remote technical delivery. Direct senior-level web-scraping and Apify experience are not established in the career record, so the title and specialty are a stretch.
+- Compensation:
+- Important screening answers: A tailored cover letter emphasized Python, applied ML/NLP, data processing, evaluation, automation, structured pipelines, and reproducible remote work without claiming unverified scraping experience.
+- Recruiter/contact:
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live, posted five days earlier, and displayed three applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
+### Gramian Consulting — Staff Research Engineer, AI & Machine Learning
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, contract
+- Source: LinkedIn Easy Apply, application powered by Workable
+- Job URL: https://www.linkedin.com/jobs/view/4473543935
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical relevance for AI agents, tool-using systems, evaluation and benchmarks, applied ML, Python, and production-oriented AI engineering. The staff research title, advanced-degree preference, and research expectations make seniority a substantial stretch.
+- Compensation: Application answer: USD 15 per hour, negotiable.
+- Important screening answers: Hands-on areas: AI evaluation/benchmarks and AI agents/tool-using systems. Research background: primarily engineering/production ML systems. PhD or master's degree: no. LinkedIn profile supplied.
+- Recruiter/contact:
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live and posted one week earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
 ## Application record format
 
 Add one section per serious opportunity:
