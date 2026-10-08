@@ -181,21 +181,21 @@ Use concise statuses where possible:
 - Notes: Wuzzuf showed the listing as closed when rechecked on 2026-10-08; the page said it had been posted about seven months earlier.
 
 ### Aptendo — Artificial Intelligence Engineer
-- Status: preparing
+- Status: applied
 - Location: EMEA
 - Work mode: Remote, contract
 - Source: LinkedIn Easy Apply
 - Job URL: https://www.linkedin.com/jobs/view/4471995660
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong match for Python, PyTorch/TensorFlow/scikit-learn, LLM and RAG systems, computer vision/NLP, cloud deployment, CI/CD, Docker, Kubernetes, and MLOps. The stated three-plus years is a tenure stretch.
 - Compensation:
 - Important screening answers: AI experience: 2 years. Comfortable working remotely: yes.
 - Recruiter/contact:
-- Next action: Submit the prepared LinkedIn application after action-time confirmation.
-- Follow-up date:
-- Notes: Verified live on 2026-10-08. The application is at LinkedIn's final review page.
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: Verified live on 2026-10-08. LinkedIn displayed `Application submitted` and `Your application was sent to Aptendo` when rechecked on 2026-10-08.
 
 ### Hire Feed — AI Engineer, Generative AI
 - Status: preparing
