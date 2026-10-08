@@ -42,7 +42,7 @@ Use concise statuses where possible:
 - Recruiter/contact:
 - Next action: In Brave, open `brave://extensions`, choose Details for the ChatGPT extension, and enable `Allow access to file URLs`; then upload the resume and complete the Alignerr profile/application.
 - Follow-up date:
-- Notes: Google sign-in completed with Fares's primary career Google account and reached Alignerr's resume-upload page. The application could not proceed because Brave blocked the file chooser until the ChatGPT extension is granted local-file access.
+- Notes: Google sign-in completed and reached Alignerr's resume-upload page. The application could not proceed because Brave blocked the file chooser until the ChatGPT extension is granted local-file access.
 
 ### iBrokerage Ltd. — AI & API Integration Developer
 - Status: shortlisted
