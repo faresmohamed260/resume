@@ -10,6 +10,23 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### iBrokerage Ltd. — AI & API Integration Developer
+- Status: shortlisted
+- Location: Cairo, Egypt listing; employer is based in Toronto, Canada
+- Work mode: Remote, full-time
+- Source: Wuzzuf
+- Job URL: https://wuzzuf.net/jobs/p/izzdd2byxhfw-ai-api-integration-developer-full-time-remote-ibrokerage-ltd-cairo-egypt
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent technical match for AI agents, assistants, RAG, function and tool calling, REST APIs, webhooks, Python, TypeScript, multimodal generation, document intelligence, authentication, secure integrations, CI/CD, testing, monitoring, and production web architecture. The stated 3–5 years is a tenure stretch, and direct electronic-signature and telephony API experience are gaps.
+- Compensation: 22,000–25,000 EGP per month as displayed by Wuzzuf.
+- Important screening answers: The listing says only applications with complete, detailed screening answers will be considered.
+- Recruiter/contact: Employer website lists info@ibrokerage.ca and support@ibrokerage.ca; the official application route is Wuzzuf.
+- Next action: Complete the detailed Wuzzuf screening questions after candidate-account access is available.
+- Follow-up date:
+- Notes: Verified live on 2026-10-08. The vacancy is remote and was displayed as posted one month ago on the live page; a fresh search index described it as posted one day ago, so the posting-age metadata is inconsistent.
+
 ### The HR Game — Junior AI Engineer
 - Status: applied
 - Location: Egypt; Cairo preferred
