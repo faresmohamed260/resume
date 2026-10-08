@@ -317,7 +317,7 @@ Use concise statuses where possible:
 - Notes: Verified live and prepared on 2026-10-08. All application fields are complete; only the verification and final submit remain.
 
 ### FreshTalent — AI Engineer
-- Status: preparing
+- Status: closed
 - Location: Northern Africa, including Egypt
 - Work mode: Remote independent contract; about 15 hours per week with flexible schedule
 - Source: FreshTalent official Pitch N Hire page
@@ -329,9 +329,26 @@ Use concise statuses where possible:
 - Compensation: Listing states USD 60–120 per hour equivalent, with output-based task payment rather than a guaranteed hourly salary.
 - Important screening answers:
 - Recruiter/contact:
-- Next action: Create the required free candidate account with Google, complete screening, and submit after action-time confirmation.
+- Next action: None unless the role is reposted.
 - Follow-up date:
-- Notes: Verified live on 2026-10-08. The role lists 100 openings and one to ten years of experience. The official platform requires a candidate account before the application can proceed.
+- Notes: The Pitch N Hire page initially appeared live, but its application route redirected to Micro1, which explicitly showed that the job was closed and no longer accepting applications when rechecked on 2026-10-08.
+
+### Takeed — AI / Machine Learning Engineer
+- Status: preparing
+- Location: Egypt / GCC
+- Work mode: Remote
+- Source: Takeed official careers page
+- Job URL: https://www.takeedgroup.com/careers
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: public GitHub link to `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong broad match for applied AI/ML delivery, Python, LLM systems, automation, computer vision, data workflows, evaluation, and production-minded engineering. The public careers page provides only the role title and remote regional scope, so detailed requirements remain to be confirmed with the employer.
+- Compensation:
+- Important screening answers: The official application route is Takeed's contact form. Planned message will identify the AI / Machine Learning Engineer opening and include Fares's GitHub, LinkedIn, and public resume link.
+- Recruiter/contact: info@takeed-me.com; ametwaly@takeed-me.com
+- Next action: Send the completed career-interest request after action-time confirmation.
+- Follow-up date:
+- Notes: Verified live on Takeed's official careers page on 2026-10-08 as remote for GCC and Egypt. The Apply link routes to the company's official contact form rather than a dedicated ATS.
 
 ### FEKRA — AI Engineer
 - Status: preparing
