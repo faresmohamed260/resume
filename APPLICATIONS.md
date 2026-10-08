@@ -10,6 +10,40 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### Intellias — Python Engineer, LangGraph / AI Agent Workflows
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4476170065
+- Date discovered: 2026-10-08
+- Date applied: 2026-10-08
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical match for Python, LangGraph, stateful agent orchestration, checkpointing, PostgreSQL, Human-in-the-Loop workflows, resilience, testing, and durable workflow design. The stated four-plus years of professional Python experience and enterprise-scale background make it a seniority stretch.
+- Compensation: Application answer: 40,000 EGP expected salary.
+- Important screening answers: Python: 3 years. LangGraph: 1 year. LangChain: 0 years. Notice period: 0 days. Asynchronous Python/asyncio: 1 year. Stateful or distributed workflows: 1 year. Workflow checkpointing/state persistence: 1 year. Human-in-the-Loop workflows: 1 year. Resilience patterns: 1 year. OpenTelemetry/distributed tracing: 0 years.
+- Recruiter/contact: Sarah Abdelaziz, Talent Delivery Partner and job poster on LinkedIn.
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-15
+- Notes: LinkedIn showed the verified role as posted two days earlier and actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+
+### Alignerr — Software Engineer (AI Training)
+- Status: preparing
+- Location: Cairo, Egypt listing
+- Work mode: Remote, freelance contract; 10–40 hours per week
+- Source: Alignerr official job page via LinkedIn
+- Job URL: https://www.alignerr.com/jobs/e251db67-faa1-46ac-ba48-b5544a6064c6
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, C++, TypeScript, code review, debugging, structured technical feedback, AI/ML concepts, prompt engineering, technical writing, mentoring, cloud systems, and substantial side projects.
+- Compensation: Listing displays USD 20–100 per hour.
+- Important screening answers: The official listing describes a flexible remote coding role that evaluates and improves AI-generated software.
+- Recruiter/contact:
+- Next action: In Brave, open `brave://extensions`, choose Details for the ChatGPT extension, and enable `Allow access to file URLs`; then upload the resume and complete the Alignerr profile/application.
+- Follow-up date:
+- Notes: Google sign-in completed with Fares's primary career Google account and reached Alignerr's resume-upload page. The application could not proceed because Brave blocked the file chooser until the ChatGPT extension is granted local-file access.
+
 ### iBrokerage Ltd. — AI & API Integration Developer
 - Status: shortlisted
 - Location: Cairo, Egypt listing; employer is based in Toronto, Canada
