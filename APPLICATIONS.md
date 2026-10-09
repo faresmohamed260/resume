@@ -232,21 +232,21 @@ Use concise statuses where possible:
 - Notes: Verified live on 2026-10-08 and posted five days earlier. LinkedIn displayed `Application submitted` and `Your application was sent to Crossing Hurdles` after submission on 2026-10-08. Crossing Hurdles sent an automated referral email at 22:45 Cairo time on 2026-10-08 for a separate Micro1 Software Engineer contract; the referral is tracked separately because it is not a status change on this application.
 
 ### Micro1 — Software Engineer
-- Status: shortlisted
-- Location: Not stated in the referral email
-- Work mode: Remote contractor
+- Status: applied
+- Location: Remote
+- Work mode: Remote contractor, approximately 15 hours per week with a flexible schedule
 - Source: Crossing Hurdles referral email
 - Job URL: https://jobs.micro1.ai/post/d358fe3a-3fa1-4673-b90a-99293655405d
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used:
-- Fit / rationale: Potentially relevant for Python or C++ backend work, scalable services, debugging, performance optimization, automated testing, codebase refactoring, and test-strategy design. The full official listing still needs review before application.
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, C++, TypeScript, scalable services and APIs, debugging, performance optimization, automated testing, codebase refactoring, deterministic verification, and test-strategy design.
 - Compensation: Referral email states USD 30–100 per hour.
-- Important screening answers: The described process includes screening questions, an approximately 30-minute AI interview, a tentative technical assessment, and hiring-manager review.
+- Important screening answers: Expected rate: USD 30 per hour. Can commit 15+ hours per week: yes. Can review/sign a contract within 24 hours and begin within 24–48 hours of receiving credentials: yes. Output-based compensation: accepted. Public work: GitHub profile. Core languages: Python, TypeScript, and C++. Testing experience selected: writing unit tests during regular development, designing test strategy for a service or feature, and building or maintaining CI test pipelines. The described process includes an approximately 30-minute AI interview, a tentative technical assessment, and hiring-manager review.
 - Recruiter/contact: Crossing Hurdles (`notifications@ceipalmail.com`); Micro1 support (`support@micro1.ai`).
-- Next action: Review the official Micro1 listing and decide whether to apply through the referral link. The email asks candidates to apply as soon as possible because applications are reviewed on a rolling basis.
-- Follow-up date:
-- Notes: Referral received at 22:45 Cairo time on 2026-10-08. No fixed deadline was stated. No application was submitted from the email.
+- Next action: Monitor for the AI interview invitation or other application update.
+- Follow-up date: 2026-10-16
+- Notes: Referral received at 22:45 Cairo time on 2026-10-08. No fixed deadline was stated. The official portal displayed `You've successfully applied to this position` after submission on 2026-10-09.
 
 ### Quik Hire Staffing — Machine Learning Engineer
 - Status: applied
@@ -448,9 +448,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: A tailored cover letter emphasized Python, applied ML/NLP, data processing, evaluation, automation, structured pipelines, and reproducible remote work without claiming unverified scraping experience.
 - Recruiter/contact: Mindrift Team (`info@notify.mindrift.ai`).
-- Next action: Register on the Mindrift platform and complete the profile to become eligible for project matching and qualification steps. This requires Fares's explicit approval before any additional information is submitted.
+- Next action: Confirm the final `Create profile` action. The prepared Mindrift payout profile contains legal name Fares Mohamed, date of birth April 2, 2001, country Egypt, English, age-of-majority confirmation, and acceptance of the User Agreement. The optional sensitive/explicit-content preference remains unchecked.
 - Follow-up date: 2026-10-15
-- Notes: Verified live, posted five days earlier, and displayed three applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08. Mindrift emailed `Complete your Mindrift registration` at 23:12 Cairo time on 2026-10-08. The message says registration and profile completion are the next steps and that matching, onboarding, and task completion take place on the platform; no deadline was stated. No registration link was opened and no additional information was submitted.
+- Notes: Verified live, posted five days earlier, and displayed three applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08. Mindrift emailed `Complete your Mindrift registration` at 23:12 Cairo time on 2026-10-08. The message says registration and profile completion are the next steps and that matching, onboarding, and task completion take place on the platform; no deadline was stated. Google sign-in and the three-step onboarding were completed on 2026-10-09. The final payment-linked profile form is complete but not yet submitted because `Create profile` creates the account using legal identity and payout information.
 
 ### Gramian Consulting — Staff Research Engineer, AI & Machine Learning
 - Status: applied
