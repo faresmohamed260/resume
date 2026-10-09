@@ -226,10 +226,27 @@ Use concise statuses where possible:
 - Fit / rationale: Strong adjacent match for creating coding tasks for AI systems, deterministic verifiers, scalable services and APIs, debugging, performance optimization, code review, algorithms, data structures, Python, C++, and TypeScript.
 - Compensation: Listing displays USD 30–100 per hour.
 - Important screening answers: LinkedIn work history and Alexandria University education are included in the prepared application.
-- Recruiter/contact: Sankalp Chhabra, job poster on LinkedIn.
-- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Recruiter/contact: Sankalp Chhabra, job poster on LinkedIn; Crossing Hurdles notifications (`notifications@ceipalmail.com`).
+- Next action: Monitor for a status update on the submitted Crossing Hurdles application. Review the separate Micro1 referral recorded below before deciding whether to apply.
 - Follow-up date: 2026-10-15
-- Notes: Verified live on 2026-10-08 and posted five days earlier. LinkedIn displayed `Application submitted` and `Your application was sent to Crossing Hurdles` after submission on 2026-10-08.
+- Notes: Verified live on 2026-10-08 and posted five days earlier. LinkedIn displayed `Application submitted` and `Your application was sent to Crossing Hurdles` after submission on 2026-10-08. Crossing Hurdles sent an automated referral email at 22:45 Cairo time on 2026-10-08 for a separate Micro1 Software Engineer contract; the referral is tracked separately because it is not a status change on this application.
+
+### Micro1 — Software Engineer
+- Status: shortlisted
+- Location: Not stated in the referral email
+- Work mode: Remote contractor
+- Source: Crossing Hurdles referral email
+- Job URL: https://jobs.micro1.ai/post/d358fe3a-3fa1-4673-b90a-99293655405d
+- Date discovered: 2026-10-08
+- Date applied:
+- Resume used:
+- Fit / rationale: Potentially relevant for Python or C++ backend work, scalable services, debugging, performance optimization, automated testing, codebase refactoring, and test-strategy design. The full official listing still needs review before application.
+- Compensation: Referral email states USD 30–100 per hour.
+- Important screening answers: The described process includes screening questions, an approximately 30-minute AI interview, a tentative technical assessment, and hiring-manager review.
+- Recruiter/contact: Crossing Hurdles (`notifications@ceipalmail.com`); Micro1 support (`support@micro1.ai`).
+- Next action: Review the official Micro1 listing and decide whether to apply through the referral link. The email asks candidates to apply as soon as possible because applications are reviewed on a rolling basis.
+- Follow-up date:
+- Notes: Referral received at 22:45 Cairo time on 2026-10-08. No fixed deadline was stated. No application was submitted from the email.
 
 ### Quik Hire Staffing — Machine Learning Engineer
 - Status: applied
@@ -419,7 +436,7 @@ Use concise statuses where possible:
 - Notes: Verified live and posted three weeks earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
 
 ### Mindrift — Senior Python Data Scraping Engineer (Freelance)
-- Status: applied
+- Status: follow-up
 - Location: Egypt
 - Work mode: Remote, part-time freelance
 - Source: LinkedIn Easy Apply, application powered by Workable
@@ -430,10 +447,10 @@ Use concise statuses where possible:
 - Fit / rationale: Relevant match for Python, structured data pipelines, unstructured-content processing, validation, automation, and reliable remote technical delivery. Direct senior-level web-scraping and Apify experience are not established in the career record, so the title and specialty are a stretch.
 - Compensation:
 - Important screening answers: A tailored cover letter emphasized Python, applied ML/NLP, data processing, evaluation, automation, structured pipelines, and reproducible remote work without claiming unverified scraping experience.
-- Recruiter/contact:
-- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Recruiter/contact: Mindrift Team (`info@notify.mindrift.ai`).
+- Next action: Register on the Mindrift platform and complete the profile to become eligible for project matching and qualification steps. This requires Fares's explicit approval before any additional information is submitted.
 - Follow-up date: 2026-10-15
-- Notes: Verified live, posted five days earlier, and displayed three applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+- Notes: Verified live, posted five days earlier, and displayed three applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08. Mindrift emailed `Complete your Mindrift registration` at 23:12 Cairo time on 2026-10-08. The message says registration and profile completion are the next steps and that matching, onboarding, and task completion take place on the platform; no deadline was stated. No registration link was opened and no additional information was submitted.
 
 ### Gramian Consulting — Staff Research Engineer, AI & Machine Learning
 - Status: applied
