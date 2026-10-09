@@ -452,6 +452,91 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-15
 - Notes: Verified live and posted one week earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
 
+### University of the People — Instructional Designer
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4470261891
+- Date discovered: 2026-10-09
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for curriculum development, online learning content, SME collaboration, technical writing, assessments, Arabic/English communication, and remote course-development work. Direct ADA/Section 508, OER/copyright, and named ADDIE/Backward Design experience are not established in the career record.
+- Compensation: Accepted the listed USD 900–1,000 monthly range.
+- Important screening answers: Hands-on online-course development with SMEs: yes. Personally applied ADDIE or Backward Design in the last 1–3 years: no. ADA/Section 508 accessibility experience: no. OER and copyright experience: no. Comfortable collaborating independently in English and managing timelines: yes. Fluent in Arabic and English: yes.
+- Recruiter/contact: Komala S, Manager — Global Talent Management and LinkedIn job poster.
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-16
+- Notes: Verified live, posted two weeks earlier, and marked as actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-09.
+
+### YO IT Consulting — Codex User (STEM) Expert - Remote
+- Status: applied
+- Location: EMEA
+- Work mode: Remote, contract
+- Source: LinkedIn; external application powered by Hiresome
+- Job URL: https://yohrconsultancy.hiresome.ai/apply_form/codex-user-stem-expert-remote-6aae74aebcef2ffb0fb21d9e?utm_source=linkedin
+- Date discovered: 2026-10-09
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for hands-on Codex use, AI-assisted software engineering, STEM expertise, technical documentation, evaluation, Python, and remote contract work.
+- Compensation: Listing states USD 80–100 per hour; application expected-CTC entry was USD 80.
+- Important screening answers: Current designation: AI Subject Matter Expert / Technical Instructor. Current company: Independent / Self-employed. Preferred location: Remote — EMEA. Notice period: immediate. Total work experience: 3 years. Highest qualification: B.Sc. Computer Science (Intelligent Systems). Confirmed that the inbox and spam/junk folders will be monitored for next-step instructions.
+- Recruiter/contact:
+- Next action: Monitor email closely for shortlist instructions; follow up if there is no response.
+- Follow-up date: 2026-10-16
+- Notes: The application portal displayed `Your application has been received! Thank you for applying.` on 2026-10-09.
+
+### EduMatch — Online Teacher
+- Status: applied; profile awaiting approval
+- Location: Egypt
+- Work mode: Remote, contract
+- Source: LinkedIn; company teacher-registration portal
+- Job URL: https://edumatch4u.com/en/register
+- Date discovered: 2026-10-09
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for flexible one-on-one online teaching, Computer Science instruction, project-based learning, Arabic/English communication, and experience teaching learners aged 11–16.
+- Compensation:
+- Important screening answers: Teaching experience: 3 years. Languages: Arabic and English. Selected teaching subjects: American-system Computer Science for Grades 8 and 9. Phone and WhatsApp use the confirmed Egyptian number. The profile bio emphasizes hands-on AI, robotics, Arduino, Python, and C++ instruction.
+- Recruiter/contact:
+- Next action: Monitor for profile approval, interview invitation, or lesson-matching instructions.
+- Follow-up date: 2026-10-16
+- Notes: EduMatch displayed `Welcome to EduMatch4u, Fares Mohamed!` and confirmed that the profile was submitted and awaiting approval on 2026-10-09. An EduMatch teacher account was created as part of the application; no password is stored in this repository.
+
+### Strattmont — Instructional Design Specialist
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time
+- Source: Company careers page
+- Job URL: https://strattmont.careers-page.com/jobs/bc98000a-061a-47c1-8c9f-8cc9d1dea0b3
+- Date discovered: 2026-10-09
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Relevant experience developing curricula, facilitator-ready learning assets, presentations, assignments, assessments, technical guides, and project-based instruction. The requested 3–5 years of instructional-design experience, Articulate/Rise/Captivate, LMS platforms, and formal instructional-design portfolio make this a stretch opportunity.
+- Compensation: Application answer: EGP 30,000 monthly.
+- Important screening answers: Submitted confirmed contact information, LinkedIn profile, expected salary, and the teaching-focused resume. No unverified authoring-tool, LMS, or formal instructional-design certification claims were made.
+- Recruiter/contact:
+- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Follow-up date: 2026-10-16
+- Notes: The company portal displayed `Thank you for your application! Your application was successfully submitted` on 2026-10-09.
+
+### Kodland — Game Design Tutor For Children - English Speaking / UK | Roblox
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, part-time freelance; minimum 10 hours weekly
+- Source: LinkedIn; external application powered by Recruitee
+- Job URL: https://kodland.recruitee.com/o/uk-roblox
+- Date discovered: 2026-10-09
+- Date applied: 2026-10-09
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for Python, teaching children and teenagers, project-based technical instruction, remote delivery, and guiding learners through building and debugging digital projects. Roblox Studio experience is not required because the employer provides training.
+- Compensation:
+- Important screening answers: Age: 25. Country of residence: Egypt. Comfortable working remotely: yes. Has a suitable computer, stable internet, camera, and microphone: yes. Available for at least 10 hours weekly: yes. English proficiency: advanced. Education: bachelor's degree. Preferred work location: Egypt. A tailored cover letter emphasized teaching learners aged 11–16, Python, hands-on projects, and willingness to complete Roblox Studio training.
+- Recruiter/contact:
+- Next action: Monitor for confirmation, mock-lesson instructions, training, or interview outreach.
+- Follow-up date: 2026-10-16
+- Notes: Recruitee displayed `ALL DONE! Your application has been successfully submitted!` on 2026-10-09.
+
 ## Application record format
 
 Add one section per serious opportunity:
