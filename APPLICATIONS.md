@@ -639,6 +639,57 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-17
 - Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10.
 
+### CODED — R&D — Tech & AI Curriculum Designer (Subject Matter Expert, Hourly)
+- Status: applied
+- Location: Kuwait
+- Work mode: Remote-friendly, hourly project-based engagement
+- Source: Official company careers page
+- Job URL: https://coded.kw/about/careers/recjFvu5F2mw2qbed
+- Date discovered: 2026-10-11
+- Date applied: 2026-10-11
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for hands-on AI experimentation, LLMs, agents, automation, curriculum development, measurable learning outcomes, technical writing, and Arabic/English educational content.
+- Compensation:
+- Important screening answers: Submitted confirmed contact details, Alexandria location, LinkedIn profile, and the teaching-focused resume. The optional expected-salary and intro-video fields were left blank.
+- Recruiter/contact:
+- Next action: Monitor for a technical screening, scope discussion, or request for work samples.
+- Follow-up date: 2026-10-18
+- Notes: The official careers page displayed `Application sent.` and thanked Fares for applying on 2026-10-11.
+
+### Edulixa 360 — Coding Instructor
+- Status: applied
+- Location: Alexandria, Egypt
+- Work mode: Remote, part-time; flexible evening availability
+- Source: Official Odoo careers page
+- Job URL: https://perfectech-me-monglish1.odoo.com/jobs/coding-instructor-1542
+- Date discovered: 2026-10-11
+- Date applied: 2026-10-11
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for teaching programming to young learners, Python, project-based technical instruction, virtual delivery, curriculum adaptation, and prior AI/robotics teaching experience with learners aged 11–16.
+- Compensation:
+- Important screening answers: Desired contract type: part time. Employment status: unemployed. Available start date: 2026-10-12. Phone and WhatsApp used the confirmed Egyptian number. Date of birth: 2001-04-02. Expected salary was left blank.
+- Recruiter/contact: hr@monglish.uk
+- Next action: Monitor for the stated phone-call and onsite-interview process.
+- Follow-up date: 2026-10-18
+- Notes: The portal redirected to a thank-you page stating `Thank You For Submitting Your CV` on 2026-10-11.
+
+### SIR Foundation — Technical Mentor / Trainer
+- Status: applied
+- Location: Remote
+- Work mode: Part-time, remote
+- Source: Official company careers page
+- Job URL: https://sirfoundation.co.in/careers.php
+- Date discovered: 2026-10-11
+- Date applied: 2026-10-11
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for hands-on AI/ML instruction, technical mentoring, project-based learning, curriculum development, and explaining complex concepts clearly.
+- Compensation:
+- Important screening answers: Submitted confirmed contact details, GitHub portfolio, a tailored motivation statement, and the teaching-focused resume for the Technical Mentor / Trainer role.
+- Recruiter/contact: info@sirfoundation.co.in
+- Next action: Monitor for interview, teaching-demo, or technical-screening outreach.
+- Follow-up date: 2026-10-18
+- Notes: The careers page displayed `Thank you! Your application has been received — we'll be in touch.` on 2026-10-11.
+
 ## Application record format
 
 Add one section per serious opportunity:
