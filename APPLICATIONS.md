@@ -554,6 +554,91 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-16
 - Notes: Recruitee displayed `ALL DONE! Your application has been successfully submitted!` on 2026-10-09.
 
+### Amideast Egypt — AI Instructor
+- Status: applied
+- Location: Alexandria, Egypt
+- Work mode: On-site instructor opportunity
+- Source: Amideast Egypt LinkedIn hiring post; direct email application
+- Job URL: https://www.linkedin.com/posts/amideast-egypt_were-hiring-ai-instructors-passionate-activity-7460696891236737024-bFel
+- Date discovered: 2026-10-10
+- Date applied: 2026-10-10
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for applied AI, classroom delivery, curriculum development, project-based technical instruction, and simplifying AI concepts for learners in Arabic and English. The Alexandria location matches the on-site preference.
+- Compensation:
+- Important screening answers: The tailored email accurately described first-place class rank, AI/robotics/programming instruction for learners aged 11–16, AI subject-matter work, and technical curriculum development.
+- Recruiter/contact: recruitment-egypt@amideast.org
+- Next action: Monitor for acknowledgment, screening questions, or interview outreach; follow up if there is no response.
+- Follow-up date: 2026-10-17
+- Notes: A tailored application email with the teaching-focused resume attached was sent successfully from the connected Gmail account on 2026-10-10.
+
+### RecruitifyHR — Instructional Designer (E-Learning)
+- Status: applied
+- Location: Egypt and Jordan
+- Work mode: Remote, full-time
+- Source: LinkedIn hiring post; direct email application
+- Job URL: https://www.linkedin.com/posts/hr-desmond_hiring-remote-instructional-designer-activity-7496294812388671488-CWqB
+- Date discovered: 2026-10-10
+- Date applied: 2026-10-10
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Relevant match for SME collaboration, curriculum and instructional-content development, technical writing, assessments, Arabic/English communication, and AI-assisted educational workflows. Formal accessibility standards, named instructional-design frameworks, and specialized authoring-tool experience remain gaps.
+- Compensation:
+- Important screening answers: The tailored email accurately described Armstrong curriculum work, Kayfa AI subject-matter work, technical instruction for learners aged 11–16, and practical AI-tool usage without claiming unverified tools or certifications.
+- Recruiter/contact: Desmond Igbinoba, desmond.igbinoba@recruitifyhr.com
+- Next action: Monitor for acknowledgment, portfolio requests, screening questions, or interview outreach; follow up if there is no response.
+- Follow-up date: 2026-10-17
+- Notes: A tailored application email with the teaching-focused resume attached was sent successfully from the connected Gmail account on 2026-10-10.
+
+### Quik Hire Staffing — Mathematics Expert (Remote)
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4467458003/
+- Date discovered: 2026-10-10
+- Date applied: 2026-10-10
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Adjacent subject-matter-expert opportunity relevant to applied mathematics, linear algebra, probability, Python, statistical modeling, analytical problem solving, technical explanation, and data-driven work. The career record supports the mathematical foundations used in AI/ML, though it does not establish a dedicated professional mathematics title.
+- Compensation:
+- Important screening answers: Existing LinkedIn contact information and the teaching-focused resume were submitted; the application contained no additional screening questions.
+- Recruiter/contact:
+- Next action: Monitor for confirmation, assessment, screening questions, or recruiter outreach.
+- Follow-up date: 2026-10-17
+- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10.
+
+### Prolific — AI Trainer - Arabic Fluency (Egypt)
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, short-term AI-training project
+- Source: LinkedIn Easy Apply; application powered by Greenhouse
+- Job URL: https://www.linkedin.com/jobs/view/4405250909/
+- Date discovered: 2026-10-10
+- Date applied: 2026-10-10
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for native Egyptian Arabic, advanced English, AI subject-matter work, careful evaluation, clear communication, and remote AI-training tasks involving natural conversations and dialect authenticity.
+- Compensation:
+- Important screening answers: Prepared to take a skills-verification test lasting up to 30 minutes: yes. Country group: rest of world. Current country: Egypt. Right-to-work statement was limited to current residence in Egypt.
+- Recruiter/contact:
+- Next action: Monitor for the TestGorilla language assessment, dialect-verification check, onboarding instructions, or project invitation.
+- Follow-up date: 2026-10-17
+- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10.
+
+### iCodejr.com — Coding Instructor
+- Status: applied; Weekday profile under review
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: Weekday job board and iCodejr official contact channels
+- Job URL: https://jobs.weekday.works/icodejr.com-coding-instructor-d4io
+- Date discovered: 2026-10-10
+- Date applied: 2026-10-10
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for Arabic/English instruction, Python, Scratch, web-development concepts, robotics, project-based learning, curriculum preparation, progress feedback, and teaching children and teenagers. Roblox, MIT App Inventor, Code.org, Unity, Minecraft Education, and AR/VR proficiency are not established in the career record.
+- Compensation:
+- Important screening answers: Based in Alexandria, Egypt. Available to discuss the fixed schedule and immediate-start requirement. A Weekday account was created through the confirmed Google account, its terms were accepted, and the LinkedIn profile was supplied for profile extraction.
+- Recruiter/contact: contact@icodejr.com; hala@icodejr.com
+- Next action: Monitor for Weekday profile approval and direct employer response; follow up if there is no response.
+- Follow-up date: 2026-10-17
+- Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10.
+
 ## Application record format
 
 Add one section per serious opportunity:
