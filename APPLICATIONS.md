@@ -623,7 +623,7 @@ Use concise statuses where possible:
 - Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10. LinkedIn then emailed at 08:49 Cairo time on 2026-10-11 that delivery failed and directed Fares to complete the application on the company website: https://grnh.se/ks97kk32teu. On 2026-10-11, that Greenhouse link reported that the job was no longer open.
 
 ### iCodejr.com — Coding Instructor
-- Status: preparing; official careers application in progress
+- Status: withdrawn
 - Location: Egypt
 - Work mode: Remote, full-time
 - Source: Weekday job board and iCodejr official contact channels
@@ -635,9 +635,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Based in Alexandria, Egypt. Available to discuss the fixed schedule and immediate-start requirement. A Weekday account was created through the confirmed Google account, its terms were accepted, and the LinkedIn profile was supplied for profile extraction.
 - Recruiter/contact: contact@icodejr.com; hala@icodejr.com
-- Next action: Supply a 5–10 minute on-camera demo tutorial link and confirm current compensation method (fixed salary or per class), then complete the official careers application.
+- Next action: None; Fares chose to skip the official careers application.
 - Follow-up date: 2026-10-17
-- Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10. iCodejr replied directing Fares to careers.icodejr.com. The official role is `Teacher - Coding & Future Skills`; the application has been prepared through the skills step and requires a short demo-video link before submission.
+- Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10. iCodejr replied directing Fares to careers.icodejr.com. The official role is `Teacher - Coding & Future Skills`; the application required a short demo-video link. Fares chose to skip the application on 2026-10-12.
 
 ### Udacity — Agentic AI Technical Mentor (Independent Contractor)
 - Status: application pending email verification
