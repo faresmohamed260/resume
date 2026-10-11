@@ -606,7 +606,7 @@ Use concise statuses where possible:
 - Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10.
 
 ### Prolific — AI Trainer - Arabic Fluency (Egypt)
-- Status: applied
+- Status: application delivery failed; reapplication required on Greenhouse
 - Location: Egypt
 - Work mode: Remote, short-term AI-training project
 - Source: LinkedIn Easy Apply; application powered by Greenhouse
@@ -618,9 +618,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Prepared to take a skills-verification test lasting up to 30 minutes: yes. Country group: rest of world. Current country: Egypt. Right-to-work statement was limited to current residence in Egypt.
 - Recruiter/contact:
-- Next action: Monitor for the TestGorilla language assessment, dialect-verification check, onboarding instructions, or project invitation.
+- Next action: Complete the application again through the Greenhouse company-site link in LinkedIn's failure notice, then monitor for confirmation and assessment instructions.
 - Follow-up date: 2026-10-17
-- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10.
+- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10. LinkedIn then emailed at 08:49 Cairo time on 2026-10-11 that delivery failed and directed Fares to complete the application on the company website: https://grnh.se/ks97kk32teu
 
 ### iCodejr.com — Coding Instructor
 - Status: applied; Weekday profile under review
