@@ -246,7 +246,7 @@ Use concise statuses where possible:
 - Recruiter/contact: Crossing Hurdles (`notifications@ceipalmail.com`); Micro1 support (`support@micro1.ai`).
 - Next action: Complete the Micro1 conversational AI interview as soon as practical. Allow up to 30 minutes and prepare to discuss experience, the strongest coding language, algorithms and data structures, and software testing; use a laptop/desktop with stable internet, microphone/camera access, and screen sharing available.
 - Follow-up date: 2026-10-16
-- Notes: Referral received at 22:45 Cairo time on 2026-10-08. The official portal displayed `You've successfully applied to this position` after submission on 2026-10-09. Micro1 emailed at 13:49 Cairo time on 2026-10-09 that the application remains incomplete until a conversational AI interview is completed. The interview is estimated at up to 30 minutes and covers candidate experience, proficiency in the applicant's strongest coding language, algorithms and data structures, and software testing. No fixed deadline was stated, but Micro1 recommends completing it promptly because roles fill quickly.
+- Notes: Referral received at 22:45 Cairo time on 2026-10-08. The official portal displayed `You've successfully applied to this position` after submission on 2026-10-09. Micro1 emailed at 13:49 Cairo time on 2026-10-09 that the application remains incomplete until a conversational AI interview is completed. A further reminder titled `Your micro1 interview is pending` arrived on 2026-10-10. The interview is estimated at up to 30 minutes and covers candidate experience, proficiency in the applicant's strongest coding language, algorithms and data structures, and software testing. No fixed deadline was stated, but Micro1 recommends completing it promptly because roles fill quickly.
 
 ### Quik Hire Staffing — Machine Learning Engineer
 - Status: applied
@@ -567,9 +567,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: The tailored email accurately described first-place class rank, AI/robotics/programming instruction for learners aged 11–16, AI subject-matter work, and technical curriculum development.
 - Recruiter/contact: recruitment-egypt@amideast.org
-- Next action: Monitor for acknowledgment, screening questions, or interview outreach; follow up if there is no response.
+- Next action: Application receipt is confirmed. Monitor for interview outreach; follow up if there is no further response.
 - Follow-up date: 2026-10-17
-- Notes: A tailored application email with the teaching-focused resume attached was sent successfully from the connected Gmail account on 2026-10-10.
+- Notes: A tailored application email with the teaching-focused resume attached was sent successfully from the connected Gmail account on 2026-10-10. Amideast's recruitment mailbox automatically confirmed at 22:18 Cairo time on 2026-10-10 that the application was received and that candidates whose resumes meet the requirements will be contacted for an interview.
 
 ### RecruitifyHR — Instructional Designer (E-Learning)
 - Status: applied
@@ -638,6 +638,23 @@ Use concise statuses where possible:
 - Next action: Monitor for Weekday profile approval and direct employer response; follow up if there is no response.
 - Follow-up date: 2026-10-17
 - Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10.
+
+### Udacity — Agentic AI Technical Mentor (Independent Contractor)
+- Status: application pending email verification
+- Location: Egypt; role covers MENA and other global time zones
+- Work mode: Remote, independent contractor
+- Source: Official Greenhouse job board
+- Job URL: https://job-boards.greenhouse.io/udacity/jobs/8540542002
+- Date discovered: 2026-10-11
+- Date applied:
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong technical match for LLMs, agentic workflows, RAG, multi-agent systems, AI evaluation, Python, and learner support, though the requested 5+ years of experience makes this a stretch opportunity.
+- Compensation:
+- Important screening answers: Country and residence: Egypt. City: Alexandria. Current/former Udacity employee: no. Willing to be contacted for contract work: yes. Prior Udacity 1:1 mentorship model: no. Expertise selected: AI, generative AI, machine/deep learning, autonomous systems, data, and programming. Industries selected: software development, IT, educational technology, research, AI, and freelancing. Languages: Arabic and English. The application includes the teaching-focused resume, LinkedIn profile, and Alexandria University education.
+- Recruiter/contact: Greenhouse Recruiting
+- Next action: Enter the emailed 8-character security code and resubmit the prepared application.
+- Follow-up date: 2026-10-11
+- Notes: Greenhouse emailed security code `DAtKRrK5` at 01:35 Cairo time on 2026-10-11. The application has not been counted as submitted because final confirmation is still pending.
 
 ### CODED — R&D — Tech & AI Curriculum Designer (Subject Matter Expert, Hourly)
 - Status: applied
