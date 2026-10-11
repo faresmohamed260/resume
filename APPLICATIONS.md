@@ -11,7 +11,7 @@ Use concise statuses where possible:
 ## Active applications
 
 ### Intellias — Python Engineer, LangGraph / AI Agent Workflows
-- Status: applied
+- Status: rejected
 - Location: Egypt
 - Work mode: Remote, full-time
 - Source: LinkedIn Easy Apply
@@ -23,9 +23,9 @@ Use concise statuses where possible:
 - Compensation: Application answer: 40,000 EGP expected salary.
 - Important screening answers: Python: 3 years. LangGraph: 1 year. LangChain: 0 years. Notice period: 0 days. Asynchronous Python/asyncio: 1 year. Stateful or distributed workflows: 1 year. Workflow checkpointing/state persistence: 1 year. Human-in-the-Loop workflows: 1 year. Resilience patterns: 1 year. OpenTelemetry/distributed tracing: 0 years.
 - Recruiter/contact: Sarah Abdelaziz, Talent Delivery Partner and job poster on LinkedIn.
-- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Next action: None; retain for duplicate detection and future role comparison.
 - Follow-up date: 2026-10-15
-- Notes: LinkedIn showed the verified role as posted two days earlier and actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
+- Notes: LinkedIn showed the verified role as posted two days earlier and actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08. LinkedIn notified Fares at 19:56 Cairo time on 2026-10-11 that Intellias would not move forward with the application.
 
 ### Alignerr — Software Engineer (AI Training)
 - Status: preparing
@@ -606,7 +606,7 @@ Use concise statuses where possible:
 - Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10.
 
 ### Prolific — AI Trainer - Arabic Fluency (Egypt)
-- Status: application delivery failed; reapplication required on Greenhouse
+- Status: closed; application delivery failed and vacancy is no longer open
 - Location: Egypt
 - Work mode: Remote, short-term AI-training project
 - Source: LinkedIn Easy Apply; application powered by Greenhouse
@@ -618,12 +618,12 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Prepared to take a skills-verification test lasting up to 30 minutes: yes. Country group: rest of world. Current country: Egypt. Right-to-work statement was limited to current residence in Egypt.
 - Recruiter/contact:
-- Next action: Complete the application again through the Greenhouse company-site link in LinkedIn's failure notice, then monitor for confirmation and assessment instructions.
+- Next action: None; the Greenhouse reapplication link now reports that the job is no longer open.
 - Follow-up date: 2026-10-17
-- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10. LinkedIn then emailed at 08:49 Cairo time on 2026-10-11 that delivery failed and directed Fares to complete the application on the company website: https://grnh.se/ks97kk32teu
+- Notes: LinkedIn displayed `Application submitted now` immediately after submission on 2026-10-10. LinkedIn then emailed at 08:49 Cairo time on 2026-10-11 that delivery failed and directed Fares to complete the application on the company website: https://grnh.se/ks97kk32teu. On 2026-10-11, that Greenhouse link reported that the job was no longer open.
 
 ### iCodejr.com — Coding Instructor
-- Status: applied; Weekday profile under review
+- Status: preparing; official careers application in progress
 - Location: Egypt
 - Work mode: Remote, full-time
 - Source: Weekday job board and iCodejr official contact channels
@@ -635,9 +635,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Based in Alexandria, Egypt. Available to discuss the fixed schedule and immediate-start requirement. A Weekday account was created through the confirmed Google account, its terms were accepted, and the LinkedIn profile was supplied for profile extraction.
 - Recruiter/contact: contact@icodejr.com; hala@icodejr.com
-- Next action: Monitor for Weekday profile approval and direct employer response; follow up if there is no response.
+- Next action: Supply a 5–10 minute on-camera demo tutorial link and confirm current compensation method (fixed salary or per class), then complete the official careers application.
 - Follow-up date: 2026-10-17
-- Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10.
+- Notes: Weekday displayed `Profile under review` and said it would email within 24–72 hours. Because the platform review prevented immediate in-portal submission, a tailored application email with the teaching-focused resume attached was sent successfully to iCodejr's public contact address, with its second public contact copied, on 2026-10-10. iCodejr replied directing Fares to careers.icodejr.com. The official role is `Teacher - Coding & Future Skills`; the application has been prepared through the skills step and requires a short demo-video link before submission.
 
 ### Udacity — Agentic AI Technical Mentor (Independent Contractor)
 - Status: application pending email verification
