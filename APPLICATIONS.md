@@ -470,7 +470,7 @@ Use concise statuses where possible:
 - Notes: Verified live and posted one week earlier. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08.
 
 ### University of the People — Instructional Designer
-- Status: applied
+- Status: rejected
 - Location: Egypt
 - Work mode: Remote, full-time
 - Source: LinkedIn Easy Apply
@@ -482,9 +482,9 @@ Use concise statuses where possible:
 - Compensation: Accepted the listed USD 900–1,000 monthly range.
 - Important screening answers: Hands-on online-course development with SMEs: yes. Personally applied ADDIE or Backward Design in the last 1–3 years: no. ADA/Section 508 accessibility experience: no. OER and copyright experience: no. Comfortable collaborating independently in English and managing timelines: yes. Fluent in Arabic and English: yes.
 - Recruiter/contact: Komala S, Manager — Global Talent Management and LinkedIn job poster.
-- Next action: Monitor for confirmation or recruiter response; follow up if there is no response.
+- Next action: None; retain for duplicate detection and future role comparison.
 - Follow-up date: 2026-10-16
-- Notes: Verified live, posted two weeks earlier, and marked as actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-09.
+- Notes: Verified live, posted two weeks earlier, and marked as actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-09. LinkedIn notified Fares at 03:55 Cairo time on 2026-10-12 that University of the People would not move forward with the application.
 
 ### YO IT Consulting — Codex User (STEM) Expert - Remote
 - Status: applied
