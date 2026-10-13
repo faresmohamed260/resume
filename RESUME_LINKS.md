@@ -6,6 +6,7 @@
 
 ## Public Resume Links
 
+- General AI & Technology: [Fares_Mohamed_AI_Technology_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Technology_Resume.pdf)
 - Agentic AI Systems / AI Engineer: [Fares_Mohamed_Agentic_AI_Systems_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Agentic_AI_Systems_Resume.pdf)
 - AI Engineer: [Fares_Mohamed_AI_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
 - ML Engineer: [Fares_Mohamed_ML_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)
@@ -14,6 +15,7 @@
 
 ## Suggested Pinned Usage
 
+- Use the General AI & Technology version for recruiters, staffing firms, talent networks, and open-ended introductions where the target role is not fixed yet.
 - Use the Agentic AI Systems version for roles focused on orchestration, LLM tooling, RAG, FastAPI, Streamlit, and lightweight AI product demos.
 - Use the AI Subject Matter Expert / Technical Instructor version for AI education, curriculum development, technical content, training, workshop facilitation, and STEM instruction roles.
 - Keep this repo unpinned unless you want a direct public resume card on GitHub.
