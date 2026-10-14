@@ -1,9 +1,11 @@
-name: Build role-specific resumes
+name: Build resumes
 
 on:
   push:
     branches:
-      - career/project-refresh-2026-10-04
+      - main
+      - "career/**"
+      - "agent/**"
     paths:
       - "latex/**.tex"
       - ".github/workflows/build-resumes.yml"
@@ -15,10 +17,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out branch
+      - name: Check out current branch
         uses: actions/checkout@v4
         with:
-          ref: career/project-refresh-2026-10-04
+          ref: ${{ github.ref_name }}
 
       - name: Install LaTeX and PDF inspection tools
         run: |
@@ -48,5 +50,5 @@ jobs:
             exit 0
           fi
           git commit -m "resume: rebuild role-specific PDFs"
-          git pull --rebase origin career/project-refresh-2026-10-04
-          git push origin HEAD:career/project-refresh-2026-10-04
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
