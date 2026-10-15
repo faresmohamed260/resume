@@ -1,6 +1,6 @@
 # Career Profile
 
-Last reviewed: 2026-10-04
+Last reviewed: 2026-10-15
 
 This file is the living factual career record used to maintain resumes, evaluate jobs, prepare applications, and support professional LinkedIn content. Update it when verified career-significant information changes.
 
@@ -9,6 +9,7 @@ This file is the living factual career record used to maintain resumes, evaluate
 - Name: Fares Mohamed
 - Location: Alexandria, Egypt
 - Phone: +20 120 554 9916
+- Egyptian military service status: Exempt
 - Primary positioning: AI Engineer — Agentic AI, LLM Systems, Applied ML
 - Secondary demonstrated areas: full-stack AI products, generative media systems, computer vision, robotics, backend/runtime architecture
 - GitHub: https://github.com/faresmohamed260
