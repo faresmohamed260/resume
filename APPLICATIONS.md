@@ -96,7 +96,7 @@ Use concise statuses where possible:
 - Notes: Official listing verified live on 2026-10-08. Workable displayed `Your application has been submitted successfully` after submission on 2026-10-08.
 
 ### Sana Commerce — Software Engineer AI
-- Status: applied
+- Status: rejected
 - Location: Alexandria, Egypt
 - Work mode: Hybrid, full-time; three office days and two home days per week
 - Source: Sana Commerce official SmartRecruiters page
@@ -108,9 +108,9 @@ Use concise statuses where possible:
 - Compensation: Negotiable in EGP and aligned with the role and total compensation package.
 - Important screening answers: Near-native English: yes. Authorized to work in Egypt: yes. Sponsorship required: no. Able to work the stated Alexandria hybrid schedule: yes. Professional web/backend/full-stack experience: less than two years. Professional AI engineering: production systems using RAG, AI agents, LLM orchestration, evaluation, or LLMOps. Listed prior-company categories: none of the above.
 - Recruiter/contact:
-- Next action: Monitor for the confirmation email or recruiter response; follow up if there is no response.
-- Follow-up date: 2026-10-15
-- Notes: Official vacancy verified live on 2026-10-08. SmartRecruiters displayed `Application submitted!` and confirmed that the application was submitted successfully on 2026-10-08.
+- Next action: None; retain for duplicate detection and consideration of future Sana Commerce openings.
+- Follow-up date:
+- Notes: Official vacancy verified live on 2026-10-08. SmartRecruiters displayed `Application submitted!` and confirmed that the application was submitted successfully on 2026-10-08. Sana Commerce's hiring team emailed at 20:11 Cairo time on 2026-10-15 that it would not move forward with the Software Engineer AI - Alexandria application because other candidates more closely matched the role requirements.
 
 ### Pass Technology — AI Engineer, LLM & AI Agents
 - Status: preparing
