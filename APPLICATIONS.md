@@ -10,6 +10,23 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### AMAN Holding / Raya — Riser, AI Engineer (RISE 2027)
+- Status: shortlisted
+- Location: Cairo, Egypt
+- Work mode: Not stated; full-time
+- Source: Raya Careers official Oracle recruiting portal; lead discovered through a Facebook reel
+- Job URL: https://fa-ewrh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/RayaCareers/job/99
+- Date discovered: 2026-10-15
+- Date applied:
+- Resume used: Recommended: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional direct fit. The role centers on production Generative AI, LLM applications, RAG pipelines, LangGraph/LangChain/Dify, agent and API integrations, prompt and retrieval optimization, evaluation metrics, Docker/Kubernetes/CI/CD, monitoring, documentation, and reusable architecture. Fares has verified evidence across LangGraph, tool calling, structured outputs, RAG and hybrid retrieval, evaluation workflows, FastAPI and REST integrations, Docker, durable jobs, PostgreSQL/Supabase, and production-minded AI systems. His first-place Computer Science record and Arabic/English proficiency also match. Main gap: Kubernetes is not currently documented as hands-on experience; Dify, ARK, and LangChain are not established strengths.
+- Compensation:
+- Important screening answers: Official listing is active, was posted 2026-10-12, is Job Identification 99, requires a relevant bachelor's degree and proficient English and Arabic, and identifies AMAN Holding as the employer. Application begins with an email gate and states that a candidate profile will be created automatically; no separate account is required. The Facebook reel states that the first-round deadline is 2026-10-19, but the official job page does not display a deadline.
+- Recruiter/contact:
+- Next action: Apply promptly with the Agentic AI Systems resume after explicit approval. Emphasize SAGA's LangGraph orchestration, RAG/retrieval, evaluation contracts, durable jobs, tool/API integration, Docker, and production reliability. Do not claim hands-on Kubernetes, Dify, ARK, or LangChain experience without evidence.
+- Follow-up date:
+- Notes: Among seven live Riser listings, this is the clear first choice. Riser — Backend Engineer is a credible secondary option; Riser — Data Delivery is less aligned because it emphasizes delivery coordination over hands-on model development. Raya's graduate-program page describes four rotations during the first year for candidates with 0–2 years of experience.
+
 ### Hassan Allam Holding — Global Talent Program 2026, IT Track
 - Status: applied
 - Location: Egypt; applicant currently resides in Alexandria
