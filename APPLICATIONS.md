@@ -11,21 +11,21 @@ Use concise statuses where possible:
 ## Active applications
 
 ### AMAN Holding / Raya — Riser, AI Engineer (RISE 2027)
-- Status: shortlisted
+- Status: applied
 - Location: Cairo, Egypt
 - Work mode: Not stated; full-time
 - Source: Raya Careers official Oracle recruiting portal; lead discovered through a Facebook reel
 - Job URL: https://fa-ewrh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/RayaCareers/job/99
 - Date discovered: 2026-10-15
-- Date applied:
-- Resume used: Recommended: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Date applied: 2026-10-16
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
 - Fit / rationale: Exceptional direct fit. The role centers on production Generative AI, LLM applications, RAG pipelines, LangGraph/LangChain/Dify, agent and API integrations, prompt and retrieval optimization, evaluation metrics, Docker/Kubernetes/CI/CD, monitoring, documentation, and reusable architecture. Fares has verified evidence across LangGraph, tool calling, structured outputs, RAG and hybrid retrieval, evaluation workflows, FastAPI and REST integrations, Docker, durable jobs, PostgreSQL/Supabase, and production-minded AI systems. His first-place Computer Science record and Arabic/English proficiency also match. Main gap: Kubernetes is not currently documented as hands-on experience; Dify, ARK, and LangChain are not established strengths.
 - Compensation:
-- Important screening answers: Official listing is active, was posted 2026-10-12, is Job Identification 99, requires a relevant bachelor's degree and proficient English and Arabic, and identifies AMAN Holding as the employer. Application begins with an email gate and states that a candidate profile will be created automatically; no separate account is required. The Facebook reel states that the first-round deadline is 2026-10-19, but the official job page does not display a deadline.
+- Important screening answers: Official listing is active, was posted 2026-10-12, is Job Identification 99, requires a relevant bachelor's degree and proficient English and Arabic, and identifies AMAN Holding as the employer. Application begins with an email gate and states that a candidate profile will be created automatically; no separate account is required. The Facebook reel states that the first-round deadline is 2026-10-19, but the official job page does not display a deadline. Previous RISE application: no. Medical condition to disclose: no. Source of program awareness: social media. The application included verified education, Armstrong/Kayfa/Engineering for Kids-Egypt experience, three documented certificates, Arabic and English, the Agentic AI Systems resume, GitHub URL, and the required English introduction video.
 - Recruiter/contact:
-- Next action: Apply promptly with the Agentic AI Systems resume after explicit approval. Emphasize SAGA's LangGraph orchestration, RAG/retrieval, evaluation contracts, durable jobs, tool/API integration, Docker, and production reliability. Do not claim hands-on Kubernetes, Dify, ARK, or LangChain experience without evidence.
-- Follow-up date:
-- Notes: Among seven live Riser listings, this is the clear first choice. Riser — Backend Engineer is a credible secondary option; Riser — Data Delivery is less aligned because it emphasizes delivery coordination over hands-on model development. Raya's graduate-program page describes four rotations during the first year for candidates with 0–2 years of experience.
+- Next action: Monitor email and phone for screening, assessment, or interview outreach; follow up if there is no response.
+- Follow-up date: 2026-10-30
+- Notes: Among seven live Riser listings, this is the clear first choice. Riser — Backend Engineer is a credible secondary option; Riser — Data Delivery is less aligned because it emphasizes delivery coordination over hands-on model development. Raya's graduate-program page describes four rotations during the first year for candidates with 0–2 years of experience. Submitted through Raya's Oracle recruiting portal on 2026-10-16 after email verification and explicit final approval. The portal displayed “Thank you for your job application,” listed the application under Active Job Applications, and showed status `Under Consideration` with applied date 10/16/2026.
 
 ### Hassan Allam Holding — Global Talent Program 2026, IT Track
 - Status: applied
