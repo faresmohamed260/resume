@@ -10,6 +10,23 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### Hassan Allam Holding — Global Talent Program 2026, IT Track
+- Status: shortlisted
+- Location: Egypt; applicant currently resides in Alexandria
+- Work mode: Not stated in the official announcement or application form
+- Source: Hassan Allam Holding official LinkedIn announcement; lead discovered through a Facebook reel
+- Job URL: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=M7EQhG6bL0a96hVWjwJIo4mQ1e3_Rq9Kh3BKvLt85GRUOUtRQ1RHN0dUM0JGTzFVOUcwRUFRMzZLSCQlQCNjPTEu
+- Date discovered: 2026-10-15
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong early-career fit. The Egypt application explicitly offers an IT track, accepts Computer Science / Computers and Artificial Intelligence faculties and 2023–2026 graduates, and includes Alexandria among current-residence options. Fares's 2026 Intelligent Systems degree, first-place class rank, production-minded AI/software projects, AI automation work, and leadership evidence should be competitive. The program is broader corporate IT rather than a dedicated AI role, so eventual department placement and technical depth remain uncertain.
+- Compensation:
+- Important screening answers: Official form is active and describes hired graduates entering a structured development journey with behavioral and technical development, on-the-job learning, and cross-department rotations. Egypt tracks are Engineering, Marketing, Investment, IT, and Human Resource. The form asks for nationality, National ID, gender, military status for male applicants, city, university, faculty, graduation year, grade, certifications, personal statement, achievements, student activities, extracurricular activities, and whether the applicant previously applied. Publicly visible stage labels indicate application, English, ability and psychometric assessments, face-to-face assessment, competency-based interview, and panel interview. No public deadline was found.
+- Recruiter/contact:
+- Next action: Confirm military status and provide National ID only if proceeding; tailor the personal statement and complete the official form. Do not submit without explicit approval.
+- Follow-up date:
+- Notes: Verified against Hassan Allam Holding's official LinkedIn announcement and the live Microsoft Forms application on 2026-10-15. Applicants must apply in their country of nationality and residence. The form accepts zero post-graduation experience and lists graduation years 2023–2026.
+
 ### Intellias — Python Engineer, LangGraph / AI Agent Workflows
 - Status: rejected
 - Location: Egypt
