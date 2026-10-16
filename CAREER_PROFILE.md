@@ -128,9 +128,8 @@ For current implementation details or metrics, verify against the relevant proje
 
 **Languages:** Arabic, English
 
-## Leadership and certifications currently represented
+## Certifications currently represented
 
-- Head of AI Committee, ElCoder — led workshops on AI and machine-learning fundamentals.
 - Machine Learning Specialization
 - Deep Learning Specialization
 - Google Cloud Big Data and Machine Learning Fundamentals

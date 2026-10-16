@@ -8,6 +8,24 @@ Use concise statuses where possible:
 
 `discovered` · `shortlisted` · `preparing` · `applied` · `assessment` · `interview` · `follow-up` · `rejected` · `withdrawn` · `offer` · `closed`
 
+## Graduate-study opportunities
+
+### KAUST — M.S. or M.S./Ph.D. in Computer Science, Fall 2027
+- Status: shortlisted
+- Location: Thuwal, Saudi Arabia
+- Study mode: Full-time, on campus
+- Source: KAUST official admissions site; lead discovered through a Facebook post
+- Program URL: https://cs.kaust.edu.sa/computer-science-program
+- Application URL: https://admissions.kaust.edu.sa/how-to-apply
+- Date discovered: 2026-10-16
+- Application deadline: 2027-01-03
+- Fit / rationale: High-potential academic fit. Fares has a relevant B.Sc. in Computer Science (Intelligent Systems), ranks first in his class, and has a 3.97/4.00 CGPA, comfortably above KAUST's published minimum and typical admitted-student ranges. His strongest research-facing evidence includes measurable NLP evaluation work in SAGA, production-minded AI systems, computer vision, generative AI, and robotics. Computer Science is the clearest program match, especially the Artificial Intelligence track. The principal weakness is limited documented formal research or publication experience, so the statement of purpose, research alignment, and academic recommendations will materially affect competitiveness.
+- Funding: All admitted M.S. and Ph.D. students normally receive the KAUST Fellowship: full tuition and bench fees, base accommodation, health insurance, relocation support, and a stipend worth USD 20,000 per year for M.S. students or USD 25,000–30,000 for Ph.D. students, subject to KAUST's stated sponsorship exception.
+- Required materials: English-language university transcript, concise academic CV, approximately 750-word statement of purpose, three academic/professional referees using institutional email addresses, passport copy, and an accepted English-language score before enrollment. GRE/PGAT is optional.
+- Important decision: KAUST permits only one academic-program application per year. Choose between the M.S. and the integrated M.S./Ph.D. path before preparing the final narrative; the latter is intended for applicants committed to a research career.
+- Next action: Decide M.S. versus M.S./Ph.D.; identify three academic referees and confirm their willingness; obtain an English transcript and valid passport scan; schedule IELTS/TOEFL/PTE/Cambridge testing if no valid qualifying score exists; then prepare the KAUST-specific academic CV and statement of purpose.
+- Notes: Fall 2027 applications opened 2026-09-28. The official deadline is 2027-01-03, decisions are scheduled for 2027-02-25, and the semester begins 2027-08-29. The application is free. A partial/current transcript is acceptable before graduation, but a final official transcript is required before enrollment. An English score may be added later, but KAUST recommends including it at application time. Medium-of-instruction certificates and Duolingo are not accepted for graduate admission.
+
 ## Active applications
 
 ### AMAN Holding / Raya — Riser, AI Engineer (RISE 2027)
