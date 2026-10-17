@@ -11,7 +11,7 @@ Use concise statuses where possible:
 ## Graduate-study opportunities
 
 ### KAUST — M.S. or M.S./Ph.D. in Computer Science, Fall 2027
-- Status: preparing; account creation pending confirmation
+- Status: preparing; account form completed, awaiting user password
 - Location: Thuwal, Saudi Arabia
 - Study mode: Full-time, on campus
 - Source: KAUST official admissions site; lead discovered through a Facebook post
@@ -38,8 +38,8 @@ Use concise statuses where possible:
 - Fit / rationale: Excellent academic and technical fit. Fares's B.Sc. in Computer Science (Intelligent Systems), first-place class rank, 3.97/4.00 CGPA, and verified work across applied machine learning, LLM systems, evaluation, computer vision, and production software align strongly with the program. The thesis option would strengthen his research profile; the industrial-project option also fits his applied engineering record.
 - Funding: HBKU's published standard tuition waiver for STEM master's programs is 75%. Additional scholarships and RA/TA awards are competitive, depend on merit, need, and available funds, and are not guaranteed. Selected international master's students serving as RA/TA may receive a QAR 7,000 monthly stipend for up to 21 months. The Facebook description of the program as automatically fully funded is inaccurate.
 - Required materials: Current or final transcript, CV, 300–500 word statement of purpose, two recommendations with at least one academic recommender, passport copy, QAR 250 application fee, and English proficiency at IELTS 6.5 or TOEFL iBT 79. GRE is optional.
-- Next action: Create the applicant account after action-time confirmation, then complete the core form. Confirm two recommenders, schedule an English test if needed, and obtain an English transcript and passport scan before document submission.
-- Notes: Fall 2027 applications opened 2026-10-01. The normal program duration is two years, and students choose a thesis or industrial-project route. Fares authorized starting the application on 2026-10-17. The live account form was reached and verified. A graduate AI/Data Science CV was created and validated, but no personal data has yet been transmitted and no account has been created.
+- Next action: Fares should enter and confirm a password in the prepared HBKU browser tab and select Create Account, then return control so the graduate application can be completed. Confirm two recommenders, schedule an English test if needed, and obtain an English transcript and passport scan before document submission.
+- Notes: Fall 2027 applications opened 2026-10-01. The normal program duration is two years, and students choose a thesis or industrial-project route. Fares authorized transmission of identity and contact details on 2026-10-17. The live account form is filled for Fall 2027, Graduate, Master of Science in Data Science and Engineering using the verified name, email, date of birth, international residency, Egyptian phone code, and phone number. No password was entered and the account has not yet been created. A graduate AI/Data Science CV was created and validated.
 
 ### Khalifa University — M.Sc. in Computer Science, Artificial Intelligence concentration, Fall 2027
 - Status: shortlisted; monitoring admissions opening
@@ -72,7 +72,7 @@ Use concise statuses where possible:
 - Notes: Current or expected graduates may apply under the published program rules. The 2026/2027 application and admission-test process has already passed, while a 2027/2028 application window has not been announced. Research or publications strengthen Excellence Scholarship selection, so the application should emphasize verified evaluation work and substantive technical projects without overstating formal research experience.
 
 ### University of Doha for Science and Technology — M.Sc. in Data Science and Artificial Intelligence, Fall 2027
-- Status: preparing; account creation pending confirmation
+- Status: preparing; account form partially completed, awaiting passport number, password, and security code
 - Location: Doha, Qatar
 - Study mode: Full-time, on campus
 - Source: UDST official program page; lead discovered through a Facebook admissions post
@@ -82,8 +82,8 @@ Use concise statuses where possible:
 - Fit / rationale: Excellent curriculum fit. The program covers advanced deep learning, natural language processing, computer vision, reinforcement learning, AI systems engineering, generative AI and LLMs, and offers thesis and professional routes. These areas closely match Fares's degree and verified project portfolio.
 - Funding: No current scholarship or full-funding commitment was verified from an official source. Treat this as a potentially self-funded option until tuition and funding are confirmed.
 - Required materials: Bachelor's degree certificate, official university transcript, valid passport copy, CV, and any recommendation letters requested by the program. The program requires IELTS Academic 6.0 with no band below 6.0, TOEFL iBT 72 with stated section minimums, or an accepted UDST English test; a satisfactory admissions interview is also required.
-- Next action: Create the international-applicant account after action-time confirmation and CAPTCHA completion, then fill the application. Obtain an English transcript, degree or expected-graduation document, passport scan, and qualifying English evidence. Verify funding before paying the non-refundable QAR 300 application fee.
-- Notes: The official Fall 2027 master's timetable confirms that applications opened 2026-10-15, rolling decisions begin 2027-03-01, and international applications close 2027-06-07. Fares authorized starting the application on 2026-10-17. The live account page was reached and verified. Account creation requires passport details, personal/contact data, a password, and a visual security code. A graduate AI/Data Science CV was created and validated; no account has yet been created and no fee has been paid.
+- Next action: Fares should enter the exact passport number, choose and confirm a password, enter the six-character visual security code, and select Continue in the prepared UDST browser tab. Then return control so the application can be completed. Obtain an English transcript, degree or expected-graduation document, passport scan, and qualifying English evidence. Verify funding before paying the non-refundable QAR 300 application fee.
+- Notes: The official Fall 2027 master's timetable confirms that applications opened 2026-10-15, rolling decisions begin 2027-03-01, and international applications close 2027-06-07. Fares authorized transmission of identity and contact details on 2026-10-17. The live account form is filled as an international applicant outside Qatar with Egypt as country of birth and nationality, Mr, Fares Mohamed, date of birth 2001-04-02, male, and the verified Gmail address. Passport number, password, and security code remain blank; no account has yet been created and no fee has been paid. A graduate AI/Data Science CV was created and validated.
 
 ### King Abdulaziz University — Graduate Computer Science scholarship, 2026/2027 cycle
 - Status: closed; monitor next cycle
