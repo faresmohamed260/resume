@@ -1,0 +1,81 @@
+\documentclass[letterpaper]{article}
+\usepackage[margin=0.46in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{leftmargin=*, itemsep=1pt, topsep=1pt, parsep=0pt, partopsep=0pt}
+\titleformat{\section}{\normalsize\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{4pt}{2pt}
+\newcommand{\roleline}[3]{\textbf{#1} \hfill #2 \\\textit{#3} \\}
+\newcommand{\projectheader}[2]{\textbf{#1} \hfill \textit{#2} \\}
+
+\begin{document}
+\footnotesize
+\begin{center}
+{\LARGE \textbf{Fares Mohamed}}\\[3pt]
+Alexandria, Egypt \,|\, \href{mailto:faresmohamed260@gmail.com}{faresmohamed260@gmail.com} \,|\, +20 120 554 9916\\
+\href{https://github.com/faresmohamed260}{github.com/faresmohamed260} \,|\,
+\href{https://www.linkedin.com/in/fares-mohamed-b83454194/}{linkedin.com/in/fares-mohamed-b83454194}
+\end{center}
+
+\section*{Academic Profile}
+Final-year Computer Science student specializing in Intelligent Systems, ranked first with a 3.97/4.00 CGPA. Interested in reliable artificial intelligence, natural language processing, agentic systems, computer vision, and applied machine learning. Builds evidence-grounded AI systems and evaluates them with explicit metrics, provenance, and failure-aware engineering.
+
+\section*{Education}
+\textbf{Alexandria University, Faculty of Computer and Data Science} \hfill 2022--2026\\
+B.Sc. Computer Science (Intelligent Systems) \hfill \textbf{CGPA: 3.97/4.00; Class Rank: 1st}
+
+\section*{Research and Technical Interests}
+Natural language processing; data science; large language models and agentic workflows; information retrieval; AI evaluation and reliability; computer vision; generative AI; intelligent robotics.
+
+\section*{Selected Projects}
+\projectheader{SAGA -- Agentic Narrative Intelligence Platform}{Python, NLP, LangGraph, FastAPI, PostgreSQL}
+\begin{itemize}
+\item Designing an evidence-linked platform for extracting characters, dialogue, events, relationships, state, and time from long-form narratives, with durable jobs, provenance, and bounded model use.
+\item Established evaluation contracts and measured deterministic quote detection at 0.8563 F1 and a BookNLP event-trigger challenger at 0.7791 F1.
+\end{itemize}
+
+\projectheader{RenderLab -- AI Image and Video Creation Platform}{Next.js, TypeScript, Supabase, ComfyUI, Modal}
+\begin{itemize}
+\item Built a production-domain closed beta integrating cloud-hosted generative-media workflows with durable finalization, retry/cancel/failover, owner-scoped access, and release qualification.
+\end{itemize}
+
+\projectheader{Biped Robot Control System}{Python, C++, ESP32, OpenCV, Streamlit}
+\begin{itemize}
+\item Integrated live computer vision with a six-servo biped robot, including automatic device discovery, pose calibration, ball/robot tracking, video diagnostics, and autonomous threshold-based movement.
+\end{itemize}
+
+\projectheader{VisionDeck -- Computer Vision Suite}{Python, OpenCV, MediaPipe, YOLOv8}
+\begin{itemize}
+\item Developed a dashboard for face landmarks, real-time hand tracking and gesture recognition, object detection, webcam/IP-camera input, and custom YOLOv8 fine-tuning.
+\end{itemize}
+
+\section*{Professional and Teaching Experience}
+\roleline{Kayfa}{Aug--Dec 2025}{AI Subject Matter Expert}
+\begin{itemize}
+\item Authored implementation-focused lessons, assignments, and Python notebooks on machine learning, neural networks, CNNs, clustering, anomaly detection, and unsupervised learning.
+\end{itemize}
+\roleline{Armstrong}{2023--2025}{AI \& Automation Engineer / Technical Content Creator (Part-time)}
+\begin{itemize}
+\item Built AI-assisted content pipelines and developed AI, robotics, programming, and electronics curricula for a national technology-education program.
+\end{itemize}
+\roleline{Engineering for Kids-Egypt}{2023--2025}{AI \& Robotics Instructor (Seasonal)}
+\begin{itemize}
+\item Taught learners aged 11--16 through hands-on Python, C++, Arduino, circuits, AI, and robotics projects.
+\end{itemize}
+
+\section*{Technical Skills}
+\textbf{AI/ML:} LangGraph, LLM orchestration, RAG, NLP, computer vision, OpenCV, MediaPipe, YOLO, evaluation workflows\\
+\textbf{Engineering:} Python, C++, SQL, FastAPI, React, Next.js, TypeScript, Docker, pytest, REST APIs, Git\\
+\textbf{Data/Cloud:} PostgreSQL, Supabase, pgvector, Cloudflare R2, Backblaze B2, Modal, Vercel, n8n\\
+\textbf{Languages:} Arabic (native), English (professional working proficiency)
+
+\section*{Certifications}
+Machine Learning Specialization \,|\, Deep Learning Specialization \,|\, Google Cloud Big Data and Machine Learning Fundamentals
+
+\end{document}

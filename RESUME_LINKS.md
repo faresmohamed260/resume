@@ -6,6 +6,7 @@
 
 ## Public Resume Links
 
+- Graduate AI / Data Science CV: [Fares_Mohamed_Graduate_AI_CV.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Graduate_AI_CV.pdf)
 - Agentic AI Systems / AI Engineer: [Fares_Mohamed_Agentic_AI_Systems_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_Agentic_AI_Systems_Resume.pdf)
 - AI Engineer: [Fares_Mohamed_AI_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_AI_Engineer_Resume.pdf)
 - ML Engineer: [Fares_Mohamed_ML_Engineer_Resume.pdf](https://github.com/faresmohamed260/resume/blob/main/Fares_Mohamed_ML_Engineer_Resume.pdf)

@@ -17,6 +17,7 @@ For project-specific claims, the authoritative project repository should be insp
 
 ## Resume Files
 
+- [Graduate AI / Data Science CV](Fares_Mohamed_Graduate_AI_CV.pdf)
 - [AI Engineer Resume](Fares_Mohamed_AI_Engineer_Resume.pdf)
 - [ML Engineer Resume](Fares_Mohamed_ML_Engineer_Resume.pdf)
 - [Robotics and Embedded AI Resume](Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf)
@@ -24,6 +25,7 @@ For project-specific claims, the authoritative project repository should be insp
 
 ## Sources
 
+- [Graduate AI / Data Science CV LaTeX Source](latex/Fares_Mohamed_Graduate_AI_CV.tex)
 - [Agentic AI Systems LaTeX Source](latex/Fares_Mohamed_Agentic_AI_Systems_Resume.tex)
 - [AI Engineer LaTeX Source](latex/Fares_Mohamed_AI_Engineer_Resume.tex)
 - [ML Engineer LaTeX Source](latex/Fares_Mohamed_ML_Engineer_Resume.tex)
