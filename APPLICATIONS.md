@@ -99,6 +99,23 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### MiraalTech — AI Engineering Intern
+- Status: applied
+- Location: United Kingdom company; open to remote applicants
+- Work mode: Fully remote, six-month paid internship
+- Source: MiraalTech LinkedIn hiring announcement; lead supplied through a LinkedIn reshare
+- Job URL: https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7517082107953725440-h9Ko/
+- Date discovered: 2026-10-17
+- Date applied: 2026-10-17
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong early-career fit for Python, LLMs, NLP, RAG, evaluation, FastAPI, and production-minded AI workflows. Fares's first-place Computer Science record and verified SAGA and RenderLab work provide relevant evidence for the internship's hands-on AI focus. Healthcare-domain experience is not established, but the application accurately positioned safety, privacy, and reliability as areas he is ready to learn.
+- Compensation: Paid monthly stipend; amount not stated
+- Important screening answers: The public announcement targets students and recent graduates and describes six months of remote work on real healthcare projects. The application email stated availability for the full six-month remote internship and linked Fares's GitHub and LinkedIn profiles without adding unverified healthcare experience.
+- Recruiter/contact: MiraalTech hiring team, contact@miraaltech.com
+- Next action: Monitor email for acknowledgment, screening questions, assessment, or interview outreach; follow up if there is no response.
+- Follow-up date: 2026-10-24
+- Notes: Verified against MiraalTech's official LinkedIn presence, official website, and active UK Companies House registration before applying. A tailored email was sent successfully from `faresmohamed260@gmail.com` to `contact@miraaltech.com` on 2026-10-17 with the AI Engineer resume attached and subject `Application - AI Engineering Intern`.
+
 ### AMAN Holding / Raya — Riser, AI Engineer (RISE 2027)
 - Status: applied
 - Location: Cairo, Egypt
