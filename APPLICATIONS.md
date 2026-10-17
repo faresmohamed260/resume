@@ -26,6 +26,77 @@ Use concise statuses where possible:
 - Next action: Decide M.S. versus M.S./Ph.D.; identify three academic referees and confirm their willingness; obtain an English transcript and valid passport scan; schedule IELTS/TOEFL/PTE/Cambridge testing if no valid qualifying score exists; then prepare the KAUST-specific academic CV and statement of purpose.
 - Notes: Fall 2027 applications opened 2026-09-28. The official deadline is 2027-01-03, decisions are scheduled for 2027-02-25, and the semester begins 2027-08-29. The application is free. A partial/current transcript is acceptable before graduation, but a final official transcript is required before enrollment. An English score may be added later, but KAUST recommends including it at application time. Medium-of-instruction certificates and Duolingo are not accepted for graduate admission.
 
+### Hamad Bin Khalifa University — M.S. in Data Science and Engineering, Fall 2027
+- Status: shortlisted
+- Location: Doha, Qatar
+- Study mode: Full-time, on campus
+- Source: HBKU official admissions, program, and scholarship pages; lead discovered through three duplicate Facebook posts
+- Program URL: https://www.hbku.edu.qa/en/cse/ms-data-science-engineering
+- Application URL: https://www.hbku.edu.qa/en/cse/admission-requirements
+- Date discovered: 2026-10-17
+- Application deadline: 2027-02-01 for international applicants
+- Fit / rationale: Excellent academic and technical fit. Fares's B.Sc. in Computer Science (Intelligent Systems), first-place class rank, 3.97/4.00 CGPA, and verified work across applied machine learning, LLM systems, evaluation, computer vision, and production software align strongly with the program. The thesis option would strengthen his research profile; the industrial-project option also fits his applied engineering record.
+- Funding: HBKU's published standard tuition waiver for STEM master's programs is 75%. Additional scholarships and RA/TA awards are competitive, depend on merit, need, and available funds, and are not guaranteed. Selected international master's students serving as RA/TA may receive a QAR 7,000 monthly stipend for up to 21 months. The Facebook description of the program as automatically fully funded is inaccurate.
+- Required materials: Current or final transcript, CV, 300–500 word statement of purpose, two recommendations with at least one academic recommender, passport copy, QAR 250 application fee, and English proficiency at IELTS 6.5 or TOEFL iBT 79. GRE is optional.
+- Next action: Confirm two recommenders, schedule an English test if needed, obtain an English transcript and passport scan, and prepare an HBKU-specific academic CV and statement of purpose before the deadline.
+- Notes: Fall 2027 applications opened 2026-10-01. The normal program duration is two years, and students choose a thesis or industrial-project route.
+
+### Khalifa University — M.Sc. in Computer Science, Artificial Intelligence concentration, Fall 2027
+- Status: shortlisted; monitoring admissions opening
+- Location: Abu Dhabi, United Arab Emirates
+- Study mode: Full-time, on campus
+- Source: Khalifa University official postgraduate admissions, program, and scholarship pages; direct official link supplied by Fares
+- Program URL: https://www.ku.ac.ae/academics/graduate-programs/master-of-science-in-computer-science
+- Application URL: https://www.ku.ac.ae/postgraduate-admissions
+- Date discovered: 2026-10-17
+- Application deadline: Not announced for Fall 2027 as of 2026-10-17
+- Fit / rationale: Excellent fit. Fares has a directly relevant B.Sc., a 3.97/4.00 CGPA, and strong evidence in AI/ML, LLM systems, computer vision, robotics, software engineering, and applied evaluation. The Artificial Intelligence concentration is the clearest program match.
+- Funding: International master's scholarships are competitive and merit-based rather than automatic. Depending on the award tier, support may include full or partial tuition, textbooks, accommodation, medical insurance, visa support, and travel support. The published master's scholarship information does not guarantee a monthly stipend.
+- Required materials: Minimum 3.0 CGPA, Academic IELTS 6.5 or TOEFL iBT 91 by the application deadline, two academic recommendations, transcript, CV, statement, and the remaining official application documents. Final-year students may apply with a current transcript and a university letter confirming expected graduation.
+- Next action: Monitor the official admissions page for the Fall 2027 window; identify two academic recommenders and prepare the English test and academic materials in advance. Do not create or submit an application until the cycle opens and Fares authorizes it.
+- Notes: Spring 2027 postgraduate admissions are closed. Khalifa University permits one graduate-program application per semester.
+
+### Kuwait University — M.Sc. in Computer Science with Excellence Scholarship
+- Status: shortlisted; monitoring application window
+- Location: Kuwait
+- Study mode: Full-time, on campus
+- Source: Kuwait University official College of Graduate Studies program and Excellence Scholarship pages; lead discovered through a Facebook post
+- Program URL: https://cgs.ku.edu.kw/areas/science/computer-science/
+- Scholarship URL: https://cgs.ku.edu.kw/excellence-scholarship/admission-requirements-excellence-scholarship/
+- Date discovered: 2026-10-17
+- Application deadline: Current international application window not verified as of 2026-10-17
+- Fit / rationale: Strong academic and subject fit. The program accepts Computer Science and Artificial Intelligence degrees, and Fares's 3.97/4.00 CGPA substantially exceeds the published minimums. His AI/ML, computer vision, software, and evaluation portfolio is relevant. Competitiveness is high because the program lists five seats and uses an admission examination.
+- Funding: The Excellence Scholarship publishes a KWD 1,000 monthly award for master's students, international-student housing, and arrival and return flights. Selection is competitive and requires full-time enrollment; meeting eligibility does not guarantee an award.
+- Required materials: The Computer Science program publishes a minimum 2.67 GPA, IELTS 6.0 with no skill below 5.5 or an accepted TOEFL score, and an admission exam weighted at 60%. Excellence Scholarship eligibility includes at least a 3.0 GPA, academic recommendations, English proficiency, and applicable standardized-test requirements.
+- Next action: Verify the next application dates and exact standardized-test requirement for the College of Science; prepare for the admission exam, identify academic recommenders, and schedule IELTS if needed.
+- Notes: Current or expected graduates may apply under the published program rules. Research or publications strengthen Excellence Scholarship selection, so the application should emphasize verified evaluation work and substantive technical projects without overstating formal research experience.
+
+### University of Doha for Science and Technology — M.Sc. in Data Science and Artificial Intelligence, Fall 2027
+- Status: discovered; funding and deadline verification required
+- Location: Doha, Qatar
+- Study mode: Full-time, on campus
+- Source: UDST official program page; lead discovered through a Facebook admissions post
+- Program URL: https://www.udst.edu.qa/master-science-data-science-and-artificial-intelligence-msc-dsai
+- Date discovered: 2026-10-17
+- Application deadline: Not verified from an official current admissions timetable
+- Fit / rationale: Excellent curriculum fit. The program covers advanced deep learning, natural language processing, computer vision, reinforcement learning, AI systems engineering, generative AI and LLMs, and offers thesis and professional routes. These areas closely match Fares's degree and verified project portfolio.
+- Funding: No current scholarship or full-funding commitment was verified from an official source. Treat this as a potentially self-funded option until tuition and funding are confirmed.
+- Required materials: Confirm against the live Fall 2027 admissions requirements before preparing an application.
+- Next action: Verify the official Fall 2027 deadline, international tuition, scholarship eligibility, and application requirements. Prioritize only if meaningful funding is available.
+- Notes: The Facebook post says Fall 2027 admissions are open, but the decision should rely on the university's official application timetable and funding terms.
+
+### King Abdulaziz University — Graduate Computer Science scholarship, 2026/2027 cycle
+- Status: closed; monitor next cycle
+- Location: Jeddah, Saudi Arabia
+- Study mode: Full-time, on campus
+- Source: King Abdulaziz University official international-admissions announcement and scholarship page; lead discovered through a Facebook post
+- Program URL: https://www.kau.edu.sa/en/page/scholarship
+- Date discovered: 2026-10-17
+- Application deadline: 2026-10-06; closed
+- Fit / rationale: Relevant Computer Science graduate programs and international scholarships exist, and Fares's academic profile is competitive. This specific cycle cannot be pursued because the official application window ran from 2026-09-16 through 2026-10-06.
+- Next action: Monitor the official KAU and Study in Saudi channels for the next international graduate cycle; do not use third-party application links.
+- Notes: Retained to prevent treating recycled Facebook posts as an active 2027 application.
+
 ## Active applications
 
 ### AMAN Holding / Raya — Riser, AI Engineer (RISE 2027)
