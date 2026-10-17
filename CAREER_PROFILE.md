@@ -23,7 +23,7 @@ This file is the living factual career record used to maintain resumes, evaluate
 
 - Degree awarded: 19 August 2026
 - Class rank: 1st
-- CGPA: 3.97/4.00
+- CGPA: 3.9738/4.00 (commonly rounded to 3.97)
 
 ## Experience
 
