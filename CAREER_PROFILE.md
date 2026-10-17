@@ -21,6 +21,7 @@ This file is the living factual career record used to maintain resumes, evaluate
 
 **Alexandria University, Faculty of Computer and Data Science** — B.Sc. Computer Science (Intelligent Systems), 2022–2026
 
+- Degree awarded: 19 August 2026
 - Class rank: 1st
 - CGPA: 3.97/4.00
 
