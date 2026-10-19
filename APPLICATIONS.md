@@ -644,7 +644,7 @@ Use concise statuses where possible:
 - Notes: The application portal displayed `Your application has been received! Thank you for applying.` on 2026-10-09.
 
 ### EduMatch — Online Teacher
-- Status: applied; profile awaiting approval
+- Status: shortlisted; interview scheduling pending
 - Location: Egypt
 - Work mode: Remote, contract
 - Source: LinkedIn; company teacher-registration portal
@@ -655,10 +655,10 @@ Use concise statuses where possible:
 - Fit / rationale: Strong match for flexible one-on-one online teaching, Computer Science instruction, project-based learning, Arabic/English communication, and experience teaching learners aged 11–16.
 - Compensation:
 - Important screening answers: Teaching experience: 3 years. Languages: Arabic and English. Selected teaching subjects: American-system Computer Science for Grades 8 and 9. Phone and WhatsApp use the confirmed Egyptian number. The profile bio emphasizes hands-on AI, robotics, Arduino, Python, and C++ instruction.
-- Recruiter/contact:
-- Next action: Monitor for profile approval, interview invitation, or lesson-matching instructions.
-- Follow-up date: 2026-10-16
-- Notes: EduMatch displayed `Welcome to EduMatch4u, Fares Mohamed!` and confirmed that the profile was submitted and awaiting approval on 2026-10-09. An EduMatch teacher account was created as part of the application; no password is stored in this repository.
+- Recruiter/contact: EduMatch HR (`hr@edumatch4u.com`)
+- Next action: Wait for EduMatch to propose an interview time; verify availability before scheduling and prepare to discuss project-based Computer Science teaching for Grades 8 and 9.
+- Follow-up date: 2026-10-23
+- Notes: EduMatch displayed `Welcome to EduMatch4u, Fares Mohamed!` and confirmed that the profile was submitted and awaiting approval on 2026-10-09. An EduMatch teacher account was created as part of the application; no password is stored in this repository. EduMatch HR emailed on 2026-10-18 at 20:06 Cairo time that the teacher application was shortlisted and its team would contact Fares shortly to schedule an interview. No specific interview time or deadline was given.
 
 ### Strattmont — Instructional Design Specialist
 - Status: applied
