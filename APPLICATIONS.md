@@ -1584,6 +1584,57 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-28
 - Notes: Ashby displayed `Success` and `Thank you for applying to ElevenLabs! We'll be in touch via email shortly.`
 
+### EGXBot — AI Developer (Python/ML)
+- Status: applied
+- Location: Egypt / worldwide
+- Work mode: Remote, full-time
+- Source: Official EGXBot careers page
+- Job URL: https://egxbot.com/en/careers
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong match for Python, machine learning, data and inference pipelines, PostgreSQL, evaluation, and production-oriented AI engineering. The role focuses on technical-analysis and AI models for Egyptian Exchange signals and real-time data processing. Fares does not claim prior trading-domain experience, but his verified work demonstrates rigorous evaluation, reliable AI pipelines, APIs, data systems, and production-minded engineering.
+- Compensation: Not stated; the careers page advertises competitive salary plus a free product subscription.
+- Important screening answers: A tailored email highlighted first-place academic rank, Python, PyTorch, AI and data pipelines, FastAPI, PostgreSQL/Supabase, Docker, CI/CD, evaluation, and durable job processing. It explicitly stated that Fares's background is stronger in AI engineering than financial analysis and expressed readiness to learn the market domain. GitHub and LinkedIn profiles were included.
+- Recruiter/contact: EGXBot team, `support@egxbot.com`
+- Next action: Monitor email for a response or interview invitation.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully from `faresmohamed260@gmail.com` with the agentic-AI resume attached and subject `Job application: AI Developer`. Gmail message ID: `1a160911f93ececb`.
+
+### Avtrix AI Solutions — AI Developer (Full Stack)
+- Status: applied
+- Location: Remote
+- Work mode: Fully remote, contract; application stated availability for full-time contract hours
+- Source: Official Avtrix AI Solutions careers page
+- Job URL: https://avtrix.ai/careers/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent direct match for shipping end-to-end AI features from model integration through production Python services and React interfaces. Fares's verified experience covers Python/FastAPI, Next.js/React and TypeScript, LangGraph agents, tool orchestration, RAG, PostgreSQL/Supabase, Docker, testing, CI/CD, durable execution, structured outputs, evaluation, recovery, and observability.
+- Compensation: Not stated.
+- Important screening answers: A tailored email stated immediate availability and openness to full-time contract hours. It emphasized first-place academic rank and production-oriented agentic/full-stack work, with links to the GitHub portfolio, SAGA repository, and LinkedIn profile.
+- Recruiter/contact: Avtrix recruitment team, `info@avtrix.ai`
+- Next action: Monitor email for a response or screening conversation.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully from `faresmohamed260@gmail.com` with the agentic-AI resume attached and subject `Application — AI Developer (Full Stack)`. Gmail message ID: `1a1609192d18abce`.
+
+### Finviz — AI Engineer (LLM/Agents)
+- Status: applied
+- Location: Remote, UTC±3 hours; Fares is based in Egypt at UTC+2
+- Work mode: Remote, full-time with flexible schedule
+- Source: Official Finviz careers page
+- Job URL: https://finviz.com/careers/ai-engineer
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional direct match for LLM-powered product features, agentic workflows, tool calling, grounded outputs, provider/model routing, fallbacks, evaluation pipelines, regression tests, observability, Python orchestration, React, and TypeScript. SAGA supplies relevant evidence for provenance, structured tools, durable agents, hybrid retrieval, and measurable evaluation gates; RenderLab supplies strong evidence for durable jobs, retries, failover, idempotent finalization, observability, and guarded releases. The listing explicitly says deep finance experience is not required.
+- Compensation: Competitive salary stated; no numeric range published.
+- Important screening answers: The tailored email described SAGA and RenderLab using verified production-status language, did not claim finance expertise, and expressed genuine interest in learning the domain. It supplied GitHub, SAGA, and LinkedIn links, Alexandria/Egypt location, UTC+2 availability, and immediate start availability.
+- Recruiter/contact: Finviz hiring team, `join@finviz.com`
+- Next action: Monitor email for a response or interview request.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully from `faresmohamed260@gmail.com` with the agentic-AI resume attached and subject `Application — AI Engineer (LLM/Agents)`. Gmail message ID: `1a16091ef90a8827`.
+
 ## Application record format
 
 Add one section per serious opportunity:
