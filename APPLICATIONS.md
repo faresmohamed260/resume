@@ -1822,6 +1822,23 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-29
 - Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application for AI Engineer Intern — Fares Mohamed`. Gmail message ID: `1a160c7c4d3534c7`.
 
+### MailerMen — Machine Learning Intern (Python, scikit-learn)
+- Status: applied
+- Location: Remote worldwide; application disclosed Alexandria, Egypt
+- Work mode: Remote, three-month paid internship; requires overlap with Indian Standard Time afternoons twice weekly
+- Source: Official MailerMen job listing and company contact channel
+- Job URL: https://www.mailermen.com/jobs/machine-learning-intern-python-scikit-learn-remote-worldwide-280
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong fresh-graduate NLP and classical-ML match for Python, pandas, scikit-learn, text vectorization, classification metrics, cross-validation, TF-IDF versus embedding experiments, per-class precision and recall, held-out evaluation, failure analysis, batch processing, and documentation. The role explicitly accepts applicants worldwide, requires no professional background, and is restricted to freshers.
+- Compensation: ₹15,000–₹20,000 per month or local equivalent.
+- Important screening answers: The tailored email stated that Fares recently graduated first in his Computer Science (Intelligent Systems) class with a 3.9738/4.0 CGPA, is based in Alexandria, is immediately available, and can overlap with Indian Standard Time afternoons. It highlighted SAGA's evidence-grounded NLP pipelines, 0.8563 deterministic quote-detection F1, 0.7791 BookNLP event-trigger challenger F1, disciplined separation of experimental and adopted behavior, and implementation-focused ML notebooks. It also described a truthful proposed approach using a reproducible labelled baseline, TF-IDF and embedding comparisons, per-class metrics, a held-out test set, documented taxonomy ambiguity, and a production nightly batch process. GitHub, LinkedIn, Kaggle, and Hugging Face links were included.
+- Recruiter/contact: MailerMen team, `support@mailermen.com`
+- Next action: Monitor email and confirm that the support channel routes the attached application to the internship hiring owner.
+- Follow-up date: 2026-10-29
+- Notes: The official listing's in-site application route requires a MailerMen account. The same application materials were sent successfully to the company's published support inbox with subject `Application — Machine Learning Intern (Python, scikit-learn) — Fares Mohamed`. Gmail message ID: `1a160c9c474c6162`.
+
 ## Application record format
 
 Add one section per serious opportunity:
