@@ -21,7 +21,7 @@ Use concise statuses where possible:
 - Application deadline: 2027-01-03
 - Fit / rationale: High-potential academic fit. Fares has a relevant B.Sc. in Computer Science (Intelligent Systems), ranks first in his class, and has a 3.97/4.00 CGPA, comfortably above KAUST's published minimum and typical admitted-student ranges. His strongest research-facing evidence includes measurable NLP evaluation work in SAGA, production-minded AI systems, computer vision, generative AI, and robotics. Computer Science is the clearest program match, especially the Artificial Intelligence track. The principal weakness is limited documented formal research or publication experience, so the statement of purpose, research alignment, and academic recommendations will materially affect competitiveness.
 - Funding: All admitted M.S. and Ph.D. students normally receive the KAUST Fellowship: full tuition and bench fees, base accommodation, health insurance, relocation support, and a stipend worth USD 20,000 per year for M.S. students or USD 25,000–30,000 for Ph.D. students, subject to KAUST's stated sponsorship exception.
-- Required materials: English-language university transcript, concise academic CV, approximately 750-word statement of purpose, three academic/professional referees using institutional email addresses, passport copy, and an accepted English-language score before enrollment. GRE/PGAT is optional.
+- Required materials: English-language university transcript, concise academic CV, approximately 750-word statement of purpose, three academic/professional referees using institutional email addresses, passport copy, and an accepted English-language score before enrollment. The current official threshold is IELTS Academic 7.0 overall with at least 6.5 in every section; IELTS One Skill Retake is not accepted. GRE/PGAT is optional.
 - Important decision: KAUST permits only one academic-program application per year. Choose between the M.S. and the integrated M.S./Ph.D. path before preparing the final narrative; the latter is intended for applicants committed to a research career.
 - Next action: Decide M.S. versus M.S./Ph.D.; identify three academic referees and confirm their willingness; obtain an English transcript and valid passport scan; schedule IELTS/TOEFL/PTE/Cambridge testing if no valid qualifying score exists; then prepare the KAUST-specific academic CV and statement of purpose.
 - Notes: Fall 2027 applications opened 2026-09-28. The official deadline is 2027-01-03, decisions are scheduled for 2027-02-25, and the semester begins 2027-08-29. The application is free. A partial/current transcript is acceptable before graduation, but a final official transcript is required before enrollment. An English score may be added later, but KAUST recommends including it at application time. Medium-of-instruction certificates and Duolingo are not accepted for graduate admission.
@@ -847,6 +847,709 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-18
 - Notes: The careers page displayed `Thank you! Your application has been received — we'll be in touch.` on 2026-10-11.
 
+### Engage ID — Technical Support Engineer
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4478219805/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Adjacent customer-facing engineering role with strong overlap in APIs, webhooks, JSON, logs, debugging, technical documentation, and AI-powered systems.
+- Compensation:
+- Important screening answers: English proficiency: professional. LinkedIn follow-company option was left unchecked.
+- Recruiter/contact:
+- Next action: Monitor for recruiter response or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: LinkedIn displayed a successful application submission.
+
+### BNB Chain — Technical Support Engineer / Tech Ops Intern
+- Status: applied
+- Location: EMEA
+- Work mode: Remote, internship
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4478425184/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Relevant technical-operations opportunity with overlap in Python, APIs, troubleshooting, documentation, and developer-facing systems.
+- Compensation:
+- Important screening answers: Available four days per week.
+- Recruiter/contact:
+- Next action: Monitor for recruiter response or screening.
+- Follow-up date: 2026-10-26
+- Notes: LinkedIn displayed a successful application submission.
+
+### Sonata Software — Support Engineer
+- Status: applied
+- Location: Egypt
+- Work mode: Remote
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4478425770/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Adjacent support-engineering role aligned with technical troubleshooting, software systems, APIs, documentation, and customer communication.
+- Compensation:
+- Important screening answers: Employment sponsorship required: no.
+- Recruiter/contact:
+- Next action: Monitor for recruiter response or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: LinkedIn displayed a successful application submission.
+
+### Napster Corp — Partner Solutions Engineer, EMEA
+- Status: applied
+- Location: EMEA
+- Work mode: Remote
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4477717986/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical overlap in AI/LLM APIs, integrations, demos, full-stack systems, and explaining technical tradeoffs; customer-facing experience requirements make it a stretch.
+- Compensation:
+- Important screening answers: Customer-facing solutions role experience: no. Built demos/POCs in a customer-facing role: no. Hands-on AI/LLM API experience: yes. Sponsorship required: no.
+- Recruiter/contact:
+- Next action: Monitor for recruiter response.
+- Follow-up date: 2026-10-26
+- Notes: LinkedIn displayed a successful application submission.
+
+### Welo Global — AI Trainers Network, Arabic
+- Status: accepted into talent network; no immediate opening
+- Location: Egypt / worldwide
+- Work mode: Remote, freelance talent network
+- Source: Official Lever careers page
+- Job URL: https://jobs.lever.co/weloglobal/a905b7ef-1a1f-4470-ac7a-26de46b06d08
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for native Egyptian Arabic, MSA, English, AI evaluation, analytical review, quality assurance, data work, and technical instruction.
+- Compensation: Project-specific; not stated in the network listing.
+- Important screening answers: Egypt-born and resident; Arabic C2; English C1; Egyptian Arabic and MSA; bachelor's degree; availability and experience selections reflected the verified career record.
+- Recruiter/contact:
+- Next action: Monitor for a project invitation or assessment; Welo said it will proactively contact candidates when a matching opportunity arises.
+- Follow-up date: 2026-10-26
+- Notes: Lever displayed the application thank-you page. Welocalize emailed on 2026-10-19 that Fares was added to the Welo Data Talent Network. The message explicitly said there may not be an immediate opening and that the recruitment team will consider the network for future projects.
+
+### GamaLearn — Senior Technical Support Engineer
+- Status: rejected
+- Location: Egypt
+- Work mode: Remote
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4471429474/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Stretch support role; relevant strengths include APIs, debugging, documentation, Python, web systems, and technical communication, but dedicated support tenure and Zendesk experience are limited.
+- Compensation:
+- Important screening answers: Support experience: 1–2 years. Salary: negotiable based on responsibilities and total compensation. Notice: available immediately. Current-title selector required the available `Fresher` option.
+- Recruiter/contact: GamaLearn Recruitment Team (`careers@gamalearn.com`)
+- Next action: None; retain for duplicate detection and future role comparison.
+- Follow-up date:
+- Notes: LinkedIn displayed a successful application submission. GamaLearn emailed on 2026-10-19 at 02:53 Cairo time that it would not invite Fares to the next phase because another candidate more closely matched the Senior Technical Support Engineer role.
+
+### East Atlantic University — Advanced AI Engineering Instructor
+- Status: applied — viewed by employer
+- Location: Remote / online
+- Work mode: Remote instruction
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4480871924/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong overlap in applied AI, LLM systems, Python, evaluation, and technical teaching; the preferred PhD makes this a stretch.
+- Compensation:
+- Important screening answers: PhD: no. LinkedIn follow-company option was left unchecked.
+- Recruiter/contact:
+- Next action: Monitor for instructional screening or teaching-demo request.
+- Follow-up date: 2026-10-26
+- Notes: LinkedIn displayed a successful application submission. LinkedIn notified Fares on 2026-10-19 that East Atlantic University viewed the application.
+
+### Infinity — Full Stack AI Engineer
+- Status: applied
+- Location: Global
+- Work mode: Remote, contract-to-hire
+- Source: Official Ashby careers page
+- Job URL: https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent match for agentic AI, LangGraph, FastAPI, Python, React/Next.js, TypeScript, PostgreSQL/Supabase, Docker, cloud deployment, rapid prototyping, and production-minded evaluation.
+- Compensation:
+- Important screening answers: Selected the Infinity Constellation team and supplied a concise fit statement covering SAGA, RenderLab, agentic systems, full-stack delivery, and GitHub.
+- Recruiter/contact:
+- Next action: Monitor for coding exercise or interview.
+- Follow-up date: 2026-10-26
+- Notes: Ashby displayed `Your application was successfully submitted.`
+
+### Bayanat Labs — Software & Code AI Evaluator
+- Status: applied
+- Location: Worldwide
+- Work mode: Remote, freelance
+- Source: Official company talent network
+- Job URL: https://www.bayanatlabs.com/apply?job=software-code-evaluator&lang=en
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, C++, JavaScript/TypeScript, debugging, testing, AI-output evaluation, rubric-based review, edge-case analysis, and bilingual technical feedback.
+- Compensation: Premium rate; paid per approved task or project.
+- Important screening answers: Egypt resident; Alexandria; Egyptian nationality; English advanced; Arabic C2; Egyptian Arabic and MSA; software/coding and STEM expertise; 3–5 years relevant experience; bachelor's degree; not living in Saudi Arabia.
+- Recruiter/contact:
+- Next action: Monitor email and WhatsApp for project matching.
+- Follow-up date: 2026-10-26
+- Notes: The official site displayed `Application received!`.
+
+### Firework — AI Livestream Specialist, Middle East
+- Status: applied
+- Location: Egypt
+- Work mode: Remote; occasional regional client meetings may be required
+- Source: Official Lever careers page
+- Job URL: https://jobs.lever.co/fireworkhq/ac7d7bcb-b362-43e4-8f22-f912c89ef890
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Adjacent creative-technology role with meaningful overlap in generative AI, RenderLab image/video workflows, AI-assisted content QA, full-stack tooling, analytics, Arabic/English communication, and production-minded iteration; direct livestream production experience is a gap.
+- Compensation:
+- Important screening answers: Alexandria, Egypt; current company listed as Independent / Self-employed; LinkedIn profile supplied; pronouns he/him.
+- Recruiter/contact:
+- Next action: Monitor for recruiter response, portfolio request, or creative/technical screening.
+- Follow-up date: 2026-10-26
+- Notes: Lever displayed `Application submitted!`.
+
+### YPAI — Model Evaluator
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, freelance
+- Source: Official YPAI freelance jobs page
+- Job URL: https://freelancer.ypai.ai/jobs/openings/model-evaluator-eg
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: No CV required or submitted.
+- Fit / rationale: Strong match for careful AI-response evaluation, factual checking, written reasoning, rubric-based review, English comprehension, and identifying unsafe or policy-breaking output.
+- Compensation: Typical project pay of EGP 300–450 per hour; project-specific terms are shown before acceptance.
+- Important screening answers: Egypt; phone and email supplied; consented to application processing and creation of a YPAI Freelance profile.
+- Recruiter/contact:
+- Next action: Monitor email for selection and project invitations; complete the freelance profile if requested.
+- Follow-up date: 2026-10-26
+- Notes: The official site displayed `Application received`; the YPAI Freelance profile was also created successfully.
+
+### TSMG — AI Tester with Arabic Language
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time contract
+- Source: Official Lever careers page
+- Job URL: https://jobs.lever.co/tsmg/656b4af1-e142-4eb1-98fd-da5e1bff0459
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for native Egyptian Arabic, professional English, Python and LLM experience, structured AI-output testing, QA, and clear technical documentation.
+- Compensation:
+- Important screening answers: Cairo, Egypt; native Egyptian Arabic; professional English; consented to recruitment data processing; declined academy marketing; male; declined to disclose race/ethnicity; not a veteran.
+- Recruiter/contact:
+- Next action: Monitor email for assessment or recruiter follow-up.
+- Follow-up date: 2026-10-26
+- Notes: Lever displayed `Application submitted!`.
+
+### Lucidya — 10x Software Engineer
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time
+- Source: Official Workable careers page
+- Job URL: https://apply.workable.com/lucidya/j/5294DA8CF4/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: High-upside stretch role whose posting explicitly prioritizes impact over junior/senior title; relevant overlap includes Python backends, PostgreSQL, AI/LLM systems, testing, observability, documentation, debugging, and Arabic-language product context.
+- Compensation: Candidate entered that compensation is negotiable and should be market-competitive in USD based on scope and employment arrangement.
+- Important screening answers: Confirmed deliberate application; described Python/FastAPI, PostgreSQL, Docker, LLM, RAG, evaluation, testing, debugging, and documentation experience; available immediately.
+- Recruiter/contact:
+- Next action: Monitor email for technical screening or interview invitation.
+- Follow-up date: 2026-10-26
+- Notes: Workable displayed `Your application has been submitted successfully.`
+
+### Volga Partners — Arabic Junior Auditor
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, part-time; fixed Pacific-time schedule
+- Source: Official Workable careers page
+- Job URL: https://apply.workable.com/volga-partners/j/F89B910077/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for native Egyptian Arabic, advanced English, AI-output evaluation, detailed guideline adherence, issue escalation, technical review, documentation, and consistent quality work.
+- Compensation: USD 4.00 per hour requested, within the posting's USD 3.50–4.00 range.
+- Important screening answers: Egypt resident; willing to undergo lawful background check and unpaid skills assessment; English and Arabic rated L3 Advanced without certification; available for Pacific-time fixed schedule and 20 hours weekly; comfortable reviewing sensitive content and protecting confidential information; no prior formal paid data-labeling role; has not previously applied to Volga Partners.
+- Recruiter/contact:
+- Next action: Monitor email for skills assessment or recruiter follow-up.
+- Follow-up date: 2026-10-26
+- Notes: The final schedule choice was selected based on the question's stated 20-hour weekly requirement and 9 AM–1 PM PST window, although its option text inconsistently said 40 hours. Workable displayed `Your application has been submitted successfully.`
+
+### Yassir — Mid/Senior Data Scientist
+- Status: applied
+- Location: Alexandria / Cairo, Egypt
+- Work mode: Remote location selected; listing tagged full-time and hybrid
+- Source: Official Lever careers page
+- Job URL: https://jobs.lever.co/Yassir/5cce871c-6c88-43e3-9ebc-b808377696dc
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: The posting explicitly invites candidates of any level; relevant overlap includes Python, SQL, machine learning, data quality, model lifecycle, production testing, and technical documentation. Its preferred master's degree and two years of industry experience make this a reasonable stretch role.
+- Compensation:
+- Important screening answers: Applied for the `remote` location; current location Alexandria, Egypt; current company listed as Independent / Self-employed; LinkedIn, GitHub, and portfolio links supplied.
+- Recruiter/contact:
+- Next action: Monitor email for recruiter response or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: Lever displayed `Application submitted!`.
+
+### Corpshore AI / Jwuma — Arabic AI Annotator / Evaluator Talent Pool
+- Status: applied
+- Location: Alexandria, Egypt
+- Work mode: Remote, worldwide; project, contract, task, and hourly opportunities
+- Source: Official Corpshore/Jwuma careers page and official recruitment email fallback
+- Job URL: https://platform.corpshore.ai/careers
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_SME_Technical_Instructor_Resume.pdf`
+- Fit / rationale: Strong match for Egyptian Arabic and Modern Standard Arabic annotation, AI-output evaluation, red-teaming, computer-science/code review, machine-learning expert work, QA, and technical documentation. One application is considered across every suitable open project.
+- Compensation: Varies by matched project; official careers page states weekly payouts for approved work.
+- Important screening answers: Alexandria, Egypt; Arabic (Egyptian dialect and MSA) and English; annotation/labelling and evaluation/red-teaming interests; education and technology domain expertise; three years relevant experience; available up to 40 hours weekly; LinkedIn and GitHub supplied.
+- Recruiter/contact: recruitment@corpshore.solutions
+- Next action: Monitor email for human review, skills assessment, onboarding, or project matching.
+- Follow-up date: 2026-10-26
+- Notes: The web form returned a server-side error and explicitly instructed applicants to email recruitment. The same application and resume were sent to the official recruitment address; Gmail confirmed `Message sent`.
+
+### York Towers / Dwelleo — AI Automation Engineer / AI Agent Workflow Architect
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn listing → official Velents application
+- Job URL: https://www.linkedin.com/jobs/view/4477298868/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Exceptional direct match for n8n, AI agents, business-process automation, Odoo/CRM-adjacent workflows, REST APIs, webhooks, human-review controls, testing, monitoring, and cross-functional delivery.
+- Compensation: EGP 40,000 gross monthly, negotiable.
+- Important screening answers: Immediate availability with a zero-day notice period; professional n8n and AI-agent workflow experience; highlighted Armstrong's n8n AI content pipeline, durable AI job workflows, tested Odoo business workflows, LangGraph, tool calling, structured outputs, RAG, persistent state, and evaluation. Disclosed no direct production lead-management experience while explaining transferable routing, approval, monitoring, API, and Odoo work.
+- Recruiter/contact:
+- Next action: Monitor email for recruiter response or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: Velents displayed `Thanks! Your application is submitted successfully.`
+
+### HKR.TEAM — Automation & Integrations Engineer
+- Status: applied
+- Location: Remote; listing targeted EMEA with LATAM preferred and required U.S. Pacific-time overlap
+- Work mode: Remote, full-time independent contractor
+- Source: LinkedIn listing → official Lever application
+- Job URL: https://jobs.eu.lever.co/hkr/88635ec5-c584-4725-8f7e-44310ce9e5cd
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for n8n, Python, JavaScript, REST APIs, webhooks, LLM APIs, AI agents, PostgreSQL, Docker, Odoo, validation, error handling, technical documentation, and reliable integration workflows.
+- Compensation: USD 2,500 gross monthly, negotiable.
+- Important screening answers: Alexandria, Egypt; English C1; immediate availability; willing to work as an independent contractor, overlap with U.S. Pacific hours, and participate in a weekend support rotation. Selected only verified skills: Python, JavaScript, REST APIs, webhooks, LLM APIs, AI agents, and n8n. Highlighted n8n/Python pipelines, LLM integrations, event-driven APIs, validation, failure handling, and documented outcomes.
+- Recruiter/contact:
+- Next action: Monitor email for recruiter response or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: Lever displayed `Application submitted!`.
+
+### Arabic.AI / Tarjama& — AI Engineer
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: Relomote discovery → official Workable application
+- Job URL: https://apply.workable.com/arabicai/j/FF9481A413/
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent match for agentic workflows, tool-using AI systems, RAG, embeddings, multimodal AI, evaluation, data pipelines, deployment, monitoring, Python engineering, and Arabic-language product work. The role is explicitly remote in Egypt and supports engineers owning well-scoped components with senior guidance.
+- Compensation: USD 1,500 gross monthly, negotiable.
+- Important screening answers: Egypt resident; available immediately with a zero-day notice period; two professional references available upon request. Contact details and the AI Engineer resume were supplied.
+- Recruiter/contact:
+- Next action: Monitor email for the application copy, recruiter response, or technical screening.
+- Follow-up date: 2026-10-26
+- Notes: Workable displayed `Thank you! Your application has been submitted successfully.` and stated that a copy would be emailed for Fares's records.
+
+### Valeo — Graduate In Training Program (GIT), AI Engineer
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: On-site, full-time
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/Graduate-In-Training-Program--GIT---AI-Engineer_REQ2026081151
+- Job requisition: REQ2026081151
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Graduate_AI_CV.pdf`
+- Fit / rationale: Excellent graduate-role match for the 2026 graduation year, Computer Science degree, Python, REST APIs, FastAPI, JavaScript/TypeScript, testing, deep learning, GenAI frameworks, and Arabic/English communication.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Graduate In Training Program (GIT), Embedded Software
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: On-site, full-time; six-month graduate program with possible renewal
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/Job-Posting-Title-Graduate-In-Training-Program--GIT----Embedded-Software_REQ2026080868
+- Job requisition: REQ2026080868
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Fit / rationale: Strong graduate-role match for the 2026 graduation year, Computer Science eligibility, C/C++, embedded systems, component testing, hardware/software integration, debugging, robotics, and Arabic/English communication.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Junior Software Engineer, BRAIN
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: Full-time; work-mode detail not stated
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/Junior-Software-Engineer--BRAIN_REQ2026079248
+- Job requisition: REQ2026079248
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Fit / rationale: Reasonable early-career engineering opportunity accepting zero to two years of relevant experience; relevant strengths include engineering fundamentals, analytical problem-solving, technical documentation, testing, data reporting, and hands-on robotics/software work. CAD and automotive-domain exposure are gaps.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Junior System Validation Engineer, LIGHT
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: Full-time; work-mode detail not stated
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/System-Validation-Engineer--LIGHT_REQ2026076122-1
+- Job requisition: REQ2026076122
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Fit / rationale: Stretch early-career match for embedded-system testing, validation, hardware/software integration, debugging, and test-oriented engineering. The role accepts zero to one year of experience, while automotive-specific CAN, UDS, and requirements-management tools remain gaps.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Junior System Design Engineer, LIGHT
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: Full-time; work-mode detail not stated
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/System-Engineer--LIGHT_REQ2026071073
+- Job requisition: REQ2026071073
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Fit / rationale: Reasonable junior match because Computer Science is accepted and the role targets zero to one year of embedded-electronic-system experience; relevant evidence includes robotics, microcontrollers, sensors, computer vision, C/C++, Python, testing, and technical documentation. Automotive buses and specialist systems tools are gaps.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Junior Software Engineer, LIGHT
+- Status: applied — In Progress
+- Location: Cairo, Egypt
+- Work mode: Full-time; work-mode detail not stated
+- Source: Official Valeo Workday careers portal
+- Job URL: https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Cairo/Embedded-Software-Engineer--LIGHT_REQ2026071105
+- Job requisition: REQ2026071105
+- Date discovered: 2026-10-19
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
+- Fit / rationale: Strong adjacent junior match for Computer Science, C/C++, Python, microcontrollers, UART/SPI/I2C, Git, testing, debugging, and embedded robotics. AUTOSAR and automotive CAN-tool experience are desirable gaps rather than fabricated qualifications.
+- Compensation:
+- Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
+- Recruiter/contact:
+- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Runpod — Forward Deployed Engineer EMEA
+- Status: applied
+- Location: Remote — EMEA
+- Work mode: Remote, full-time
+- Source: Official Runpod Ashby careers page
+- Job URL: https://jobs.ashbyhq.com/runpod/d9eca07a-a35b-4c31-8d8f-a243f05014ad
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent AI-infrastructure and customer-facing engineering match covering Python, PyTorch, FastAPI, Docker, SQL, Linux, deployed ML/LLM services, agentic systems, technical troubleshooting, proofs of concept, documentation, and cross-functional communication. The listing requests three or more years of professional software-development experience and prefers candidates in Ireland, the UK, or Spain, making this a stretch despite the broader EMEA eligibility.
+- Compensation: USD 100,000–180,000 base-pay range, localized and dependent on level, experience, qualifications, and location.
+- Important screening answers: Located in Alexandria, Egypt; no present or future employment-visa sponsorship required; LinkedIn and GitHub profiles supplied; optional gender, race, and U.S. veteran-status questions declined; optional two-year recruiting-contact consent left unchecked.
+- Recruiter/contact:
+- Next action: Monitor email for confirmation, screening, or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Ashby displayed `Success — Your application was successfully submitted. We'll contact you if there are next steps.` The application included a tailored explanation connecting Runpod's production AI-infrastructure mission with Fares's deployed ML/LLM services, agentic workflows, Dockerized APIs, automation, technical troubleshooting, and customer collaboration.
+
+### Link Datacenter — Data Engineer
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4480483073/
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent data-engineering match for Python, SQL, data pipelines, ETL, databases, data modeling, reporting, data-quality work, performance optimization, and collaboration with technical and business stakeholders. The listing requests three to ten years of relevant experience; the application used the verified three-year related-experience figure.
+- Compensation: Application answer: EGP 30,000 monthly expected salary; current salary entered as EGP 0 based on the recorded unemployed status.
+- Important screening answers: Comfortable working remotely: yes; relevant experience: three years; Egyptian: yes; age: 25.
+- Recruiter/contact: Yasmin Mohamed, job poster on LinkedIn.
+- Next action: Monitor LinkedIn and email for recruiter follow-up or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: Fares completed the final submission click. LinkedIn subsequently displayed `Application submitted now` on the live job page.
+
+### RechtX — Internship Talent Pool (Arabic Speaker), AI / Technology / Product Development
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, internship
+- Source: LinkedIn Easy Apply
+- Job URL: https://www.linkedin.com/jobs/view/4481754329/
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong early-career fit for the AI, technology, and product-development track at an AI-powered software startup. The role explicitly welcomes students and recent graduates, values Arabic and English, does not require prior professional experience for every track, and offers remote project work.
+- Compensation: Not stated.
+- Important screening answers: LinkedIn profile contact information supplied; Egypt selected as the phone country; no additional screening questions were required.
+- Recruiter/contact: RechtX careers team, careers@rechtx.eu.
+- Next action: Monitor LinkedIn and email for current or future internship matching, screening, or interview activity.
+- Follow-up date: 2026-10-27
+- Notes: LinkedIn displayed `Applied` after submission. The optional company-follow checkbox was left unchecked.
+
+### Hephon — AI Engineer Internship
+- Status: applied
+- Location: Middle East / remote
+- Work mode: Remote-friendly, internship
+- Source: Official Hephon careers page
+- Job URL: https://hephon.ai/careers
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-20
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent early-career applied-AI match centered on shipping agents, RAG systems, automations, and production products with Python or TypeScript. The role explicitly lists LangGraph, RAG, Python/TypeScript, and ownership of real client builds, closely matching Fares's verified SAGA, RenderLab, FastAPI, Docker, agentic workflow, retrieval, and product-engineering experience.
+- Compensation: Not stated.
+- Important screening answers: Selected AI Engineer Internship; supplied name and email; agreed to the application terms. The optional introduction highlighted verified production-oriented work with Python, LangGraph, RAG, FastAPI, Docker, TypeScript, SAGA, and RenderLab without inflating project status.
+- Recruiter/contact: Hephon careers team; hello@hephon.ai.
+- Next action: Monitor email for a response or interview invitation.
+- Follow-up date: 2026-10-27
+- Notes: The official careers page displayed `Application in. A person will read it and reply if there’s a fit.` after submission.
+
+### Threxil Systems — AI Intern
+- Status: applied
+- Location: Remote
+- Work mode: Remote, internship
+- Source: Official Threxil Systems careers page
+- Job URL: https://www.threxil.com/careers/apply/ai-intern
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-20
+- Resume used: Public link to `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf` in the career repository
+- Fit / rationale: Strong early-career match focused on Python, NumPy/Pandas, data structures, retrieval, evaluation, and proving whether AI changes improve quality. The role explicitly welcomes fresh graduates and aligns closely with Fares's verified SAGA extraction, retrieval, qualification, and evaluation work.
+- Compensation: Not stated.
+- Important screening answers: Supplied name, email, GitHub profile, public resume link, and a tailored introduction referencing verified SAGA and RenderLab work. The introduction accurately stated the current measured 0.8563 F1 quote-detection result and positioned future interest around retrieval, evaluation, regression testing, and trustworthy AI systems.
+- Recruiter/contact: Threxil Systems; info@threxil.com.
+- Next action: Monitor email for the promised application response.
+- Follow-up date: 2026-10-27
+- Notes: The official careers page displayed `Application received. Thanks for your interest. We read every application and will reach out if there is a fit.`
+
+### EUROPEAN DYNAMICS — Junior AI/ML Engineer - Python Developer
+- Status: applied
+- Location: Athens / Thessaloniki, Greece; listing marked remote
+- Work mode: Remote, full-time
+- Source: Official EUROPEAN DYNAMICS Workable careers page
+- Job URL: https://apply.workable.com/european-dynamics/j/D53EAA65D5/
+- Date discovered: 2026-10-20
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical match for Python, pandas/NumPy, FastAPI, Pydantic, PyTorch, LangGraph, RAG, LLM integration, evaluation, model deployment, responsible AI, observability, and MLOps-adjacent work. The role is explicitly junior and offers mentoring and rapid growth, though the listing names Greek office locations, making Egypt-based remote eligibility a reasonable stretch rather than certain.
+- Compensation: Competitive full-time salary; no numeric range stated.
+- Important screening answers: Supplied Alexandria, Egypt as the truthful location; uploaded the AI Engineer resume; accepted the privacy notice. Workable resume parsing was corrected to show the B.Sc. ending in August 2026. A tailored cover letter highlighted verified SAGA and RenderLab work, first-place academic rank, 3.9738/4.0 CGPA, and availability across European time zones.
+- Recruiter/contact: EUROPEAN DYNAMICS hiring team.
+- Next action: Monitor email for the promised application copy and any screening response.
+- Follow-up date: 2026-10-28
+- Notes: The first submission request remained stuck on `Submitting…`; after checking for a receipt and finding none, the page was safely reloaded and retried once. Workable then displayed `Your application has been submitted successfully.`
+
+### Platvix — AI Engineer Intern
+- Status: applied
+- Location: Worldwide
+- Work mode: Remote, part-time internship; up to 20 hours per week for three months
+- Source: Official Platvix careers page
+- Job URL: https://platvix.com/careers/ai-engineer-intern
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: Public link to `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf` in the career repository
+- Fit / rationale: Strong early-career match for agent workflows, testing and evaluation, data analysis, Python, TypeScript, LLM projects, and forward-deployed product work. The application highlighted verified SAGA and RenderLab experience without overstating project status.
+- Compensation: Unpaid.
+- Important screening answers: Applied by email with name, Alexandria location, phone number, LinkedIn, GitHub, public resume link, and a concise tailored introduction focused on agentic AI, RAG, evaluation workflows, durable execution, and product engineering.
+- Recruiter/contact: Platvix careers team; careers@platvix.com.
+- Next action: Monitor email for a response before the listed closing date.
+- Follow-up date: 2026-10-28
+- Notes: The official embedded application uploader did not complete reliably, so the application was sent through the official careers email route listed by Platvix. Gmail displayed `Message sent`.
+
+### RizmiWare — Machine Learning Engineer
+- Status: applied
+- Location: Nasr City, Egypt
+- Work mode: Remote, part-time, project-based; immediate start
+- Source: Official RizmiWare careers page
+- Job URL: https://rizmiware.com/en/careers/machine-learning-engineer-7
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: Public link to `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf` in the career repository
+- Fit / rationale: Excellent match for Python, PyTorch, LLMs, retrieval systems, production APIs, vector-database concepts, evaluation, and Arabic NLP. The role requests one or two completed end-to-end ML/NLP projects and directly aligns with Fares's verified SAGA and RenderLab work.
+- Compensation: Not stated.
+- Important screening answers: Applied by email with LinkedIn, GitHub, public resume link, SAGA and RenderLab repository links, and truthful bullet summaries of role and impact. The SAGA summary included verified 0.8563 F1 deterministic quote detection and a 0.7791 F1 event-trigger challenger; RenderLab was accurately described as a production-domain closed beta.
+- Recruiter/contact: RizmiWare hiring team; llm-job@rizmiware.com; role collaborates directly with Mohamed Fouad, Lead Developer and CEO.
+- Next action: Monitor email for a response or project discussion.
+- Follow-up date: 2026-10-28
+- Notes: Applied through the official email route specified in the listing. Gmail displayed `Message sent`.
+
+### QovaTech — AI Intern
+- Status: applied
+- Location: Alexandria, Egypt
+- Work mode: Remote-friendly with EET working-hours overlap
+- Source: Official QovaTech careers page
+- Job URL: https://www.qovatech.com/careers/ai-engineer
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional early-career match for production AI agents, LLM features, RAG, embeddings, function and tool calling, Python/TypeScript, evaluation and regression suites, and reliability, latency, and cost trade-offs. The role is remote-friendly in Fares's home city and overlaps naturally with EET.
+- Compensation: Not stated.
+- Important screening answers: Supplied name, email, phone, Alexandria University, Alexandria/EET location, immediate availability, GitHub portfolio, and the agentic-AI resume. The tailored answer accurately described SAGA's evidence-grounded agent workflows, RAG-oriented architecture, structured outputs, and measured evaluation, plus RenderLab's production-domain closed-beta durable execution, recovery, testing, and observability-oriented engineering.
+- Recruiter/contact: QovaTech hiring team; info@qovatech.com is the company's general contact address.
+- Next action: Monitor email for the promised response within seven business days.
+- Follow-up date: 2026-10-30
+- Notes: The official careers page displayed `Application received` and stated that the team will review the CV and reach out within seven business days.
+
+### Empowrd.AI — Junior AI Engineer
+- Status: applied
+- Location: Remote
+- Work mode: Remote, full-time
+- Source: Public recruiter job post with a direct company-domain application email
+- Job URL: https://www.linkedin.com/posts/taomar_empowrd-ai-is-hiring-for-junior-ai-engineer-activity-7472668088149311489-W15T
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: Public link to `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf` in the career repository
+- Fit / rationale: Excellent match for multi-agent systems, workflow orchestration, generative AI, business automation, RAG, vector-database concepts, Python, JavaScript/TypeScript, APIs, and shipped project evidence. The listing accepts one to two years of experience or a strong portfolio of shipped projects.
+- Compensation: Not stated.
+- Important screening answers: Applied by email with contact details, LinkedIn, GitHub, public resume link, and tailored evidence from SAGA and RenderLab. The SAGA description included the verified 0.8563 F1 deterministic quote-detection result and 0.7791 F1 event-trigger challenger; RenderLab was accurately described as a production-domain closed beta.
+- Recruiter/contact: Talha; talha@empowrd.ai.
+- Next action: Monitor email for a response or interview request.
+- Follow-up date: 2026-10-28
+- Notes: The hiring post was approximately three months old when discovered but provided no visible closure signal. Gmail Sent search confirmed delivery to the company-domain address.
+
+### ChainGPT — AI-Native Software Engineer - Early Career - Africa
+- Status: applied
+- Location: Africa region, including Egypt
+- Work mode: Remote, full-time; employee or contractor structure depends on location
+- Source: Official ChainGPT Workable careers page
+- Job URL: https://apply.workable.com/chaingpt/j/B97342EDDA/
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional early-career match for daily use of AI coding agents, agentic development workflows, rapid prototyping, feature delivery, technical experiments, and production-minded engineering. Fares has directly relevant evidence through SAGA, RenderLab, and Fares Uniform across Python, TypeScript, FastAPI, Next.js, LangGraph, tool calling, structured outputs, RAG, evaluation workflows, testing, durable execution, and reliability patterns. Main gap: no verified direct professional Web3 experience.
+- Compensation: Listing states competitive compensation without a numeric range. Expected salary entered: USD 1,000 gross monthly, negotiable.
+- Important screening answers: Truthfully stated no direct professional Web3 experience while explaining closely relevant agentic-AI, full-stack, API, retrieval, evaluation, database, Docker, and reliability experience. Selected C1 Advanced English; selected no referral. Submitted a tailored summary and cover letter emphasizing verified SAGA, RenderLab, and Fares Uniform work without overstating project status.
+- Recruiter/contact: ChainGPT hiring team.
+- Next action: Monitor email for the promised application copy and any screening response.
+- Follow-up date: 2026-10-28
+- Notes: The first submission request remained stuck on `Submitting…` and produced no email receipt. After a safe reload preserved all form data, one retry displayed `Your application has been submitted successfully.`
+
+### Specright — Agentic Software Engineer (Full Stack)
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: Official Specright Ashby careers page
+- Job URL: https://jobs.ashbyhq.com/specright/34f918e4-3f45-4d74-a39b-ed63fb180d1a
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong direct match for full-stack agentic applications, AI-assisted coding workflows, tool calling, multi-step orchestration, state, retrieval, agent evaluation, tracing, testing, observability, and production-readiness. Fares has strong verified evidence across SAGA and RenderLab, including agentic workflows, structured contracts, retrieval and evaluation, durable jobs, recovery behavior, Next.js/TypeScript, Python, PostgreSQL, and production-oriented testing. This is a stretch on the listing's expectation of already operating one or two agentic products in production, so the application relies on the depth and relevance of the portfolio rather than inflated claims.
+- Compensation: Not stated.
+- Important screening answers: Supplied verified name, email, LinkedIn profile, and the agentic-AI resume. The application did not request additional screening answers or a cover letter.
+- Recruiter/contact: Specright hiring team.
+- Next action: Monitor email for a response or interview invitation.
+- Follow-up date: 2026-10-28
+- Notes: Ashby displayed `Your application was successfully submitted. We'll contact you if there are next steps.` Gmail also received `Thanks for applying to Specright` from the Specright Hiring Team.
+
+### Mastra — AI Engineer
+- Status: applied
+- Location: Remote
+- Work mode: Remote, full-time; the team works primarily across North American and European time zones
+- Source: Official Mastra Ashby careers page
+- Job URL: https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-20374f67f980
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional match for building, evaluating, and improving AI agents. Fares has directly relevant evidence through SAGA's agentic narrative-intelligence architecture, strict structured contracts, durable jobs and runs, evaluation gates, and measured component benchmarks, plus RenderLab's production-domain closed-beta durable execution, recovery, and observability systems. The role also aligns with his Python/TypeScript, FastAPI/Next.js, LangGraph, tool calling, structured outputs, RAG, PostgreSQL/Supabase, Docker, testing, and CI experience.
+- Compensation: Not stated.
+- Important screening answers: The tailored response described SAGA without claiming that v2 is production-ready and included the verified deterministic quote-detection F1 of 0.8563 and BookNLP event-trigger challenger F1 of 0.7791. It also accurately described RenderLab as a production-domain closed beta with browser-independent reconciliation, durable finalization, retry/cancel/run-again flows, admission limits, failure sanitization, observability, and exact-head qualification. GitHub and LinkedIn profiles were supplied.
+- Recruiter/contact: Mastra hiring team.
+- Next action: Monitor email for a response or interview request.
+- Follow-up date: 2026-10-28
+- Notes: The first Brave submission was flagged by Ashby's spam filter, and a clean direct-upload retry in a separate browser session displayed `Your application was successfully submitted!`
+
+### Constructor — Integration Engineer (EMEA)
+- Status: applied
+- Location: Remote — EMEA; application location entered as Alexandria, Egypt
+- Work mode: Remote, full-time
+- Source: Official Constructor Ashby careers page
+- Job URL: https://jobs.ashbyhq.com/constructor/575bc8b0-b908-4af6-932c-9a5ceb107831
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong adjacent match for REST APIs, JSON/CSV and structured data, JavaScript web integrations, browser and API debugging, logs, technical troubleshooting, documentation, and communicating technical concepts clearly. Fares's production-minded work on RenderLab provides relevant evidence for diagnosing cross-boundary failures and turning recurring issues into validation, observability, and recovery mechanisms. The main gap is the listing's preference for proven customer- or technical-support experience.
+- Compensation: USD 70,000–90,000 base salary, depending on knowledge, skills, experience, and interview results.
+- Important screening answers: Supplied verified name, email, phone, Alexandria location, LinkedIn profile, and the agentic-AI resume. The tailored cover letter emphasized REST APIs, Python/TypeScript, FastAPI/Next.js, PostgreSQL/Supabase, Docker, logs, tests, CI, technical documentation, patient troubleshooting, and EMEA availability. Optional U.S. demographic and veteran self-identification questions were left unanswered.
+- Recruiter/contact: Constructor hiring team.
+- Next action: Monitor email for a response or interview request.
+- Follow-up date: 2026-10-28
+- Notes: Ashby displayed `Your application was successfully submitted. We'll contact you if there are next steps.`
+
+### Valeo — Fullstack- AI Engineer, AI4ALL
+- Status: applied
+- Location: Cairo, Egypt
+- Work mode: Full-time; on-site/hybrid arrangement not stated in the application flow
+- Source: Official Valeo Workday careers site
+- Job URL: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Cairo/AI-Engineer--AI4ALL_REQ2026076119-1
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent direct match for end-to-end AI product development across Python/FastAPI backend services, React/TypeScript interfaces, LLM APIs, RAG, prompt engineering, agentic frameworks, Docker, and production software engineering. Fares also has relevant LangGraph, MCP, testing, CI/CD, SQL, and Linux experience. The listing asks for two to five years of software-engineering experience, making this a realistic early-career stretch supported by roughly three years of related work and substantial project evidence.
+- Compensation: Not stated.
+- Important screening answers: LinkedIn source; no previous Valeo employment; no disability disclosed; male; Egyptian nationality; consented to the application terms. The required identity-document field was completed with Fares's Egyptian passport scan.
+- Recruiter/contact: Valeo hiring team.
+- Next action: Monitor Workday and email for recruiter review or an interview request.
+- Follow-up date: 2026-10-28
+- Notes: Workday displayed `Application Submitted` and `Thank you for submitting your application!`; Candidate Home lists the application as `In Progress` under requisition REQ2026076119.
+
+### Balio — Software Engineer
+- Status: applied
+- Location: Egypt
+- Work mode: Remote, full-time; role also lists Dubai HQ and remote Pakistan
+- Source: Official Balio application hosted by Revolut People
+- Job URL: https://people-jobs.com/balio/apply/240e1a0f-bd98-4220-a6a4-59b01b2cd615
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong adjacent match for building and modernizing production software, delivering product features and services, integrations, AI capabilities, architecture, performance, reliability, testing, releases, monitoring, and maintenance. The role has no explicit years threshold and aligns well with Fares's Python, FastAPI, TypeScript/Next.js, Docker, SQL, testing, CI/CD, and agentic-AI project evidence.
+- Compensation: Not stated.
+- Important screening answers: Current country Egypt; preferred work location Egypt - Remote; supplied LinkedIn and GitHub profiles. Explicitly selected `No, I don't consent` for AI interview transcription, temporary audio recording, and AI-led Culture Fit Assessment processing. The optional consent to assess suitability for other roles was left unchecked.
+- Recruiter/contact: Balio hiring team.
+- Next action: Monitor email for confirmation and any screening response.
+- Follow-up date: 2026-10-28
+- Notes: The first browser attempt was rejected because the site's reCAPTCHA service failed. A clean retry in the in-app browser displayed `Thank you for your application! We will be in touch with you shortly.`
+
 ## Application record format
 
 Add one section per serious opportunity:
@@ -875,3 +1578,33 @@ Only record facts actually established from the job listing, application, connec
 ## Closed applications
 
 Move or summarize completed/rejected/withdrawn opportunities here when the active section becomes difficult to scan. Preserve enough information to recognize duplicate future listings and understand prior outcomes.
+
+### Talkpush — Solutions Engineer — Egypt (Remote)
+- Status: withdrawn before final submission; automated interview invitation received
+- Location: Egypt
+- Work mode: Remote
+- Source: LinkedIn listing → official Talkpush application
+- Job URL: https://www.linkedin.com/jobs/view/4477921617/
+- Date discovered: 2026-10-19
+- Date closed: 2026-10-19
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong fit for technical support, workflow configuration, integrations, bots, automation, Arabic/English communication, and customer-facing troubleshooting.
+- Important screening answers completed before withdrawal: Alexandria, Egypt; Africa region; LinkedIn profile; no prior HRIS/ATS or SaaS-company employment; professional Arabic; two to three years of related experience; USD 1,500 gross monthly, negotiable; able to start in less than one week.
+- Next action: Do not continue through the interview workflow unless Fares changes the no-recorded-audio/video preference or the web-form route is verified to be fully text-only.
+- Notes: The final mandatory screening question required a 30–60 second microphone recording with one attempt. The application was therefore stopped and replaced, consistent with Fares's instruction to skip applications requiring video or voice-note submissions. Talkpush nevertheless emailed an automated interview invitation on 2026-10-19 offering WhatsApp, web-form, and Messenger routes. The email describes simple questions over chat but also says answers are recorded and shared with the recruitment team; the web route was not opened during the mailbox review.
+
+### HFT Architecture — Junior Machine Learning Engineer
+
+- Status: Applied
+- Location: Remote, worldwide
+- Work mode: Remote, full-time
+- Source: Official company careers page
+- Job URL: https://hftarchitecture.com/careers/junior-machine-learning-engineer
+- Date discovered/applied: 2026-10-19
+- Resume used: No file requested; GitHub profile supplied
+- Fit: Strong match for Python, testing, ML evaluation, statistics, reproducible experiments, and failure analysis; highlighted SAGA's deterministic/model challengers, qualification tests, persistent execution, quote-detection F1 of 0.8563, and event-trigger challenger F1 of 0.7791.
+- Compensation: USD 125,000–155,000 per year (posted)
+- Important screening answers: Alexandria, Egypt (UTC+2); GitHub portfolio; SAGA as closest relevant project; first-week consulting deliverable based on HFT Architecture's published working model.
+- Next action: Monitor email for confirmation or follow-up.
+- Notes: After clicking **Send application**, the button displayed **Sending…** and the site redirected to the company homepage. No explicit confirmation text appeared, so the redirect is being treated as the completed submission signal.
+
