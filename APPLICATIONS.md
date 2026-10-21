@@ -282,9 +282,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Application requires name, email, phone, resume/CV link, and LinkedIn/GitHub URL. All resume variants were checked and contain no phone number.
 - Recruiter/contact: hr@wyvtech.com
-- Next action: Monitor for confirmation or recruiter response; follow up with HR if there is no response.
-- Follow-up date: 2026-10-15
-- Notes: Official listing verified live on 2026-10-08. Application submitted successfully through the employer's Formspree-backed careers form on 2026-10-08.
+- Next action: Monitor for recruiter response after the 2026-10-22 follow-up email.
+- Follow-up date: 2026-10-29
+- Notes: Official listing verified live on 2026-10-08. Application submitted successfully through the employer's Formspree-backed careers form on 2026-10-08. A follow-up application email was sent to `hr@wyvtech.com` on 2026-10-22 with the updated agentic-AI resume attached and subject `Application — Junior AI Engineer — Fares Mohamed`. Gmail message ID: `1a1609c120d33493`.
 
 ### Damashqi Digital Solutions — Artificial Intelligence Engineer
 - Status: shortlisted
@@ -1736,6 +1736,40 @@ Use concise statuses where possible:
 - Next action: Monitor email for a 30-minute screening call or practical exercise.
 - Follow-up date: 2026-10-29
 - Notes: The official role normally uses a form whose submissions are emailed to the hiring inbox. The application was sent successfully to Semark's published official team address with the exact role reference in the subject: `Application — AI Engineer Intern (SEM-2026-09)`. Gmail message ID: `1a16095f23051602`.
+
+### Epsilon Delta — Junior AI Engineer
+- Status: applied
+- Location: Not stated; application email disclosed Alexandria, Egypt and remote-work preference
+- Work mode: Not stated
+- Source: Official Epsilon Delta careers page
+- Job URL: https://careers.epsilondelta.tech/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong entry-level match for Python, Git, REST APIs, prompting, model evaluation, data handling, and agentic software engineering. Fares has directly relevant production-oriented work across LangGraph, LLM APIs, RAG, vector retrieval, FastAPI, automated testing, Docker, CI/CD, and structured evaluation.
+- Compensation: Not stated.
+- Important screening answers: The tailored email identified Fares as a recent graduate ranked first in his Computer Science (Intelligent Systems) class with a 3.9738/4.0 CGPA, approximately three years of related hands-on experience, Alexandria/Egypt location, immediate availability, and remote-work preference. It also asked to be considered for the AI Engineering Intern track if that is the stronger fit. GitHub, LinkedIn, and Hugging Face links were included.
+- Recruiter/contact: Epsilon Delta hiring team, `hr@epsilondelta.tech`
+- Next action: Monitor email for screening or clarification about location and work mode.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — Junior AI Engineer — Fares Mohamed`. Gmail message ID: `1a1609c1bb2b6805`.
+
+### ClearML — Junior Machine Learning Engineer
+- Status: applied
+- Location: Global
+- Work mode: Fully remote, full-time graduate role
+- Source: Official ClearML careers page
+- Job URL: https://clear.ml/careers
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Excellent fresh-graduate match for Python, SQL, data preprocessing, predictive modeling, deep learning, automated workflows, model testing, Docker, and production ML pipelines. The official listing explicitly says no prior experience is necessary and offers mentorship from experienced ML engineers.
+- Compensation: Not stated; the listing describes fully remote work and flexible scheduling.
+- Important screening answers: The tailored email highlighted Fares's first-place class rank, 3.9738/4.0 CGPA, approximately three years of hands-on ML and software-engineering experience, PyTorch, scikit-learn, SQL, data pipelines, Docker, testing, CI/CD, model evaluation, computer vision, and LLM/RAG systems. It stated Alexandria/Egypt location, immediate availability, and international remote-team readiness. GitHub, LinkedIn, Hugging Face, and Kaggle links were included.
+- Recruiter/contact: ClearML hiring team, `jobs@clear.ml`
+- Next action: Monitor email for recruiter screening or a technical exercise.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the ML Engineer resume attached and subject `Application — Junior Machine Learning Engineer — Fares Mohamed`. Gmail message ID: `1a1609d0ebef0756`.
 
 ## Application record format
 
