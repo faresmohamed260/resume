@@ -1635,6 +1635,108 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-29
 - Notes: Application email sent successfully from `faresmohamed260@gmail.com` with the agentic-AI resume attached and subject `Application — AI Engineer (LLM/Agents)`. Gmail message ID: `1a16091ef90a8827`.
 
+### CodeCones — Junior ML Engineer
+- Status: applied
+- Location: Remote, global
+- Work mode: Remote, full-time; new-graduate Launch Program
+- Source: Official CodeCones careers page
+- Job URL: https://codecones.com/careers/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Direct fresh-graduate match for Python, PyTorch, scikit-learn, FastAPI, SQL/PostgreSQL, Docker, testing, CI/CD, model evaluation, and deployed AI systems. The listing explicitly labels the role `New Grad`, includes mentorship, and states that the engineer will work on real AI products.
+- Compensation: Competitive market-rate salary stated; no numeric range published.
+- Important screening answers: The tailored email highlighted Fares's 3.9738/4.0 CGPA, first-place class rank, ML and production-engineering stack, evidence-grounded agents, multimodal workflows, computer vision and robotics systems, immediate availability, and remote international-team readiness. GitHub, LinkedIn, and Hugging Face profiles were included.
+- Recruiter/contact: CodeCones careers team, `careers@codecones.com`
+- Next action: Monitor email for an initial screening response.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the ML Engineer resume attached and subject `Application — Junior ML Engineer`. Gmail message ID: `1a16093c441e3ca0`.
+
+### LAB3 Asia — AI Engineer / AI Agent Engineer
+- Status: applied
+- Location: Remote, worldwide
+- Work mode: Remote, full-time
+- Source: LAB3 Asia official website and published recruiting post
+- Job URL: https://lab3.asia/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong early-career match because the recruiting post asks for at least one year of AI or software-engineering experience and hands-on LLM agents, agentic workflows, MCP, RAG, multi-agent systems, Python, TypeScript/JavaScript or Go. Fares has roughly three years of related experience and directly relevant evidence across SAGA, RenderLab, LangGraph, FastAPI, TypeScript/Next.js, PostgreSQL, Docker, testing, evaluation, recovery, and observability.
+- Compensation: Not stated.
+- Important screening answers: The tailored email accurately described Fares as a recent graduate with roughly three years of related AI, automation, teaching, and project experience. It emphasized agentic workflows, MCP-style integrations, retrieval, structured outputs, evaluation, production reliability, immediate availability, and distributed-team readiness. GitHub, SAGA, and LinkedIn links were included.
+- Recruiter/contact: LAB3 Asia hiring team, `hradmin@lab3.asia`
+- Next action: Monitor email for recruiter screening.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — AI Engineer / AI Agent Engineer`. Gmail message ID: `1a16094611936111`.
+
+### FurnViz — ML & AI Engineer Intern
+- Status: applied
+- Location: Remote, MENA; Fares is based in Egypt
+- Work mode: Remote internship
+- Source: Official FurnViz careers page
+- Job URL: https://furnviz.com/en/careers
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong fresh-graduate internship match for Python, PyTorch, computer vision, data preparation, model evaluation, APIs, PostgreSQL, Docker, multimodal workflows, and deployment. The role focuses on models that read floor plans and automatically furnish rooms from a catalog, making Fares's computer-vision, multimodal, and robotics background relevant.
+- Compensation: Not stated.
+- Important screening answers: The tailored email highlighted first-place class rank, 3.9738/4.0 CGPA, ML and computer-vision experience, multimodal generation workflows, evidence-grounded evaluation, robotics calibration and kinematics, immediate availability, and MENA remote-work compatibility. GitHub, LinkedIn, and Kaggle profiles were included.
+- Recruiter/contact: FurnViz careers team, `careers@furnviz.com`
+- Next action: Monitor email for internship screening.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the ML Engineer resume attached and subject `Application — ML & AI Engineer Intern`. Gmail message ID: `1a16094c4428a3df`.
+
+### Lumina AI — AI Engineer Intern
+- Status: applied
+- Location: Remote
+- Work mode: Remote, part-time internship
+- Source: Official Lumina AI careers page
+- Job URL: https://www.lumina.do/careers/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Direct junior match for Python development, ML and AI concepts, enterprise automation, and intelligent-agent development. Fares already has relevant LangGraph, tool calling, structured outputs, RAG, FastAPI, PostgreSQL/Supabase, Docker, testing, CI/CD, recovery, and n8n automation experience.
+- Compensation: Not stated. This application targeted the `AI Engineer Intern` opening; the separate `AI Implementation Intern` is explicitly unpaid and was not selected.
+- Important screening answers: The tailored email emphasized first-place class rank, SAGA's durable evidence-grounded agents, reviewed n8n and script-based automation pipelines, immediate availability, and remote part-time readiness. GitHub, SAGA, and LinkedIn links were included.
+- Recruiter/contact: Lumina AI careers team, `careers@lumina.do`
+- Next action: Monitor email for internship screening.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — AI Engineer Intern`. Gmail message ID: `1a16094faf33d5fa`.
+
+### ByteGurus — Junior Artificial Intelligence Engineer
+- Status: applied
+- Location: Remote
+- Work mode: Fully remote, full-time; explicitly 0–2 years of experience
+- Source: Official ByteGurus careers page
+- Job URL: https://bytegurus.io/careers/junior-artificial-intelligence-engineer
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional junior-role match for Python APIs, asynchronous code, error handling, structured outputs, embeddings, vector search, retrieval chunking, evaluation cases, retries, tracing, token cost and latency measurement, Docker, agent frameworks, pgvector, TypeScript, and prompt evaluation. The listing accepts 0–2 years or a strong internship/project portfolio.
+- Compensation: Competitive salary stated; no numeric range published. The page also lists a learning budget, hardware/software tooling, private health insurance, flexible time off, and fully remote work.
+- Important screening answers: The tailored cover email highlighted Fares's first-place graduate status and accurately described SAGA's structured tools, provenance, hybrid retrieval, pgvector-backed data, and evaluation gates plus RenderLab's retries, failover, idempotent finalization, observability, and guarded releases. GitHub, SAGA, and LinkedIn links were included.
+- Recruiter/contact: ByteGurus official contact address, `contact@bytegurus.io`
+- Next action: Monitor email; if no response, use the dedicated application form for follow-up.
+- Follow-up date: 2026-10-29
+- Notes: The official role requests a CV and short cover letter through its application page. The same materials were sent successfully to the company's published official contact address with subject `Application — Junior Artificial Intelligence Engineer`. Gmail message ID: `1a160959d99d3022`.
+
+### Semark LLC — AI Engineer Intern (SEM-2026-09)
+- Status: applied
+- Location: Fully remote; application location stated as Alexandria, Egypt
+- Work mode: Remote internship with agreed weekly hours
+- Source: Official Semark LLC careers page
+- Job URL: https://semarkglobal.com/careers/ai-engineer-intern
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent fresh-graduate match for Python, LLM APIs, retrieval, embeddings, agent systems, evaluation cases, failure analysis, Git, vector stores, and TypeScript. The internship promises real client work, weekly pairing with a senior engineer, code review, and possible retention.
+- Compensation: Flexible pay based on location and experience; numeric range disclosed on the first call.
+- Important screening answers: The tailored email described Fares's first-place graduate status, SAGA's durable agents and measurable evaluation gates, his use of regression and provenance checks, ability to read unfamiliar code and turn failures into safeguards, immediate availability, and willingness to commit to an agreed weekly schedule. GitHub, SAGA, and LinkedIn links were included.
+- Recruiter/contact: Semark official team address, `team@semarkglobal.com`
+- Next action: Monitor email for a 30-minute screening call or practical exercise.
+- Follow-up date: 2026-10-29
+- Notes: The official role normally uses a form whose submissions are emailed to the hiring inbox. The application was sent successfully to Semark's published official team address with the exact role reference in the subject: `Application — AI Engineer Intern (SEM-2026-09)`. Gmail message ID: `1a16095f23051602`.
+
 ## Application record format
 
 Add one section per serious opportunity:
