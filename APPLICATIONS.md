@@ -1550,6 +1550,40 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-28
 - Notes: The first browser attempt was rejected because the site's reCAPTCHA service failed. A clean retry in the in-app browser displayed `Thank you for your application! We will be in touch with you shortly.`
 
+### Unitary — Machine Learning Engineer - Customer Solutions
+- Status: applied
+- Location: Listed as remote / United Kingdom; application address entered as Alexandria, Egypt
+- Work mode: Remote, full-time; flexible hours and location, with three company offsites per year
+- Source: Official Unitary Workable careers page
+- Job URL: https://apply.workable.com/unitary/j/A01F1A4001/
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent direct match for Python, machine-learning engineering, agentic automation, customer workflow analysis, full-stack delivery, DevOps/MLOps, SQL, CI/CD, LLMs, and production reliability. The role explicitly welcomes candidates who want to learn Kubernetes and infrastructure deployment, which makes the current Kubernetes gap manageable. Fares's agentic systems, durable job execution, evaluation, observability, and product ownership evidence are especially relevant.
+- Compensation: Not stated.
+- Important screening answers: Supplied verified first and last name, email, Alexandria address, and the agentic-AI resume. The application contained no additional screening questions.
+- Recruiter/contact: Unitary hiring team.
+- Next action: Monitor email for the application copy and any recruiter or interview response.
+- Follow-up date: 2026-10-28
+- Notes: Workable displayed `Your application has been submitted successfully.` and stated that a copy would be emailed for Fares's records.
+
+### ElevenLabs — Full-Stack Engineer (Backend Leaning) - Creative Agents
+- Status: applied
+- Location: Remote, globally executable; application country entered as Egypt
+- Work mode: Remote, full-time
+- Source: Official ElevenLabs careers page and Ashby application
+- Job URL: https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe/application
+- Date discovered: 2026-10-21
+- Date applied: 2026-10-21
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional portfolio match for production agents, prompts, tools, orchestration, MCP integrations, asynchronous generation, long-running jobs, evaluations, quality monitoring, backend infrastructure, and end-to-end full-stack ownership. RenderLab provides unusually close evidence through its production-domain creative workspace, durable generation lifecycle, reconciliation, recovery, owner-scoped security, observability, multimodal workflows, and release qualification. The main gap is no prior direct ElevenLabs/audio-model project, disclosed honestly in the application.
+- Compensation: Not stated.
+- Important screening answers: Country Egypt; heard through a job board; supplied GitHub and LinkedIn profiles. The tailored written answers emphasized agentic systems, multimodal workflows, durable generation jobs, evaluation, and full-stack delivery; identified RenderLab as the most impactful project and described Fares's end-to-end architecture, reliability, security, testing, and release-qualification contribution; explained success through exact-head CI and real browser journeys; and explicitly stated that Fares has not yet used ElevenLabs but has closely relevant image/video infrastructure experience and is ready to learn the audio stack.
+- Recruiter/contact: ElevenLabs hiring team.
+- Next action: Monitor email for recruiter review or an interview request.
+- Follow-up date: 2026-10-28
+- Notes: Ashby displayed `Success` and `Thank you for applying to ElevenLabs! We'll be in touch via email shortly.`
+
 ## Application record format
 
 Add one section per serious opportunity:
