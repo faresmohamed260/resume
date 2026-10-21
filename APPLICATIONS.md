@@ -1687,7 +1687,7 @@ Use concise statuses where possible:
 - Notes: Application email sent successfully with the ML Engineer resume attached and subject `Application — ML & AI Engineer Intern`. Gmail message ID: `1a16094c4428a3df`.
 
 ### Lumina AI — AI Engineer Intern
-- Status: applied
+- Status: email delivery failed; not submitted
 - Location: Remote
 - Work mode: Remote, part-time internship
 - Source: Official Lumina AI careers page
@@ -1699,9 +1699,9 @@ Use concise statuses where possible:
 - Compensation: Not stated. This application targeted the `AI Engineer Intern` opening; the separate `AI Implementation Intern` is explicitly unpaid and was not selected.
 - Important screening answers: The tailored email emphasized first-place class rank, SAGA's durable evidence-grounded agents, reviewed n8n and script-based automation pipelines, immediate availability, and remote part-time readiness. GitHub, SAGA, and LinkedIn links were included.
 - Recruiter/contact: Lumina AI careers team, `careers@lumina.do`
-- Next action: Monitor email for internship screening.
+- Next action: Do not count as submitted. Re-verify the company domain and opening before attempting another route.
 - Follow-up date: 2026-10-29
-- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — AI Engineer Intern`. Gmail message ID: `1a16094faf33d5fa`.
+- Notes: Gmail initially accepted the outgoing message with ID `1a16094faf33d5fa`, but a Delivery Status Notification subsequently reported that `careers@lumina.do` could not be reached because the `lumina.do` domain could not be found. No application was delivered.
 
 ### ByteGurus — Junior Artificial Intelligence Engineer
 - Status: applied
