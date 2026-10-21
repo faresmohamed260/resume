@@ -1771,6 +1771,57 @@ Use concise statuses where possible:
 - Follow-up date: 2026-10-29
 - Notes: Application email sent successfully with the ML Engineer resume attached and subject `Application — Junior Machine Learning Engineer — Fares Mohamed`. Gmail message ID: `1a1609d0ebef0756`.
 
+### HebronSoft — Trainee/Junior AI Specialist (Python)
+- Status: applied
+- Location: Remote; application disclosed Alexandria, Egypt
+- Work mode: Remote
+- Source: HebronSoft listing on DOU and official company contact channel
+- Job URL: https://jobs.dou.ua/companies/hebron-soft/vacancies/377112/
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent fresh-graduate match for Python, LangGraph and LangChain, commercial LLM APIs, vector retrieval, PyTorch, multimodal and computer-vision work, FastAPI, SQL databases, Docker, testing, evaluation, and CI/CD. The listing asks for more than one year of AI/ML experience, which Fares exceeds through roughly three years of related hands-on project and professional work.
+- Compensation: Not stated.
+- Important screening answers: The tailored email stated that Fares recently graduated first in his class with a 3.9738/4.0 CGPA, has around three years of hands-on AI and software-project experience, is based in Alexandria, is available immediately, and is seeking remote work. It accurately emphasized agentic and retrieval-augmented systems, evaluation pipelines, production-oriented Python services, PyTorch, FastAPI, PostgreSQL, Docker, automated testing, CI/CD, computer vision, and multimodal work. GitHub, LinkedIn, Hugging Face, and Kaggle links were included.
+- Recruiter/contact: HebronSoft official contact channel, `contact-us@hebronsoft.com`
+- Next action: Monitor email for a hiring-team response or any delivery failure.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — Trainee/Junior AI Specialist (Python) — Fares Mohamed`. Gmail message ID: `1a160c5af357d6e4`.
+
+### HelioAI / YourLio — AI Engineer Intern (LLM + RAG)
+- Status: applied
+- Location: Remote worldwide; application disclosed Alexandria, Egypt
+- Work mode: Remote, full-time; listed collaboration hours are 10:00 AM–7:00 PM Maldives Time
+- Source: Active Wellfound listing, verified against the company's official website and founder contact
+- Job URL: https://wellfound.com/jobs/3792826-ai-engineer-intern
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional fresh-graduate match for production RAG, grounded answers and citations, structured outputs, tool calling, chunking, embeddings, reranking, filters, evaluation datasets, quality scoring, guardrails, Python, APIs, JSON, debugging, and agent reliability. The listing explicitly welcomes college freshers, requires no prior experience, and hires remotely worldwide.
+- Compensation: The active listing states ₹5L–₹9L and no equity; the compensation period is not specified in the listing.
+- Important screening answers: The tailored email stated that Fares graduated first in his Computer Science (Intelligent Systems) class with a 3.9738/4.0 CGPA, has around three years of hands-on AI and software-project experience, is based in Alexandria, can work the listed Maldives-time collaboration hours, and is immediately available. It highlighted SAGA as an evidence-grounded multi-agent system with durable workflows, hybrid retrieval, pgvector-backed data, structured tools, provenance checks, and evaluation gates, plus RenderLab as a production-oriented generative workflow platform with retries, failover, idempotent finalization, observability, testing, and guarded releases. GitHub, LinkedIn, Hugging Face, and Kaggle links were included.
+- Recruiter/contact: Prakash Singh, founder; official company email `prakash@helioai.tech`
+- Next action: Monitor email for a response or interview request.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application — AI Engineer Intern (LLM + RAG) — Fares Mohamed`. Gmail message ID: `1a160c6f7bfb1b29`.
+
+### CodePlus Global — Intern, AI Engineering
+- Status: applied
+- Location: Company based in Sri Lanka; application disclosed Alexandria, Egypt
+- Work mode: Paid, remote internship
+- Source: Official CodePlus Global careers page and active recruiting listing
+- Job URL: https://www.codeplus.global/careers
+- Date discovered: 2026-10-22
+- Date applied: 2026-10-22
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong recent-graduate match for Python, PyTorch, LLM applications, RAG, embeddings, vector databases, LangChain-style orchestration, FastAPI, PostgreSQL, Docker, testing, CI/CD, and production-oriented AI systems. The official careers page describes the role as a paid, remote AI Engineering internship open to university students and recent graduates, with mentorship and real project work.
+- Compensation: Paid internship; no numeric compensation disclosed.
+- Important screening answers: The tailored email stated that Fares recently graduated first in his Computer Science (Intelligent Systems) class with a 3.9738/4.0 CGPA, has around three years of hands-on experience across AI, software engineering, teaching, and project work, is based in Alexandria, and is immediately available. It accurately highlighted evidence-grounded multi-agent systems, durable execution, structured tools, provenance, measurable evaluation, multimodal generative workflows, FastAPI, PostgreSQL, Docker, automated testing, and CI/CD. GitHub, LinkedIn, Hugging Face, and Kaggle links were included.
+- Recruiter/contact: CodePlus Global careers team, `careers@codeplus.global`
+- Next action: Monitor email. If the advertised AI interview requires a recorded video or voice note rather than a text-based or live interview, stop that process under Fares's standing preference.
+- Follow-up date: 2026-10-29
+- Notes: Application email sent successfully with the agentic-AI resume attached and subject `Application for AI Engineer Intern — Fares Mohamed`. Gmail message ID: `1a160c7c4d3534c7`.
+
 ## Application record format
 
 Add one section per serious opportunity:
