@@ -10,6 +10,21 @@ Use concise statuses where possible:
 
 ## Graduate-study opportunities
 
+### Mohamed bin Zayed University of Artificial Intelligence — M.Sc. in Artificial Intelligence, Machine Learning concentration, Fall 2027
+- Status: preparing; registration form completed, awaiting required action-time confirmation to create the portal account
+- Location: Abu Dhabi, United Arab Emirates
+- Study mode: Full-time, on campus
+- Source: MBZUAI official admissions and program pages; lead discovered through a Truescho Facebook post
+- Program URL: https://mbzuai.ac.ae/academics/msc-programs/masters-in-ai-machine-learning
+- Application URL: https://apply.mbzuai.ac.ae/
+- Date discovered: 2026-10-22
+- Application deadline: 2026-12-15 at 5:00 p.m. Gulf Standard Time
+- Fit / rationale: Excellent academic and technical fit. Fares holds a B.Sc. in Computer Science (Intelligent Systems), ranked first with a 3.9738/4.00 CGPA, and has strong verified work across machine learning, NLP and retrieval, agentic systems, evaluation, computer vision, generative AI, and robotics. The Machine Learning concentration is the clearest research-oriented match.
+- Funding: The Facebook post inaccurately implies automatic full funding for every admitted student. MBZUAI's current official policy says M.Sc. students are fee-paying by default, with competitive merit-based funding or faculty-sponsored research/teaching assistantships available but not guaranteed. Funded international M.Sc. students receive tuition coverage, a monthly stipend of AED 15,500, annual return airfare, health insurance, and a university-sponsored UAE residence visa and Emirates ID. Fares should proceed only if eventual funding covers tuition and essential living costs.
+- Required materials: Online application, academic CV, official bachelor's transcript and degree certificate, 500–1,000 word statement of purpose, two referees including an academic/research referee and a current or previous work supervisor, valid English-proficiency proof, passport copy, white-background photo, mandatory screening exam, and AED 200 application fee after the exam unless waived by a score of at least 75% or later reimbursed upon enrollment. GRE is optional.
+- Next action: Create the portal account, activate it through email if requested, and complete all recoverable sections. Prepare the MBZUAI-specific statement of purpose and verify a valid English test result and two willing referees before final submission. Complete the mandatory screening exam and address the application fee only when due.
+- Notes: Registration details have been filled with Fares's verified name, Gmail address, Egyptian mobile number, and Graduate Program interest. MBZUAI accepts only one application per admission cycle. The application cannot be completed without a valid English-proficiency result and two referee nominations; neither is currently verified in the career record.
+
 ### KAUST — M.S. or M.S./Ph.D. in Computer Science, Fall 2027
 - Status: preparing; account form completed, awaiting user password
 - Location: Thuwal, Saudi Arabia
