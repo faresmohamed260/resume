@@ -914,7 +914,7 @@ Use concise statuses where possible:
 - Notes: LinkedIn displayed a successful application submission.
 
 ### Napster Corp — Partner Solutions Engineer, EMEA
-- Status: applied
+- Status: rejected
 - Location: EMEA
 - Work mode: Remote
 - Source: LinkedIn Easy Apply
@@ -926,9 +926,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Customer-facing solutions role experience: no. Built demos/POCs in a customer-facing role: no. Hands-on AI/LLM API experience: yes. Sponsorship required: no.
 - Recruiter/contact:
-- Next action: Monitor for recruiter response.
-- Follow-up date: 2026-10-26
-- Notes: LinkedIn displayed a successful application submission.
+- Next action: None; application closed.
+- Follow-up date: None
+- Notes: LinkedIn displayed a successful application submission. On 2026-10-21 at 20:44 UTC, a LinkedIn notification relayed Napster Corp.'s decision not to move forward with the application. No action or deadline was requested.
 
 ### Welo Global — AI Trainers Network, Arabic
 - Status: accepted into talent network; no immediate opening
