@@ -1498,7 +1498,7 @@ Use concise statuses where possible:
 - Notes: Ashby displayed `Your application was successfully submitted. We'll contact you if there are next steps.` Gmail also received `Thanks for applying to Specright` from the Specright Hiring Team.
 
 ### Mastra — AI Engineer
-- Status: applied
+- Status: rejected
 - Location: Remote
 - Work mode: Remote, full-time; the team works primarily across North American and European time zones
 - Source: Official Mastra Ashby careers page
@@ -1510,9 +1510,9 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: The tailored response described SAGA without claiming that v2 is production-ready and included the verified deterministic quote-detection F1 of 0.8563 and BookNLP event-trigger challenger F1 of 0.7791. It also accurately described RenderLab as a production-domain closed beta with browser-independent reconciliation, durable finalization, retry/cancel/run-again flows, admission limits, failure sanitization, observability, and exact-head qualification. GitHub and LinkedIn profiles were supplied.
 - Recruiter/contact: Mastra hiring team.
-- Next action: Monitor email for a response or interview request.
-- Follow-up date: 2026-10-28
-- Notes: The first Brave submission was flagged by Ashby's spam filter, and a clean direct-upload retry in a separate browser session displayed `Your application was successfully submitted!`
+- Next action: None; application closed.
+- Follow-up date: None
+- Notes: The first Brave submission was flagged by Ashby's spam filter, and a clean direct-upload retry in a separate browser session displayed `Your application was successfully submitted!` Margarita Sandomirskaia emailed on 2026-10-23 at 13:50 UTC that Mastra would not move forward. No action or deadline was requested.
 
 ### Constructor — Integration Engineer (EMEA)
 - Status: applied
@@ -1583,7 +1583,7 @@ Use concise statuses where possible:
 - Notes: Workable displayed `Your application has been submitted successfully.` and stated that a copy would be emailed for Fares's records.
 
 ### ElevenLabs — Full-Stack Engineer (Backend Leaning) - Creative Agents
-- Status: applied
+- Status: rejected
 - Location: Remote, globally executable; application country entered as Egypt
 - Work mode: Remote, full-time
 - Source: Official ElevenLabs careers page and Ashby application
@@ -1595,9 +1595,9 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: Country Egypt; heard through a job board; supplied GitHub and LinkedIn profiles. The tailored written answers emphasized agentic systems, multimodal workflows, durable generation jobs, evaluation, and full-stack delivery; identified RenderLab as the most impactful project and described Fares's end-to-end architecture, reliability, security, testing, and release-qualification contribution; explained success through exact-head CI and real browser journeys; and explicitly stated that Fares has not yet used ElevenLabs but has closely relevant image/video infrastructure experience and is ready to learn the audio stack.
 - Recruiter/contact: ElevenLabs hiring team.
-- Next action: Monitor email for recruiter review or an interview request.
-- Follow-up date: 2026-10-28
-- Notes: Ashby displayed `Success` and `Thank you for applying to ElevenLabs! We'll be in touch via email shortly.`
+- Next action: None; application closed.
+- Follow-up date: None
+- Notes: Ashby displayed `Success` and `Thank you for applying to ElevenLabs! We'll be in touch via email shortly.` The ElevenLabs Talent Team emailed on 2026-10-23 at 08:06 UTC that the application would not move forward at this stage. No action or deadline was requested.
 
 ### EGXBot — AI Developer (Python/ML)
 - Status: applied
