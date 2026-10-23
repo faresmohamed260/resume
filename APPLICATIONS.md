@@ -659,7 +659,7 @@ Use concise statuses where possible:
 - Notes: The application portal displayed `Your application has been received! Thank you for applying.` on 2026-10-09.
 
 ### EduMatch — Online Teacher
-- Status: shortlisted; interview scheduling pending
+- Status: interview invitation received; booking pending
 - Location: Egypt
 - Work mode: Remote, contract
 - Source: LinkedIn; company teacher-registration portal
@@ -671,9 +671,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Teaching experience: 3 years. Languages: Arabic and English. Selected teaching subjects: American-system Computer Science for Grades 8 and 9. Phone and WhatsApp use the confirmed Egyptian number. The profile bio emphasizes hands-on AI, robotics, Arduino, Python, and C++ instruction.
 - Recruiter/contact: EduMatch HR (`hr@edumatch4u.com`)
-- Next action: Wait for EduMatch to propose an interview time; verify availability before scheduling and prepare to discuss project-based Computer Science teaching for Grades 8 and 9.
-- Follow-up date: 2026-10-23
-- Notes: EduMatch displayed `Welcome to EduMatch4u, Fares Mohamed!` and confirmed that the profile was submitted and awaiting approval on 2026-10-09. An EduMatch teacher account was created as part of the application; no password is stored in this repository. EduMatch HR emailed on 2026-10-18 at 20:06 Cairo time that the teacher application was shortlisted and its team would contact Fares shortly to schedule an interview. No specific interview time or deadline was given.
+- Next action: Book a 30-minute online interview at https://calendly.com/hr-edumatch4u/30min after Fares's availability is verified. Prepare a topic of choice to explain in about 20 minutes, with stable internet and a quiet setting.
+- Follow-up date: 2026-10-24
+- Notes: EduMatch displayed `Welcome to EduMatch4u, Fares Mohamed!` and confirmed that the profile was submitted and awaiting approval on 2026-10-09. An EduMatch teacher account was created as part of the application; no password is stored in this repository. EduMatch HR emailed on 2026-10-18 at 20:06 Cairo time that the teacher application was shortlisted. HR sent an interview invitation on 2026-10-22 at 22:36 Cairo time with a Calendly booking link and no stated deadline. The primary Google Calendar showed no events through October 31, but this alone does not establish Fares's availability; no interview has been booked.
 
 ### Strattmont — Instructional Design Specialist
 - Status: applied
