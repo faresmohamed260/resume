@@ -1311,7 +1311,7 @@ Use concise statuses where possible:
 - Notes: Ashby displayed `Success — Your application was successfully submitted. We'll contact you if there are next steps.` The application included a tailored explanation connecting Runpod's production AI-infrastructure mission with Fares's deployed ML/LLM services, agentic workflows, Dockerized APIs, automation, technical troubleshooting, and customer collaboration.
 
 ### Link Datacenter — Data Engineer
-- Status: applied
+- Status: rejected
 - Location: Cairo, Egypt
 - Work mode: Remote, full-time
 - Source: LinkedIn Easy Apply
@@ -1323,9 +1323,9 @@ Use concise statuses where possible:
 - Compensation: Application answer: EGP 30,000 monthly expected salary; current salary entered as EGP 0 based on the recorded unemployed status.
 - Important screening answers: Comfortable working remotely: yes; relevant experience: three years; Egyptian: yes; age: 25.
 - Recruiter/contact: Yasmin Mohamed, job poster on LinkedIn.
-- Next action: Monitor LinkedIn and email for recruiter follow-up or interview activity.
-- Follow-up date: 2026-10-27
-- Notes: Fares completed the final submission click. LinkedIn subsequently displayed `Application submitted now` on the live job page.
+- Next action: None; application closed.
+- Follow-up date: None
+- Notes: Fares completed the final submission click. LinkedIn subsequently displayed `Application submitted now` on the live job page. LinkedIn relayed Link Datacenter's decision not to move forward on 2026-10-23 at 18:24 UTC. No action or deadline was requested.
 
 ### RechtX — Internship Talent Pool (Arabic Speaker), AI / Technology / Product Development
 - Status: applied
