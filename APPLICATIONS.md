@@ -1152,7 +1152,7 @@ Use concise statuses where possible:
 - Notes: Velents displayed `Thanks! Your application is submitted successfully.`
 
 ### HKR.TEAM — Automation & Integrations Engineer
-- Status: applied
+- Status: rejected
 - Location: Remote; listing targeted EMEA with LATAM preferred and required U.S. Pacific-time overlap
 - Work mode: Remote, full-time independent contractor
 - Source: LinkedIn listing → official Lever application
@@ -1164,9 +1164,9 @@ Use concise statuses where possible:
 - Compensation: USD 2,500 gross monthly, negotiable.
 - Important screening answers: Alexandria, Egypt; English C1; immediate availability; willing to work as an independent contractor, overlap with U.S. Pacific hours, and participate in a weekend support rotation. Selected only verified skills: Python, JavaScript, REST APIs, webhooks, LLM APIs, AI agents, and n8n. Highlighted n8n/Python pipelines, LLM integrations, event-driven APIs, validation, failure handling, and documented outcomes.
 - Recruiter/contact:
-- Next action: Monitor email for recruiter response or technical screening.
-- Follow-up date: 2026-10-26
-- Notes: Lever displayed `Application submitted!`.
+- Next action: None; application closed.
+- Follow-up date: None
+- Notes: Lever displayed `Application submitted!`. HKR emailed on 2026-10-25 at 08:24 UTC that it would continue recruitment with other candidates. No action or deadline was requested.
 
 ### Arabic.AI / Tarjama& — AI Engineer
 - Status: applied
