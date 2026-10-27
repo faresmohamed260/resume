@@ -114,6 +114,21 @@ Use concise statuses where possible:
 
 ## Active applications
 
+### ITIDA — Employment Fair, 23rd Edition
+- Status: registered
+- Location: Virtual event, Egypt
+- Work mode: Online employment fair
+- Source: Official ITIDA/vFairs registration page; event details corroborated by participating-company announcements
+- Event URL: https://ief23.vfairs.com/en/registration-form
+- Date discovered: 2026-10-27
+- Date registered: 2026-10-27
+- Event date: 2026-10-28, 9:00 a.m.–6:00 p.m. Cairo time
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong early-career opportunity for Fares because the virtual fair targets fresh graduates and professionals with up to five years of experience and includes technology employers and AI/ML opportunities. It offers direct recruiter interaction, online interviews, company sessions and career coaching.
+- Important registration answers: Alexandria; male; military service exempted; Alexandria University; Computer Science & AI faculty category; Computer Science (Intelligent Systems) major; 2026 graduation; Excellent grade; unemployed; 2–5 years of experience; C1 Advanced English; Arabic native; Social Media source. The form required French and German levels but offered no `None` option, so the lowest available `A1 - Beginner` value was selected for both.
+- Next action: Monitor email for the confirmation and access details. Attend the virtual fair on 2026-10-28, prioritize AI/ML, applied AI, agentic AI, Python and computer-vision employers, and be ready for live recruiter chats or interviews.
+- Notes: The official vFairs thank-you page confirmed successful registration and stated that a confirmation email would follow. The optional profile-picture upload was left blank.
+
 ### MiraalTech — AI Engineering Intern
 - Status: applied
 - Location: United Kingdom company; open to remote applicants
