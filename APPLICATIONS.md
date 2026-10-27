@@ -129,6 +129,42 @@ Use concise statuses where possible:
 - Next action: Monitor email for the confirmation and access details. Attend the virtual fair on 2026-10-28, prioritize AI/ML, applied AI, agentic AI, Python and computer-vision employers, and be ready for live recruiter chats or interviews.
 - Notes: The official vFairs thank-you page confirmed successful registration and stated that a confirmation email would follow. The optional profile-picture upload was left blank.
 
+### MBZUAI Institute of Foundation Models — AI Engineer, LLM Data
+- Status: shortlisted
+- Location: Abu Dhabi, United Arab Emirates
+- Work mode: Full-time, on-site
+- Source: Official MBZUAI careers page and active Lever vacancy
+- Job URL: https://jobs.lever.co/ifm-us/b6c7bc76-7a13-4a2c-84ce-d01c61d08d80
+- Date discovered: 2026-10-27
+- Fit / rationale: Excellent match for Python, LLM and NLP workflows, structured data processing, quality evaluation, experimentation, reproducibility and collaboration with research engineers. SAGA provides directly relevant evidence in deterministic and model-based text processing, provenance, evaluation gates and failure analysis; RenderLab adds reliable production workflow evidence. The vacancy does not publish a minimum number of years or require a graduate degree.
+- Compensation: Not stated.
+- Important screening considerations: The role expects experience with large-scale dataset curation, filtering, deduplication, quality scoring, synthetic-data workflows and foundation-model training data. Fares has strong adjacent evidence but should not claim direct large-scale LLM pre-training or distributed-data experience unless separately verified.
+- Next action: Tailor the Agentic AI Systems resume toward data-quality pipelines, evaluation, reproducibility and reliable LLM workflows, then prepare the Lever application. No public deadline is stated.
+
+### Objects — Back-end Developer
+- Status: shortlisted
+- Location: Alexandria, Egypt
+- Work mode: Full-time; workplace arrangement not stated
+- Source: Official Objects careers page
+- Job URL: https://objects.ws/careers/
+- Date discovered: 2026-10-27
+- Fit / rationale: Strong adjacent local match for backend and full-stack engineering. Fares has verified experience with Python, FastAPI, REST APIs, PostgreSQL, authentication and authorization, background workflows, retries, testing, Docker, observability and production-oriented AI products. Objects explicitly says its compensation framework covers fresh graduates as well as experienced professionals.
+- Compensation: Not stated.
+- Important screening considerations: The official vacancy page does not publish the backend technology stack, seniority or detailed requirements. A previously indexed Objects Node.js microservices vacancy required four or more years and is closed, so it should not be treated as the specification for this current generic opening.
+- Next action: Confirm the current backend stack and seniority through the official application form or recruiter channel, then apply if Python/FastAPI or transferable backend skills are accepted. The official form requests contact details, position, region, resume and a career message.
+
+### MBZUAI Institute of Foundation Models — Machine Learning Engineer
+- Status: discovered
+- Location: Abu Dhabi, United Arab Emirates
+- Work mode: Full-time, on-site
+- Source: Official MBZUAI careers page and active Lever vacancy
+- Job URL: https://jobs.lever.co/ifm-us/ca16d96e-3ac6-48c9-b29f-5375621b033f
+- Date discovered: 2026-10-27
+- Fit / rationale: Strong technical overlap with Python, ML models, NLP, computer vision, data preprocessing, evaluation, documentation, debugging and production-oriented systems. The role accepts a bachelor's degree but is a stretch because it asks for three years of software-engineering experience including ML and two years across software development, algorithms and ML tools.
+- Compensation: Not stated.
+- Important screening considerations: Fares has roughly three years of related professional and project work, but the record should not recast all of that as conventional full-time industry software-engineering experience. Preferred SFT/RLHF and large-scale data-processing experience are not established.
+- Next action: Prioritize the AI Engineer, LLM Data vacancy first. Consider this role as a secondary stretch application only with transparent experience framing.
+
 ### MiraalTech — AI Engineering Intern
 - Status: applied
 - Location: United Kingdom company; open to remote applicants
