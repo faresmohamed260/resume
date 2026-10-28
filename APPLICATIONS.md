@@ -1930,18 +1930,19 @@ Use concise statuses where possible:
 
 
 ### Vodafone Egypt — Discover Graduate Program | Technology | Data Intelligence | 2027
-- Status: preparing; official application opened and awaiting sign-in to the existing Vodafone careers account
+- Status: applied on 2026-10-28; Vodafone portal confirmed, “Your application has been sent.”
 - Location: Giza, Egypt
 - Work mode: Full-time, 12-month fixed-term graduate program
 - Source: Official Vodafone careers site
 - Job URL: https://opportunities.vodafone.com/job/Giza-Discover-Graduate-Program-Technology-Data-Intelligence-2027/1449718833/
 - Date discovered: 2026-10-28
-- Resume planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-28
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Exceptional fresh-graduate match. The role explicitly seeks 2025, 2026, or January 2027 graduates with an outstanding academic record and a background in machine learning, data analytics, AI, Generative AI, and Agentic AI. Fares graduated in 2026 ranked first and has verified Python, ML evaluation, PyTorch, LangGraph, tool calling, multi-step orchestration, RAG, pgvector, APIs, databases, and data-pipeline experience.
 - Compensation: Not stated.
-- Important screening context: Egyptian military status is exempt. The listing's wording says male applicants who completed military service in 2024 or 2025; the application must not represent exemption as completed service if the portal distinguishes the two.
-- Next action: Sign in to the existing Vodafone careers account, complete the official form, review all screening answers, and request action-time confirmation immediately before final submission.
-- Notes: Vodafone careers emails confirm that Fares joined the Vodafone Talent Community on 2024-05-29 and already has a profile. The Data Intelligence track is prioritized over the Technology/IT track because it matches the verified AI/ML profile substantially better.
+- Important screening answers: No prior Vodafone employment; Egyptian citizen with the right to work full-time in Egypt; BA/BSc and 2026 graduation; fresh graduate; prior internships; fluent English; Computer Science graduate; has created software applications; has relational-database/data-warehouse-tool knowledge; graduation category 2025–2026–January 2027; no Egyptian degree-equivalency certificate; male; no relatives at Vodafone; Microsoft Office experience; military status exempted. Optional diversity-data consent was declined and no reasonable adjustment was requested.
+- Next action: Monitor email, phone, and the Vodafone candidate portal for assessments, interviews, or requests for information. Prepare for likely technical, aptitude, and graduate-program selection stages.
+- Notes: The application was submitted through Vodafone's SuccessFactors portal under requisition 291440 and portal application ID 9842978. A new Vodafone careers account was created because the older profile could not be recovered through password reset. The AI Engineer resume was uploaded successfully, all required sections passed validation, and the portal displayed “Your application has been sent.” The Data Intelligence track was prioritized over the Technology/IT track because it matches the verified AI/ML profile substantially better.
 
 
 ## Application record format
