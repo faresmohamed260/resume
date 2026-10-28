@@ -1265,12 +1265,12 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
 - Recruiter/contact:
-- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
-- Follow-up date: 2026-10-27
+- Next action: Monitor email and Valeo Workday; optionally ask the Cairo recruitment team to confirm whether embedded HackerRank assessments impact this separate AI Engineer requisition, and whether this AI track has a tailored assessment.
+- Follow-up date: 2026-10-29
 - Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
 
 ### Valeo — Graduate In Training Program (GIT), Embedded Software
-- Status: applied — In Progress
+- Status: assessment invited 2026-10-28 — technical and English tests pending; no completion confirmed
 - Location: Cairo, Egypt
 - Work mode: On-site, full-time; six-month graduate program with possible renewal
 - Source: Official Valeo Workday careers portal
@@ -1279,13 +1279,13 @@ Use concise statuses where possible:
 - Date discovered: 2026-10-19
 - Date applied: 2026-10-20
 - Resume used: `Fares_Mohamed_Robotics_Embedded_AI_Resume.pdf`
-- Fit / rationale: Strong graduate-role match for the 2026 graduation year, Computer Science eligibility, C/C++, embedded systems, component testing, hardware/software integration, debugging, robotics, and Arabic/English communication.
+- Fit / rationale: Adjacent but currently poor skills match for a low-level embedded engineering assessment. Graduation year and CS degree match; projects demonstrate robotics/ESP32 integration. On 2026-10-28 Fares explicitly clarified that he is an AI systems/ML graduate and does not know the embedded-C fundamentals, low-level hardware concepts, or communication-protocol material likely to be tested. Do not infer advanced firmware proficiency from robotics projects.
 - Compensation:
 - Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
-- Recruiter/contact:
-- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
-- Follow-up date: 2026-10-27
-- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+- Recruiter/contact: Valeo Egypt Talent Acquisition Center; cairo.recruitment.mailbox@valeo.com
+- Next action: Ask whether the embedded technical test score is isolated to this requisition or shared with the GIT AI Engineer / AI4ALL applications, and whether a role-appropriate AI assessment is available. Decide whether to attempt the tests before the deadline; no email has been sent and no tests completed as of 2026-10-28.
+- Follow-up date: 2026-10-29
+- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling. On 2026-10-28 Valeo explicitly advanced this embedded application to assessments, with a 120-minute Embedded Software HackerRank test (end login 2026-10-30 13:23 Cairo) and a 30-minute English Speaking test (end login 2026-10-30 13:25 Cairo). The hiring email says both exams are required within two days, the English test needs good audio/video and involves video upload, and exam content may be shared across Valeo hiring processes. The English recording format conflicts with Fares's standing preference against prerecorded voice/video application submissions; request clarification/alternative rather than assuming consent. Passes lead to technical interview then HR interview. Gmail kickoff message ID: `1a18242cd6c9a560`.
 
 ### Valeo — Junior Software Engineer, BRAIN
 - Status: applied — In Progress
@@ -1358,6 +1358,14 @@ Use concise statuses where possible:
 - Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
 - Follow-up date: 2026-10-27
 - Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+
+### Valeo — Earlier 2026 application history (Gmail reconciliation, reviewed 2026-10-28)
+- 2026-06-23: Application acknowledgments for GIT Agentic AI Systems, GIT AI Development (Linux), Senior AI Data Engineer AI4ALL, and an earlier GIT Embedded Software application; these acknowledgments do not prove advancement.
+- 2026-06-26: Application acknowledgment for System Design Engineer — AI & Tooling, LIGHT.
+- 2026-07-18: Explicit rejection for Senior AI Data Engineer, AI4ALL (REQ2026069229).
+- 2026-08-25: Explicit rejection for System Design Engineer — AI & Tooling, LIGHT (REQ2026071325).
+- No interview/assessment advancement for the older GIT Agentic AI Systems and AI Development (Linux) applications is evidenced by the Valeo emails reviewed. Do not infer the Workday portal's latest status from this absence.
+- All listed items are separate from the October 2026 GIT AI Engineer and Fullstack AI4ALL applications. Primary source: connected Gmail.
 
 ### Runpod — Forward Deployed Engineer EMEA
 - Status: applied
@@ -1610,7 +1618,7 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: LinkedIn source; no previous Valeo employment; no disability disclosed; male; Egyptian nationality; consented to the application terms. The required identity-document field was completed with Fares's Egyptian passport scan.
 - Recruiter/contact: Valeo hiring team.
-- Next action: Monitor Workday and email for recruiter review or an interview request.
+- Next action: Monitor Workday and email for recruiter review or an interview request; when contacting Valeo recruitment about the embedded test, ask whether it influences this separate AI application.
 - Follow-up date: 2026-10-28
 - Notes: Workday displayed `Application Submitted` and `Thank you for submitting your application!`; Candidate Home lists the application as `In Progress` under requisition REQ2026076119.
 
