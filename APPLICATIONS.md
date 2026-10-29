@@ -249,21 +249,21 @@ Use concise statuses where possible:
 - Notes: LinkedIn showed the verified role as posted two days earlier and actively reviewing applicants. LinkedIn displayed `Application submitted` immediately after submission on 2026-10-08. LinkedIn notified Fares at 19:56 Cairo time on 2026-10-11 that Intellias would not move forward with the application.
 
 ### Alignerr — Software Engineer (AI Training)
-- Status: preparing
+- Status: assessment stage; interview and assessments pending
 - Location: Cairo, Egypt listing
 - Work mode: Remote, freelance contract; 10–40 hours per week
 - Source: Alignerr official job page via LinkedIn
 - Job URL: https://www.alignerr.com/jobs/e251db67-faa1-46ac-ba48-b5544a6064c6
 - Date discovered: 2026-10-08
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: By 2026-10-29 (exact submission date unverified)
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong match for Python, C++, TypeScript, code review, debugging, structured technical feedback, AI/ML concepts, prompt engineering, technical writing, mentoring, cloud systems, and substantial side projects.
 - Compensation: Listing displays USD 20–100 per hour.
 - Important screening answers: The official listing describes a flexible remote coding role that evaluates and improves AI-generated software.
 - Recruiter/contact:
-- Next action: Complete the required legal gender and date-of-birth fields, then finish the remaining profile/application steps.
+- Next action: Log in to the official Alignerr account to review remaining interview and assessment steps; Fares must complete these personally. Verify whether any recorded-audio/video step conflicts with his stated preference before proceeding.
 - Follow-up date:
-- Notes: Google sign-in completed. `Fares_Mohamed_AI_Engineer_Resume.pdf` uploaded successfully on 2026-10-08 and Alignerr parsed the legal name as Fares Mohamed. The next required fields are legal gender and date of birth, which are not recorded in authoritative career sources.
+- Notes: Google sign-in completed. `Fares_Mohamed_AI_Engineer_Resume.pdf` uploaded successfully on 2026-10-08 and Alignerr parsed the legal name as Fares Mohamed. The initial workflow paused at legal gender and date of birth. On 2026-10-29 at 06:40 UTC, Alignerr emailed that the Software Engineering application had been completed and was now at the assessment stage, with interview and assessments remaining. No specific deadline was stated.
 
 ### iBrokerage Ltd. — AI & API Integration Developer
 - Status: shortlisted
