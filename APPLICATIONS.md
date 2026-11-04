@@ -2308,7 +2308,7 @@ Use concise statuses where possible:
 - Notes: Gmail returned `Address not found`; the email account could not receive mail.
 
 ### PwC ETIC — AI Engineer, Associate (752966WD)
-- Status: application blocked at mandatory Workday account creation/sign-in; no application data submitted
+- Status: application in progress; PwC Workday account created under `faresmohamed260@gmail.com`, résumé uploaded, and steps 1–3 completed; blocked on the required current/most-recent gross monthly pay because the verified record contains no last-salary figure
 - Location: Cairo, Egypt
 - Work mode: Not established
 - Source: PwC official Workday listing
@@ -2320,9 +2320,9 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: PwC Workday.
-- Next action: Fares must sign in to an existing PwC Workday account or create one using a private password. After the account step is complete, resume the application, review every imported field, update the résumé if needed, answer role-specific questions truthfully, and submit.
+- Next action: Obtain Fares's truthful current/most-recent gross monthly pay in EGP, complete the remaining voluntary-disclosure and review steps, then submit after final verification.
 - Follow-up date:
-- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. On 2026-11-04, selecting `Use My Last Application` led to a seven-step flow beginning with mandatory account creation (email, private password, confirmation, and consent); it did not bypass sign-in. A password-reset request was sent for `faresmohamed260@gmail.com`, but no reset message arrived in the connected Gmail account, so no existing PwC candidate account was confirmed. The account-creation form is prepared with the career-profile email and awaits a private password entered by Fares. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so the application should rely on the live title and verified candidate fit rather than importing claims from the removed requisition. Do not invent or store a password on Fares's behalf.
+- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. On 2026-11-04, a new PwC candidate account was created under `faresmohamed260@gmail.com`. The application now contains the AI Engineer résumé, Kayfa work experience, Alexandria University B.Sc. education, 3.9738/4.0 GPA, LinkedIn, one-to-two years of total experience, zero Big Four/consulting experience, Egyptian work authorization, EGP 30,000 expected monthly salary, Cairo then Alexandria office preferences, native Arabic, fluent English, verified certifications, and truthful compliance answers. PwC's form rejects the recorded unemployed current salary of EGP 0 and requires a minimum amount equivalent to USD 200, so the application is paused pending Fares's actual last gross monthly pay. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so do not import claims from the removed requisition.
 
 ### Schneider Electric — Schneider Graduate Program MEA 2026
 - Status: closed or removed; the official careers page returned a 404 stating that the job is no longer available on 2026-11-04; no application submitted
@@ -2390,7 +2390,7 @@ Use concise statuses where possible:
 - Recruiter/contact: Etisalat Egypt through Wuzzuf.
 - Next action: Fares must sign in to or create a Wuzzuf account. Then resume the application using truthful project evidence and no inflated production-experience claims.
 - Follow-up date:
-- Notes: Posted eight days before discovery and still displays `Apply For Job`. The public vacancy page is accessible, but the session is signed out. Google sign-in reached an account chooser containing only `faresmohamedsalah10@gmail.com`, while the authoritative career-profile email is `faresmohamed260@gmail.com`; no account was selected to avoid attaching the application to an unconfirmed identity. Fares must select or authenticate the intended Google account before the application can continue.
+- Notes: Posted eight days before discovery and still displays `Apply For Job`. Brave exposes the correct Google identity, `faresmohamed260@gmail.com`; selecting it triggered Google's device verification prompt on Fares's Galaxy A56 5G. Complete that verification, then resume Wuzzuf using only the authoritative application email.
 
 ### Capgemini — Software AI Engineer (589966) / AI & Automation roles
 - Status: applications not submitted; blocked at SuccessFactors account sign-in
