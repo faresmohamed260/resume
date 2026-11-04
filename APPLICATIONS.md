@@ -2308,21 +2308,21 @@ Use concise statuses where possible:
 - Notes: Gmail returned `Address not found`; the email account could not receive mail.
 
 ### PwC ETIC — AI Engineer, Associate (752966WD)
-- Status: application in progress; PwC Workday account created under `faresmohamed260@gmail.com`, résumé uploaded, and steps 1–3 completed; blocked on the required current/most-recent gross monthly pay because the verified record contains no last-salary figure
+- Status: applied; PwC Workday confirmed `Application received` on 2026-11-04
 - Location: Cairo, Egypt
 - Work mode: Not established
 - Source: PwC official Workday listing
 - Job URL: https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--AI-Engineer---Associate_752966WD
 - Date discovered: 2026-11-04
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong corporate target and relevant associate-level AI role.
 - Compensation: Not stated.
-- Important screening answers: None submitted.
+- Important screening answers: One-to-two years of total experience; zero Big Four/management-consulting experience; core industry Education; not currently employed; AI Engineer — Independent Projects; Egyptian work authorization; EGP 10,000 current/most-recent gross monthly pay entered at Fares's explicit instruction to use the form minimum; EGP 30,000 expected monthly salary; Cairo then Alexandria office preferences; Arabic native; English fluent; no PwC-relative relationship; male; born 2001-04-02 in Egypt; single; Egyptian nationality; religion, disability, and optional military-service disclosure left blank; future PwC recruitment processing accepted; unrelated job-event communications declined.
 - Recruiter/contact: PwC Workday.
-- Next action: Obtain Fares's truthful current/most-recent gross monthly pay in EGP, complete the remaining voluntary-disclosure and review steps, then submit after final verification.
+- Next action: Monitor `faresmohamed260@gmail.com` and the PwC Candidate Home for recruiter contact, assessment, or interview activity; avoid a duplicate application to requisition 752966WD.
 - Follow-up date:
-- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. On 2026-11-04, a new PwC candidate account was created under `faresmohamed260@gmail.com`. The application now contains the AI Engineer résumé, Kayfa work experience, Alexandria University B.Sc. education, 3.9738/4.0 GPA, LinkedIn, one-to-two years of total experience, zero Big Four/consulting experience, Egyptian work authorization, EGP 30,000 expected monthly salary, Cairo then Alexandria office preferences, native Arabic, fluent English, verified certifications, and truthful compliance answers. PwC's form rejects the recorded unemployed current salary of EGP 0 and requires a minimum amount equivalent to USD 200, so the application is paused pending Fares's actual last gross monthly pay. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so do not import claims from the removed requisition.
+- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is the verified live, full-time Cairo ETIC Associate role. A PwC candidate account was created under `faresmohamed260@gmail.com`; Workday displayed `Application Submitted`, then Candidate Home showed `Application received` with submission date November 4, 2026. The submitted application includes the AI Engineer résumé, Kayfa work experience, Alexandria University B.Sc. education, 3.9738/4.0 GPA, LinkedIn, verified certifications, Egyptian work authorization, and immediate availability. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so do not import claims from the removed requisition.
 
 ### Schneider Electric — Schneider Graduate Program MEA 2026
 - Status: closed or removed; the official careers page returned a 404 stating that the job is no longer available on 2026-11-04; no application submitted
