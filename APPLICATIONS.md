@@ -2308,7 +2308,7 @@ Use concise statuses where possible:
 - Notes: Gmail returned `Address not found`; the email account could not receive mail.
 
 ### PwC ETIC — AI Engineer, Associate (752966WD)
-- Status: shortlisted; live official listing reverified on 2026-11-04 and the application modal offers `Use My Last Application`, so the prior account blocker may be avoidable; no new application data transmitted
+- Status: application blocked at mandatory Workday account creation/sign-in; no application data submitted
 - Location: Cairo, Egypt
 - Work mode: Not established
 - Source: PwC official Workday listing
@@ -2320,12 +2320,12 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: PwC Workday.
-- Next action: With action-time confirmation, select `Use My Last Application`, review every imported field, update the résumé if needed, answer any role-specific questions truthfully, and submit only after a final review.
+- Next action: Fares must sign in to an existing PwC Workday account or create one using a private password. After the account step is complete, resume the application, review every imported field, update the résumé if needed, answer role-specific questions truthfully, and submit.
 - Follow-up date:
-- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so the application should rely on the live title and verified candidate fit rather than importing claims from the removed requisition. Do not invent or store a password on Fares's behalf.
+- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. On 2026-11-04, selecting `Use My Last Application` led to a seven-step flow beginning with mandatory account creation (email, private password, confirmation, and consent); it did not bypass sign-in. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so the application should rely on the live title and verified candidate fit rather than importing claims from the removed requisition. Do not invent or store a password on Fares's behalf.
 
 ### Schneider Electric — Schneider Graduate Program MEA 2026
-- Status: high-priority shortlist; live official listing verified; application portal returned a temporary 503 in the in-app browser and no data was submitted
+- Status: closed or removed; the official careers page returned a 404 stating that the job is no longer available on 2026-11-04; no application submitted
 - Location: Cairo, Egypt
 - Work mode: Hybrid
 - Source: Schneider Electric official careers site
@@ -2337,9 +2337,9 @@ Use concise statuses where possible:
 - Compensation: Not stated; Schneider describes a total-rewards package.
 - Important screening answers: None submitted.
 - Recruiter/contact: Schneider Electric official careers portal, requisition 135950.
-- Next action: Retry the official application portal once its temporary service error clears, review the available function or track choices, and submit only if automation, digital, software, or innovation can be selected or clearly stated.
-- Follow-up date: 2026-11-05
-- Notes: The public listing says the role remains posted until filled. The page metadata categorizes it under Supply Chain Planning, while the description is a broad MEA graduate program; verify the actual track selection before submission.
+- Next action: None unless Schneider republishes the program under a new active requisition.
+- Follow-up date:
+- Notes: The initial attempt returned a 503. A fresh retry later on 2026-11-04 reached Schneider's official 404 page, which explicitly states that the job may no longer be available or does not exist. Do not apply through stale indexed copies.
 
 ### Pass Technology — AI Engineer, LLM & AI Agents
 - Status: not pursuing in the current priority batch; live listing verified but the full Wuzzuf details require 3–7 years of experience and display compensation of only EGP 600–1,000 per month
@@ -2359,7 +2359,7 @@ Use concise statuses where possible:
 - Notes: The public company label appears as `tech technology`, while the description identifies the employer as Pass Technology and the product as Sanad. The initial search result omitted the experience and salary fields; a live browser inspection exposed the 3–7-year requirement and EGP 600–1,000 monthly range.
 
 ### Romoze Egypt — Agentic AI Engineer
-- Status: stretch shortlist; live Wuzzuf application route verified; no data submitted
+- Status: not pursuing; explicitly excluded by Fares on 2026-11-04; no application submitted
 - Location: New Cairo, Cairo, Egypt
 - Work mode: Hybrid; full-time or part-time shown
 - Source: Wuzzuf employer listing
@@ -2371,12 +2371,12 @@ Use concise statuses where possible:
 - Compensation: EGP 15,000–30,000 per month.
 - Important screening answers: None submitted.
 - Recruiter/contact: Romoze Egypt through Wuzzuf.
-- Next action: Apply after the higher-probability graduate, internship, and associate roles if Fares confirms he wants this seniority stretch.
+- Next action: None.
 - Follow-up date:
 - Notes: Posted approximately four weeks before discovery and still displays `Apply For Job`. The initial indexed page omitted the experience and salary fields; live inspection showed 3–7 years, experienced non-manager, and EGP 15,000–30,000 monthly.
 
 ### Etisalat Egypt by e& — Generative AI Engineer
-- Status: corporate stretch shortlist; live Wuzzuf application route verified; no data submitted
+- Status: application blocked at Wuzzuf account sign-in/registration; live vacancy reverified on 2026-11-04; no application data submitted
 - Location: Mohandessin, Giza, Egypt
 - Work mode: Hybrid, full-time
 - Source: Wuzzuf employer listing
@@ -2388,9 +2388,9 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: Etisalat Egypt through Wuzzuf.
-- Next action: Apply only after higher-probability graduate and junior AI roles, using truthful project evidence and no inflated production-experience claims.
+- Next action: Fares must sign in to or create a Wuzzuf account. Then resume the application using truthful project evidence and no inflated production-experience claims.
 - Follow-up date:
-- Notes: Posted eight days before discovery and still displays `Apply For Job`.
+- Notes: Posted eight days before discovery and still displays `Apply For Job`. The public vacancy page is accessible, but the session is signed out and exposes only Wuzzuf login/registration routes; application submission cannot proceed without account access.
 
 ### Capgemini — Software AI Engineer (589966) / AI & Automation roles
 - Status: applications not submitted; blocked at SuccessFactors account sign-in
@@ -2461,24 +2461,24 @@ Use concise statuses where possible:
 - Notes: The form was fully completed and the résumé uploaded, but the final button remained indefinitely on `Submitting...` and no confirmation page or email was observed during the session. Do not count this as submitted.
 
 ### Lamdax — Fresh Graduate AI Engineer
-- Status: shortlisted; application route verified and paused at Indeed sign-in before transmitting account or application data
+- Status: duplicate listing; this exact Workable vacancy was already applied to successfully on 2026-10-30; no duplicate submitted
 - Location: Cairo, Egypt; the listing also accepts candidates elsewhere in Egypt or Saudi Arabia
 - Work mode: Not stated
 - Source: Indeed employer listing
 - Job URL: https://eg.indeed.com/viewjob?jk=c326d2af99a16468
 - Date discovered: 2026-11-04
-- Date applied:
-- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Excellent early-career match. The role explicitly targets fresh graduates with project experience and asks for Python, SQL, an ML framework, data preparation, APIs, Docker/cloud exposure, deployment or monitoring, and collaboration with software engineers. Fares meets most of the core requirements through verified project work; .NET is the main gap and must not be overstated.
 - Compensation: Not stated.
-- Important screening answers: None submitted.
-- Recruiter/contact: Lamdax via Indeed Smart Apply.
-- Next action: With action-time confirmation, sign in to Indeed using Fares's email, review any screening questions, upload the AI résumé, and submit truthful answers only.
-- Follow-up date:
-- Notes: The live application route requires an Indeed account or sign-in. No application data has yet been sent.
+- Important screening answers: See the canonical `LamdaX — AI Engineer` record dated 2026-10-30 above.
+- Recruiter/contact: LamdaX hiring team via Workable.
+- Next action: Monitor for recruiter response; do not submit through Indeed or Workable again.
+- Follow-up date: 2026-11-06
+- Notes: Repository and Gmail verification identified this as the same Workable requisition `E770665A8C`. Workable confirmed successful submission by email on 2026-10-30 (Gmail message ID: `1a18c9073c2f3c6d`).
 
 ### FlairsTech — AI Engineer Intern
-- Status: shortlisted; live listing and employer-site application route verified
+- Status: closed or unavailable on the employer portal; no application submitted
 - Location: Cairo, Egypt
 - Work mode: Not stated
 - Source: Indeed listing linking to the employer application site
@@ -2490,9 +2490,9 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: FlairsTech employer application route.
-- Next action: With action-time confirmation, open the employer application, review screening questions, upload the AI résumé, and submit if the form accepts a recent 2026 graduate.
+- Next action: None unless FlairsTech reopens the vacancy or publishes a new eligible AI internship/graduate role.
 - Follow-up date:
-- Notes: No application data has yet been sent.
+- Notes: Third-party listings remain indexed, but FlairsTech's official Engage careers page states `Position isn't available for Candidates`. The vacancy also says candidates must currently be pursuing a bachelor's or master's degree, while Fares graduated in August 2026. Do not submit through stale third-party copies.
 
 ### Coca-Cola HBC — Data Scientist
 - Status: not pursuing; removed from the shortlist on 2026-11-04 after Fares narrowed the target to graduate programs and AI/ML/automation/agentic engineering roles and explicitly excluded data-science positions
@@ -2538,7 +2538,7 @@ Use concise statuses where possible:
 - Egypt Foods Group: The current careers portal has multiple vacancies, but no graduate AI, ML, agentic, or automation-engineering role was found. Generic application-development and senior IT roles were excluded.
 - Real-estate developers: TMG currently shows no open IT positions; Emaar Misr's visible opening is Contracts Specialist; Hassan Allam Properties shows no matching jobs; and no verified current AI/ML/automation graduate vacancy was found at SODIC, Palm Hills, Mountain View, Hassan Allam Holding, or Orascom Development Egypt.
 - CIB, Banque Misr, EFG Holding, e& Egypt, and Telecom Egypt: No current official graduate AI/ML/automation/agentic engineering vacancy was verified in this pass. Generic careers inboxes and unrelated technology roles were not used for speculative applications.
-- Decision: Prioritize Edita's AI track, continue the already-submitted Vodafone graduate application, retain Lamdax and FlairsTech as direct AI opportunities, and exclude data-science/analytics-only roles from future searches.
+- Decision: Prioritize Edita's already-submitted AI track and continue the already-submitted Vodafone graduate application. LamdaX was already applied to on 2026-10-30; FlairsTech's employer portal now marks its internship unavailable. Continue excluding data-science/analytics-only roles from future searches.
 
 ### 2026-11-04 — Google and Amazon AI roles in Egypt
 - Google: The official Google Careers search for `AI` in Egypt returned zero matching vacancies. A Doha AI Outcome Engineer role was reviewed but requires Saudi Arabia work authorization, provides no sponsorship, and asks for at least five years of technical-delivery experience; it is not eligible or realistic for Fares.
