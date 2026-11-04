@@ -2427,7 +2427,7 @@ Use concise statuses where possible:
 - Notes: No application data has yet been sent.
 
 ### Coca-Cola HBC — Data Scientist
-- Status: shortlisted as a corporate stretch opportunity; live listing and employer-site route verified
+- Status: not pursuing; removed from the shortlist on 2026-11-04 after Fares narrowed the target to graduate programs and AI/ML/automation/agentic engineering roles and explicitly excluded data-science positions
 - Location: Cairo, Egypt
 - Work mode: Hybrid
 - Source: Indeed listing linking to the Coca-Cola HBC employer application site
@@ -2439,11 +2439,38 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: Coca-Cola HBC employer application route.
-- Next action: With action-time confirmation, review the employer form and submit a truthful application without claiming PySpark, Databricks, Azure production, or CPG experience.
+- Next action: None unless Fares later expands the target scope to data-science roles.
 - Follow-up date:
 - Notes: Department is Data Insights & Artificial Intelligence. No application data has yet been sent.
 
+### Edita Food Industries — IT StepUp Graduate Program (AI track)
+- Status: high-priority shortlist; current official company announcement verified; application not yet sent
+- Location: 6th of October City, Egypt
+- Work mode: Not stated
+- Source: Edita official LinkedIn announcement and official youth-career page
+- Job URL: https://www.linkedin.com/company/edita-food-industries/
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Graduate_AI_CV.pdf`
+- Fit / rationale: Excellent large-Egyptian-corporate graduate-program fit. Edita's current announcement welcomes fresh graduates in Computer Science and related fields into key IT functions, and the published program tracks include AI. Fares is a 2026 Computer Science (Intelligent Systems) graduate, ranked first with a 3.9738/4.0 CGPA, and has verified Python, ML, LLM, RAG, LangGraph, agentic-workflow, FastAPI, Docker, SQL/Postgres, evaluation, and deployment-oriented project work.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Edita StepUp Program, `stepup.program@edita.com.eg`.
+- Next action: With action-time confirmation, email a targeted application for the AI track with the graduate AI CV and verified education, project, and skill highlights.
+- Follow-up date:
+- Notes: Edita's recent official announcement says applications are open. The general program page still displays older 2024/2025 cohort wording, so the application should state the actual August 2026 graduation date and request consideration for the current IT StepUp AI track without assuming eligibility details that are not published.
+
 ## Dated corporate search checks
+
+### 2026-11-04 — Egyptian corporate AI/automation/graduate-program sweep
+- Edita Food Industries: The current official IT StepUp announcement is the strongest newly verified opportunity. It targets fresh Computer Science and related graduates, and the program includes an AI track. Shortlisted for a targeted application to `stepup.program@edita.com.eg` after action-time confirmation.
+- Vodafone Egypt: The Discover 2027 Data Intelligence graduate program was already applied to successfully on 2026-10-28. The old official vacancy now displays as filled, so no duplicate application is needed. The currently visible VOIS Technology work-experience program is restricted to students graduating in 2027 and is not eligible for Fares as an August 2026 graduate.
+- Elsewedy Electric: The official Graduate Development Program is active and offers rotations, training, and coaching, but no AI, ML, automation, software, or digital track is identified on the public application page. Kept as a watchlist item rather than applying to a generic stream that may not support the target direction.
+- Orange Egypt / Orange Business: No current live Egypt graduate or junior AI/ML/automation/agentic vacancy was verified. Previously indexed AI Platform Engineer and test-automation vacancies are filled.
+- Egypt Foods Group: The current careers portal has multiple vacancies, but no graduate AI, ML, agentic, or automation-engineering role was found. Generic application-development and senior IT roles were excluded.
+- Real-estate developers: TMG currently shows no open IT positions; Emaar Misr's visible opening is Contracts Specialist; Hassan Allam Properties shows no matching jobs; and no verified current AI/ML/automation graduate vacancy was found at SODIC, Palm Hills, Mountain View, Hassan Allam Holding, or Orascom Development Egypt.
+- CIB, Banque Misr, EFG Holding, e& Egypt, and Telecom Egypt: No current official graduate AI/ML/automation/agentic engineering vacancy was verified in this pass. Generic careers inboxes and unrelated technology roles were not used for speculative applications.
+- Decision: Prioritize Edita's AI track, continue the already-submitted Vodafone graduate application, retain Lamdax and FlairsTech as direct AI opportunities, and exclude data-science/analytics-only roles from future searches.
 
 ### 2026-11-04 — Google and Amazon AI roles in Egypt
 - Google: The official Google Careers search for `AI` in Egypt returned zero matching vacancies. A Doha AI Outcome Engineer role was reviewed but requires Saudi Arabia work authorization, provides no sponsorship, and asks for at least five years of technical-delivery experience; it is not eligible or realistic for Fares.
