@@ -2392,6 +2392,64 @@ Use concise statuses where possible:
 - Follow-up date: 2026-11-05
 - Notes: The form was fully completed and the résumé uploaded, but the final button remained indefinitely on `Submitting...` and no confirmation page or email was observed during the session. Do not count this as submitted.
 
+### Lamdax — Fresh Graduate AI Engineer
+- Status: shortlisted; application route verified and paused at Indeed sign-in before transmitting account or application data
+- Location: Cairo, Egypt; the listing also accepts candidates elsewhere in Egypt or Saudi Arabia
+- Work mode: Not stated
+- Source: Indeed employer listing
+- Job URL: https://eg.indeed.com/viewjob?jk=c326d2af99a16468
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent early-career match. The role explicitly targets fresh graduates with project experience and asks for Python, SQL, an ML framework, data preparation, APIs, Docker/cloud exposure, deployment or monitoring, and collaboration with software engineers. Fares meets most of the core requirements through verified project work; .NET is the main gap and must not be overstated.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Lamdax via Indeed Smart Apply.
+- Next action: With action-time confirmation, sign in to Indeed using Fares's email, review any screening questions, upload the AI résumé, and submit truthful answers only.
+- Follow-up date:
+- Notes: The live application route requires an Indeed account or sign-in. No application data has yet been sent.
+
+### FlairsTech — AI Engineer Intern
+- Status: shortlisted; live listing and employer-site application route verified
+- Location: Cairo, Egypt
+- Work mode: Not stated
+- Source: Indeed listing linking to the employer application site
+- Job URL: https://eg.indeed.com/viewjob?jk=ddc2fae52a298468
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent internship match for a recent AI graduate with Python, ML foundations, PyTorch/scikit-learn project work, LLM/NLP and computer-vision projects, FastAPI, Git/GitHub, data pipelines, and deployment exposure. The listing says currently pursuing a bachelor's or master's degree, while Fares graduated in August 2026; this is a minor eligibility ambiguity to answer truthfully if asked.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: FlairsTech employer application route.
+- Next action: With action-time confirmation, open the employer application, review screening questions, upload the AI résumé, and submit if the form accepts a recent 2026 graduate.
+- Follow-up date:
+- Notes: No application data has yet been sent.
+
+### Coca-Cola HBC — Data Scientist
+- Status: shortlisted as a corporate stretch opportunity; live listing and employer-site route verified
+- Location: Cairo, Egypt
+- Work mode: Hybrid
+- Source: Indeed listing linking to the Coca-Cola HBC employer application site
+- Job URL: https://eg.indeed.com/viewjob?jk=3d7940a0c804e16a
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong corporate ML/data-science stretch match for Python, model development and evaluation, production-minded engineering, large-dataset work, and a directly relevant degree. The listing requests 2+ years of hands-on related experience and says the company is willing to consider people without perfect experience. PySpark is a meaningful unverified gap; Azure/Databricks and CPG analytics are advantages rather than absolute requirements.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Coca-Cola HBC employer application route.
+- Next action: With action-time confirmation, review the employer form and submit a truthful application without claiming PySpark, Databricks, Azure production, or CPG experience.
+- Follow-up date:
+- Notes: Department is Data Insights & Artificial Intelligence. No application data has yet been sent.
+
+## Dated corporate search checks
+
+### 2026-11-04 — Google and Amazon AI roles in Egypt
+- Google: The official Google Careers search for `AI` in Egypt returned zero matching vacancies. A Doha AI Outcome Engineer role was reviewed but requires Saudi Arabia work authorization, provides no sponsorship, and asks for at least five years of technical-delivery experience; it is not eligible or realistic for Fares.
+- Amazon: The official Amazon Jobs search for `ai` in Egypt returned three keyword matches—Supply Chain Analyst, Account Management Team Lead, and Account Assistant—but no actual AI/ML engineering role. An IT Support Technician vacancy mentions using internal AI/AWS tools but is an IT-support position, so it was not treated as an AI opportunity. Current Dubai AI/ML listings found in the check were senior sales or solutions roles requiring roughly seven to eight years of experience.
+- Decision: No Google or Amazon application was submitted because no current eligible AI/ML role matched Fares's location, authorization, or seniority. Recheck their official careers sites in future searches rather than applying to unrelated roles for volume.
+
 
 ## Application record format
 
