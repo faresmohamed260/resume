@@ -1312,7 +1312,7 @@ Use concise statuses where possible:
 - Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
 
 ### Valeo — Junior System Validation Engineer, LIGHT
-- Status: applied — In Progress
+- Status: rejected on 2026-11-04
 - Location: Cairo, Egypt
 - Work mode: Full-time; work-mode detail not stated
 - Source: Official Valeo Workday careers portal
@@ -1325,9 +1325,9 @@ Use concise statuses where possible:
 - Compensation:
 - Important screening answers: Found through LinkedIn; no previous Valeo employment; no disability to share; male; Egyptian nationality; Valeo terms accepted. Passport scan supplied for the required identity-document upload.
 - Recruiter/contact:
-- Next action: Monitor email and the Valeo candidate portal for assessment or interview activity.
-- Follow-up date: 2026-10-27
-- Notes: Valeo displayed `Application Submitted`; the candidate portal lists the application as `In Progress` and displays October 19, 2026 because of the portal's date handling.
+- Next action: None for this requisition; continue monitoring separate Valeo AI applications independently.
+- Follow-up date:
+- Notes: Valeo displayed `Application Submitted`; the candidate portal listed the application as `In Progress` and displayed October 19, 2026 because of the portal's date handling. Valeo Workday emailed on 2026-11-04 at 08:22 UTC that it would not proceed with the Junior System Validation Engineer, LIGHT application (REQ2026076122). This is specific to this requisition and does not establish a decision on the separate AI applications. Gmail message ID: `1a1a5a6c144631b8`.
 
 ### Valeo — Junior System Design Engineer, LIGHT
 - Status: applied — In Progress
