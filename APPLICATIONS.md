@@ -2375,6 +2375,23 @@ Use concise statuses where possible:
 - Follow-up date:
 - Notes: Do not treat this as submitted.
 
+### BlackStone eIT — Junior AI Engineer
+- Status: submission attempted but not confirmed; Workable remained on `Submitting...`
+- Location: Cairo, Egypt / listing-specific location not fully verified in the final state
+- Work mode: Not established
+- Source: BlackStone eIT official Workable vacancy
+- Job URL: https://apply.workable.com/blackstone-eit-2/j/2496C7C668/
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: AI résumé uploaded to the form
+- Fit / rationale: Strong junior applied-AI match for Python, ML/LLM project work, APIs, databases, and production-minded engineering.
+- Compensation: Not stated.
+- Important screening answers: All visible known fields were completed without fabricating experience.
+- Recruiter/contact: BlackStone eIT via Workable.
+- Next action: Check email for a delayed Workable confirmation before retrying. If none arrives, retry once through the official vacancy and avoid creating a duplicate if Workable recognizes the existing submission.
+- Follow-up date: 2026-11-05
+- Notes: The form was fully completed and the résumé uploaded, but the final button remained indefinitely on `Submitting...` and no confirmation page or email was observed during the session. Do not count this as submitted.
+
 
 ## Application record format
 
