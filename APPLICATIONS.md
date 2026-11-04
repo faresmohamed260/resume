@@ -2342,21 +2342,21 @@ Use concise statuses where possible:
 - Notes: Do not invent or store a password on Fares's behalf.
 
 ### ATOMIC — Software Engineer, FinTech & AI
-- Status: application prepared but not submitted; awaiting factual screening answers
+- Status: applied by email after the official form's résumé upload repeatedly crashed the browser
 - Location: Cairo, Egypt
 - Work mode: Not fully established
 - Source: ATOMIC official careers page
 - Job URL: https://atomic.limited/en/careers/apply/?job=software-engineer-fintech-ai
 - Date discovered: 2026-11-04
-- Date applied:
-- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf` uploaded to the form
+- Date applied: 2026-11-04
+- Resume used: Public GitHub link to `Fares_Mohamed_AI_Engineer_Resume.pdf` included in the email because the official form upload failed
 - Fit / rationale: Strong adjacent AI/software-engineering fit for Python, APIs, databases, AI integrations, and production engineering.
 - Compensation: Not stated.
-- Important screening answers: All known fields were completed; the form still requires whether Fares has a driving licence and whether he owns a car.
-- Recruiter/contact: ATOMIC official application form.
-- Next action: Obtain truthful answers to the driving-licence and car-ownership questions, then submit.
+- Important screening answers: Valid driving licence: Yes. Owns a car: Yes. No professional payment/banking experience was claimed; the application instead highlighted durable-job execution, reconciliation, recovery, APIs, and AI integration work. Expected salary: EGP 30,000/month, negotiable. Availability: immediate.
+- Recruiter/contact: `info@atomic.limited` (official company address); Gmail message ID `1a1a54772984ebf1`.
+- Next action: Monitor for acknowledgement or recruiter response and follow up if appropriate.
 - Follow-up date:
-- Notes: The in-progress form was deliberately left unsubmitted rather than guessing consequential personal facts.
+- Notes: Email subject: `Application — Software Engineer, FinTech & AI — Fares Mohamed`. The fallback avoided falsely claiming the browser form had submitted successfully.
 
 ### IST Networks — Conversational AI Engineer
 - Status: application not submitted; embedded form résumé upload failed
