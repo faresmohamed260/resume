@@ -2308,21 +2308,89 @@ Use concise statuses where possible:
 - Notes: Gmail returned `Address not found`; the email account could not receive mail.
 
 ### PwC ETIC — AI Engineer, Associate (752966WD)
-- Status: application not submitted; blocked at Workday account sign-in
+- Status: shortlisted; live official listing reverified on 2026-11-04 and the application modal offers `Use My Last Application`, so the prior account blocker may be avoidable; no new application data transmitted
 - Location: Cairo, Egypt
 - Work mode: Not established
 - Source: PwC official Workday listing
 - Job URL: https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--AI-Engineer---Associate_752966WD
 - Date discovered: 2026-11-04
 - Date applied:
-- Resume used: None transmitted in this attempt
+- Resume used: Planned: `Fares_Mohamed_AI_Engineer_Resume.pdf`
 - Fit / rationale: Strong corporate target and relevant associate-level AI role.
 - Compensation: Not stated.
 - Important screening answers: None submitted.
 - Recruiter/contact: PwC Workday.
-- Next action: Fares must sign in or create the candidate account and choose a private password; then resume the application.
+- Next action: With action-time confirmation, select `Use My Last Application`, review every imported field, update the résumé if needed, answer any role-specific questions truthfully, and submit only after a final review.
 - Follow-up date:
-- Notes: Do not invent or store a password on Fares's behalf.
+- Notes: The alternate indexed requisition 734369WD no longer exists. Requisition 752966WD is live, full-time, Cairo ETIC, Associate level, and still displays an Apply button. Its public description is generic consulting text rather than the detailed LangGraph/RAG description found on the stale alternate listing, so the application should rely on the live title and verified candidate fit rather than importing claims from the removed requisition. Do not invent or store a password on Fares's behalf.
+
+### Schneider Electric — Schneider Graduate Program MEA 2026
+- Status: high-priority shortlist; live official listing verified; application portal returned a temporary 503 in the in-app browser and no data was submitted
+- Location: Cairo, Egypt
+- Work mode: Hybrid
+- Source: Schneider Electric official careers site
+- Job URL: https://careers.se.com/jobs/135950?lang=en-us
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Graduate_AI_CV.pdf`
+- Fit / rationale: Strong large-multinational graduate-program fit. The 36-month program accepts new graduates and early-career candidates with up to two years of experience and explicitly highlights digital transformation, automation, digital innovation, and cross-functional technical development. Fares's Computer Science (Intelligent Systems) degree, first-in-class academic record, Python/AI engineering projects, software delivery experience, and interest in intelligent automation align well. The listing is broad rather than a dedicated AI role, so an application should emphasize the automation and digital-innovation path.
+- Compensation: Not stated; Schneider describes a total-rewards package.
+- Important screening answers: None submitted.
+- Recruiter/contact: Schneider Electric official careers portal, requisition 135950.
+- Next action: Retry the official application portal once its temporary service error clears, review the available function or track choices, and submit only if automation, digital, software, or innovation can be selected or clearly stated.
+- Follow-up date: 2026-11-05
+- Notes: The public listing says the role remains posted until filled. The page metadata categorizes it under Supply Chain Planning, while the description is a broad MEA graduate program; verify the actual track selection before submission.
+
+### Pass Technology — AI Engineer, LLM & AI Agents
+- Status: high-priority shortlist; live Wuzzuf application route verified; no data submitted
+- Location: Cairo, Egypt
+- Work mode: Remote, full-time
+- Source: Wuzzuf employer listing
+- Job URL: https://wuzzuf.net/jobs/p/sfiyszvm1gmq-ai-engineer-llm-ai-agents-tech-technology-cairo-egypt
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Exceptional direct match for Python, LLM agents, LangGraph, multi-step workflows, RAG, semantic search, memory, tool/function calling, structured outputs, FastAPI, PostgreSQL, evaluation, guardrails, debugging, APIs, and cross-functional product development. The listing does not publish a minimum number of years and focuses on demonstrated hands-on production-system ability, making SAGA and RenderLab highly relevant evidence.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Pass Technology through Wuzzuf.
+- Next action: With action-time confirmation, sign in to Wuzzuf if required, upload the agentic-AI résumé, include SAGA and RenderLab evidence, review any screening questions, and submit truthful answers.
+- Follow-up date:
+- Notes: The public company label appears as `tech technology`, while the description identifies the employer as Pass Technology and the product as Sanad. Verify the employer identity in the application form before submission.
+
+### Romoze Egypt — Agentic AI Engineer
+- Status: high-priority shortlist; live Wuzzuf application route verified; no data submitted
+- Location: New Cairo, Cairo, Egypt
+- Work mode: Hybrid; full-time or part-time shown
+- Source: Wuzzuf employer listing
+- Job URL: https://wuzzuf.net/jobs/p/jkerm45wbjhc-agentic-ai-engineer-romoze-egypt-cairo-egypt
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent agentic-AI match for autonomous single- and multi-agent systems, planning and execution workflows, API/tool integration, RAG and memory, evaluation and observability, human-in-the-loop safeguards, guardrails, Python, asynchronous engineering, LangGraph, LLM APIs, vector databases, relational databases, FastAPI, and clean software design. The public page does not show a minimum-experience value, so demonstrated project depth matters more than an unverified tenure threshold.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Romoze Egypt through Wuzzuf.
+- Next action: With action-time confirmation, sign in to Wuzzuf if required, upload the agentic-AI résumé, review screening questions, and submit with SAGA's orchestration, grounding, evaluation, and reliability evidence.
+- Follow-up date:
+- Notes: Posted approximately four weeks before discovery and still displays `Apply For Job`.
+
+### Etisalat Egypt by e& — Generative AI Engineer
+- Status: corporate stretch shortlist; live Wuzzuf application route verified; no data submitted
+- Location: Mohandessin, Giza, Egypt
+- Work mode: Hybrid, full-time
+- Source: Wuzzuf employer listing
+- Job URL: https://wuzzuf.net/jobs/p/ws1gtpwogz9v-generative-ai-engineer-etisalat-egypt-giza-egypt
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong technology-content match for Python, LLM/GenAI applications, APIs, RAG, vector databases, prototyping, testing, deployment, Docker, and CI/CD concepts at a preferred large telecommunications company. Seniority is the main weakness: the listing asks for three years of direct AI/ML and software-engineering experience, two years of NLP and cloud/MLOps, and one year of LLM/GenAI work. Fares has substantial verified project and teaching experience but not the requested production tenure or two years of cloud/MLOps, which must not be overstated.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Etisalat Egypt through Wuzzuf.
+- Next action: Apply only after higher-probability graduate and junior AI roles, using truthful project evidence and no inflated production-experience claims.
+- Follow-up date:
+- Notes: Posted eight days before discovery and still displays `Apply For Job`.
 
 ### Capgemini — Software AI Engineer (589966) / AI & Automation roles
 - Status: applications not submitted; blocked at SuccessFactors account sign-in
