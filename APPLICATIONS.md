@@ -2342,7 +2342,7 @@ Use concise statuses where possible:
 - Notes: The public listing says the role remains posted until filled. The page metadata categorizes it under Supply Chain Planning, while the description is a broad MEA graduate program; verify the actual track selection before submission.
 
 ### Pass Technology — AI Engineer, LLM & AI Agents
-- Status: high-priority shortlist; live Wuzzuf application route verified; no data submitted
+- Status: not pursuing in the current priority batch; live listing verified but the full Wuzzuf details require 3–7 years of experience and display compensation of only EGP 600–1,000 per month
 - Location: Cairo, Egypt
 - Work mode: Remote, full-time
 - Source: Wuzzuf employer listing
@@ -2350,16 +2350,16 @@ Use concise statuses where possible:
 - Date discovered: 2026-11-04
 - Date applied:
 - Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
-- Fit / rationale: Exceptional direct match for Python, LLM agents, LangGraph, multi-step workflows, RAG, semantic search, memory, tool/function calling, structured outputs, FastAPI, PostgreSQL, evaluation, guardrails, debugging, APIs, and cross-functional product development. The listing does not publish a minimum number of years and focuses on demonstrated hands-on production-system ability, making SAGA and RenderLab highly relevant evidence.
-- Compensation: Not stated.
+- Fit / rationale: Exceptional technology match for Python, LLM agents, LangGraph, multi-step workflows, RAG, semantic search, memory, tool/function calling, structured outputs, FastAPI, PostgreSQL, evaluation, guardrails, debugging, APIs, and cross-functional product development. However, the 3–7-year requirement and unusually low published compensation make the opportunity materially weaker than the current graduate and corporate targets.
+- Compensation: Wuzzuf displays EGP 600–1,000 per month; this may be a listing error, but it is too low to ignore without employer clarification.
 - Important screening answers: None submitted.
 - Recruiter/contact: Pass Technology through Wuzzuf.
-- Next action: With action-time confirmation, sign in to Wuzzuf if required, upload the agentic-AI résumé, include SAGA and RenderLab evidence, review any screening questions, and submit truthful answers.
+- Next action: None unless the employer corrects or clarifies the published compensation and confirms openness to an exceptional fresh graduate.
 - Follow-up date:
-- Notes: The public company label appears as `tech technology`, while the description identifies the employer as Pass Technology and the product as Sanad. Verify the employer identity in the application form before submission.
+- Notes: The public company label appears as `tech technology`, while the description identifies the employer as Pass Technology and the product as Sanad. The initial search result omitted the experience and salary fields; a live browser inspection exposed the 3–7-year requirement and EGP 600–1,000 monthly range.
 
 ### Romoze Egypt — Agentic AI Engineer
-- Status: high-priority shortlist; live Wuzzuf application route verified; no data submitted
+- Status: stretch shortlist; live Wuzzuf application route verified; no data submitted
 - Location: New Cairo, Cairo, Egypt
 - Work mode: Hybrid; full-time or part-time shown
 - Source: Wuzzuf employer listing
@@ -2367,13 +2367,13 @@ Use concise statuses where possible:
 - Date discovered: 2026-11-04
 - Date applied:
 - Resume used: Planned: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
-- Fit / rationale: Excellent agentic-AI match for autonomous single- and multi-agent systems, planning and execution workflows, API/tool integration, RAG and memory, evaluation and observability, human-in-the-loop safeguards, guardrails, Python, asynchronous engineering, LangGraph, LLM APIs, vector databases, relational databases, FastAPI, and clean software design. The public page does not show a minimum-experience value, so demonstrated project depth matters more than an unverified tenure threshold.
-- Compensation: Not stated.
+- Fit / rationale: Excellent technology match for autonomous single- and multi-agent systems, planning and execution workflows, API/tool integration, RAG and memory, evaluation and observability, human-in-the-loop safeguards, guardrails, Python, asynchronous engineering, LangGraph, LLM APIs, vector databases, relational databases, FastAPI, and clean software design. The live page requires 3–7 years and labels the role experienced non-manager, making it a substantial seniority stretch despite unusually strong project alignment.
+- Compensation: EGP 15,000–30,000 per month.
 - Important screening answers: None submitted.
 - Recruiter/contact: Romoze Egypt through Wuzzuf.
-- Next action: With action-time confirmation, sign in to Wuzzuf if required, upload the agentic-AI résumé, review screening questions, and submit with SAGA's orchestration, grounding, evaluation, and reliability evidence.
+- Next action: Apply after the higher-probability graduate, internship, and associate roles if Fares confirms he wants this seniority stretch.
 - Follow-up date:
-- Notes: Posted approximately four weeks before discovery and still displays `Apply For Job`.
+- Notes: Posted approximately four weeks before discovery and still displays `Apply For Job`. The initial indexed page omitted the experience and salary fields; live inspection showed 3–7 years, experienced non-manager, and EGP 15,000–30,000 monthly.
 
 ### Etisalat Egypt by e& — Generative AI Engineer
 - Status: corporate stretch shortlist; live Wuzzuf application route verified; no data submitted
