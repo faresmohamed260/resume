@@ -8,6 +8,12 @@ Use concise statuses where possible:
 
 `discovered` · `shortlisted` · `preparing` · `applied` · `assessment` · `interview` · `follow-up` · `rejected` · `withdrawn` · `offer` · `closed`
 
+## Job-search targeting guardrail
+
+- Primary targets only: AI Engineer, AI/ML Engineer, Machine Learning Engineer, Applied AI Engineer, Generative AI / LLM Engineer, NLP Engineer, Computer Vision Engineer, AI Research / R&D Engineer, and Python roles whose core responsibility is building AI/ML systems.
+- Do not apply to generic backend, QA/testing, SRE, technical-support, or ordinary software-engineering roles merely because individual tools overlap with the résumé.
+- Adjacent roles require Fares's explicit approval before application. A role title and its day-to-day responsibilities must both be meaningfully AI-centered.
+
 ## Graduate-study opportunities
 
 ### Mohamed bin Zayed University of Artificial Intelligence — M.Sc. in Artificial Intelligence, Machine Learning concentration, Fall 2027
@@ -1942,7 +1948,432 @@ Use concise statuses where possible:
 - Compensation: Not stated.
 - Important screening answers: No prior Vodafone employment; Egyptian citizen with the right to work full-time in Egypt; BA/BSc and 2026 graduation; fresh graduate; prior internships; fluent English; Computer Science graduate; has created software applications; has relational-database/data-warehouse-tool knowledge; graduation category 2025–2026–January 2027; no Egyptian degree-equivalency certificate; male; no relatives at Vodafone; Microsoft Office experience; military status exempted. Optional diversity-data consent was declined and no reasonable adjustment was requested.
 - Next action: Monitor email, phone, and the Vodafone candidate portal for assessments, interviews, or requests for information. Prepare for likely technical, aptitude, and graduate-program selection stages.
-- Notes: The application was submitted through Vodafone's SuccessFactors portal under requisition 291440 and portal application ID 9842978. A new Vodafone careers account was created because the older profile could not be recovered through password reset. The AI Engineer resume was uploaded successfully, all required sections passed validation, and the portal displayed “Your application has been sent.” The Data Intelligence track was prioritized over the Technology/IT track because it matches the verified AI/ML profile substantially better.
+- Notes: The application was submitted through Vodafone's SuccessFactors portal under requisition 291440 and portal application ID 9842978. A new Vodafone careers account was created because the older profile could not be recovered through password reset. The AI Engineer resume was uploaded successfully, all required sections passed validation, and the portal displayed “Your application has been sent.” The Data Intelligence track was prioritized over the Technology/IT track because it matches the verified AI/ML profile substantially better. On 2026-10-28, the other live 2027 Discover tracks were reviewed. IoT & Cloud Solutions was the closest alternative, followed by Technology/IT and Strategy, but each was materially weaker than Data Intelligence. Vodafone's published graduate guidance says it accepts only one programme application per candidate, so no duplicate Discover application should be submitted unless Vodafone Egypt explicitly invites or authorizes a track change. Current non-graduate Egypt technology vacancies were predominantly experienced project-management, product-owner, architecture, or senior DevOps roles and were not realistic fresh-graduate targets.
+
+### Jadeer — Applied AI Engineer (AI-First / Vibe Coding)
+- Status: applied; official portal confirmed, “You already applied for this job.”
+- Location: Cairo, Egypt
+- Work mode: Hybrid, full-time
+- Source: Jadeer email digest → official Jadeer/Teamtailor career site
+- Job URL: https://jobs.jadeer.ai/jobs/8132484-applied-ai-engineer-ai-first-vibe-coding
+- Date discovered: 2026-10-28
+- Date applied: 2026-10-28
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong applied-AI match for Python, LLM integrations, RAG, AI agents, multi-agent workflows, LangGraph, MCP, prompt engineering, evaluation, semantic and hybrid retrieval, pgvector, APIs, FastAPI, Docker, cloud platforms, CI/CD, and production-oriented AI services. The stated 3+ years of AI-powered or data-intensive application experience is a stretch but can be addressed truthfully through approximately three years of related project, teaching, automation, and software work. Direct GraphRAG, graph-database, knowledge-graph, and ontology experience is not established and must not be claimed.
+- Compensation: Competitive salary and benefits stated; no numeric range published. Application answer: EGP 30,000 monthly expected salary.
+- Important screening answers: Company website; birth date 2001-04-02; full professional English proficiency; current package EGP 0 because currently unemployed, with no benefits; expected salary EGP 30,000 monthly; notice period less than one month/immediate; no relatives at Future Group and `N/A` in the follow-up field; verified name, email, phone, and agentic-AI resume supplied.
+- Recruiter/contact: Jadeer recruiting team via Teamtailor.
+- Next action: Monitor email and phone for recruiter follow-up. Prepare to discuss the tenure stretch honestly and demonstrate SAGA's RAG, agent orchestration, evaluation, pgvector, API, and production-engineering work; do not claim direct GraphRAG or graph-database experience.
+- Follow-up date:
+- Notes: The email itself recommended an unrelated Talent Acquisition Coordinator position. A review of Jadeer's live career board found this much stronger AI opening. The role is tagged Professional, so the application should emphasize verified shipped systems and measurable evaluation without inflating tenure or claiming graph-database experience. The application was submitted through the official Teamtailor form. After submission, the portal loaded the application route and displayed “You already applied for this job,” confirming receipt and preventing a duplicate.
+
+### Allendevaux — SaaS Technical Support Engineer
+- Status: rejected on 2026-10-30
+- Location: Alexandria, Egypt
+- Work mode: Hybrid / remote, full-time contractor
+- Source: Indeed vacancy verified against Allendevaux's official careers channel
+- Job URL: https://eg.indeed.com/viewjob?jk=5e375b56e70bd3fe
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent match for troubleshooting SaaS and web applications, REST APIs and JSON, PostgreSQL/SQL, authentication and authorization, logs and diagnostics, Docker, scripting, CI/CD, observability, incident-oriented reliability work, technical documentation, and clear communication. Direct formal technical-support employment, Kubernetes operations, and dedicated cybersecurity/GRC experience are not established and were not claimed.
+- Compensation: Not stated.
+- Important screening answers: The tailored application stated that Fares graduated first in Computer Science (Intelligent Systems), is based in Alexandria, is immediately available, and is comfortable with hybrid work and international teams. It highlighted verified RenderLab and SAGA work involving durable workflows, retries, failover, access control, MFA, diagnostics, APIs, data issues, deployment conditions, evaluation, and documentation. It did not claim direct formal SaaS-support, Kubernetes, or GRC experience.
+- Recruiter/contact: Allendevaux careers team, `careers@allendevaux.com`
+- Next action: None; do not follow up on this non-AI role.
+- Follow-up date:
+- Notes: Indeed listed the vacancy as newly active in October 2026 and required an Indeed sign-in to use Easy Apply. Allendevaux's official careers page publishes `careers@allendevaux.com` as its application channel, so a tailored email with the AI Engineer résumé was sent there. Gmail message ID: `1a18c156637cb3b1`. Jodie Oliver replied from `careers@allendevaux.com` at 11:15 UTC on 2026-10-30, declining the application because the role requires broader networking, security, authentication, and cloud-infrastructure knowledge. Gmail message ID: `1a18c860589ec372`.
+
+### Allendevaux — Software Tester (Manual + Automation Hybrid)
+- Status: withdrawn from active consideration; application email had already been sent on 2026-10-30 before Fares clarified that non-AI titles are unsuitable
+- Location: Alexandria, Egypt; San Stefano office meetings
+- Work mode: Remote-capable hybrid, full-time
+- Source: Current Indeed vacancy verified through multiple current listings and Allendevaux's official careers email channel
+- Job URL: https://eg.indeed.com/q-software-test-engineer-l-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%88%D8%B8%D8%A7%D8%A6%D9%81.html
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong adjacent match for Playwright, Python, web and API testing, PostgreSQL-backed workflows, automated browser journeys, CI/CD concepts, Docker, Git, debugging, reliability, and evidence-based documentation. Direct formal QA employment, Jenkins production use, and professional Bash-heavy automation are not established and were not claimed.
+- Compensation: Not stated.
+- Important screening answers: The tailored email highlighted Fares Uniform's 149 verified Odoo tests, seven-addon upgrade validation, and 8/8 browser journeys, plus RenderLab and SAGA work involving retries, failure handling, authorization boundaries, durable jobs, API behavior, evaluation contracts, and release validation. It explicitly stated that the experience is primarily project-based rather than a formal QA job title. It also disclosed the separate SaaS Technical Support Engineer application so the two submissions would not appear accidental or duplicative.
+- Recruiter/contact: Allendevaux careers team, `careers@allendevaux.com`
+- Next action: Do not pursue or follow up. Send a withdrawal message only if Fares explicitly requests one.
+- Follow-up date: 2026-11-06
+- Notes: A distinct, role-specific application email was sent with the AI Engineer résumé attached. Gmail message ID: `1a18c943135d256e`. Jodie Oliver replied at 14:24 UTC on 2026-10-30 that the tester role may fit Fares's experience and invited an application through `https://allendevaux.bamboohr.com/careers/63`, but stated the company is not actively recruiting for it yet and pre-screening will wait for internal approval (Gmail message ID: `1a18d324f4744b58`). No portal application was submitted: Fares's current targeting preference excludes non-AI roles.
+
+### Sana Commerce — Junior Site Reliability Engineer — Alexandria
+- Status: applied; SmartRecruiters email confirmed receipt
+- Location: Alexandria, Egypt
+- Work mode: Hybrid, three office days and two work-from-home days; scheduled shifts and on-call rotation may apply
+- Source: Sana Commerce official SmartRecruiters vacancy
+- Job URL: https://jobs.smartrecruiters.com/SanaCommerce/744000156751084-junior-site-reliability-engineer-alexandria
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong junior adjacent match for reliability engineering, troubleshooting, incident-oriented thinking, Python scripting, PostgreSQL/SQL, Docker, REST APIs, logs and diagnostics, automated testing, CI validation, technical documentation, and production-minded project work. Microsoft Azure, Windows Server/IIS, Azure SQL, AKS/Kubernetes operations, and dedicated professional SRE experience are clear learning gaps and were disclosed accurately.
+- Compensation: Not stated.
+- Important screening answers: Near-native English proficiency: yes; authorized to work in Egypt: yes; visa sponsorship required: no; able to work the Alexandria hybrid schedule: yes. Professional Azure or other cloud-infrastructure experience: none. Listed technologies worked with professionally: none of the listed Azure, Windows Server/IIS, DNS/networking, MSSQL/Azure SQL, or Docker/Kubernetes choices. Production monitoring, troubleshooting, or incident response: only through academic or personal projects. Monitoring or scripting tools: `Other similar tools`. The hiring-team message highlighted verified reliability work in RenderLab, SAGA, and Fares Uniform while explicitly disclosing limited direct Azure, Windows, and AKS experience.
+- Recruiter/contact: Sana Commerce recruiting team via SmartRecruiters.
+- Next action: Monitor email and phone for confirmation, assessment, or interview contact. Prepare project-based examples covering reconciliation, retries, failover, diagnostics, access control, CI validation, release qualification, and structured troubleshooting; do not overstate Microsoft-platform or professional SRE tenure.
+- Follow-up date: 2026-11-06
+- Notes: Resume parsing populated three verified work entries and education. The application included Alexandria location, phone, LinkedIn, GitHub, resume, and a tailored reliability-focused message. SmartRecruiters displayed the explicit successful-submission confirmation. Its receipt email arrived at 09:24 UTC on 2026-10-30 and said recruitment feedback should arrive within two weeks (Gmail message ID: `1a18c1ff386c46e0`).
+
+### Eskola Technology — Junior Backend Developer
+- Status: applied; official career site confirmed, “Application Submitted!”
+- Location: Egypt; company office listed in Dokki, Giza
+- Work mode: Not established in the application page
+- Source: Eskola Technology official careers page
+- Job URL: https://eskola.tech/careers/junior-backend-developer
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong stretch match for Python backend development, FastAPI, PostgreSQL, REST APIs, authentication and authorization, durable background jobs, Docker, automated testing, CI/CD, reliable services, data pipelines, security, and documentation. The listing's stated 3+ years is above the verified formal backend tenure, so the application described approximately three years of related hands-on work across software projects, AI automation, and technical work without inflating professional backend employment.
+- Compensation: Not stated.
+- Important screening answers: The tailored cover letter stated that Fares recently graduated first in Computer Science (Intelligent Systems), has around three years of related hands-on experience across software projects, AI automation, and technical work, is based in Egypt, and is immediately available. It highlighted verified Python, FastAPI, Next.js, PostgreSQL, REST APIs, authentication/authorization, durable jobs, Docker, testing, CI/CD, RenderLab reliability features, and SAGA's durable Postgres-backed workflows. LinkedIn and GitHub were supplied.
+- Recruiter/contact: Eskola Technology hiring team via the official application form.
+- Next action: Monitor email and phone for recruiter follow-up. Prepare to discuss API design, database decisions, authentication, durable jobs, testing, deployment reliability, and the distinction between related hands-on experience and formal backend tenure.
+- Follow-up date: 2026-11-06
+- Notes: The official site displayed an explicit application-submitted confirmation for Junior Backend Developer and stated that Eskola does not send a confirmation email, so the success page is the confirmation record.
+
+### Registfy — AI Engineer (AWS & Generative AI)
+- Status: applied by email on 2026-10-30
+- Location: Cairo, Egypt
+- Work mode: Hybrid, full-time
+- Source: Registfy recruiting listing with direct official application email
+- Job URL: https://www.linkedin.com/jobs/view/4446322056/
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong applied generative-AI match for Python, FastAPI, REST APIs, PostgreSQL, Docker, AI agents, RAG-style retrieval, structured prompting, evaluation, integrations, troubleshooting, CI/CD, reliability, and end-to-end technical ownership. Direct production AWS depth is a gap and was disclosed rather than inflated.
+- Compensation: Listing states USD-based compensation; no numeric range published.
+- Important screening answers: The tailored email stated that Fares graduated first in Computer Science (Intelligent Systems), is based in Alexandria, is immediately available, and has verified experience across SAGA, RenderLab, and AI automation work. It highlighted Python, FastAPI, PostgreSQL, APIs, Docker, testing, CI/CD, agentic workflows, retrieval, evaluation, and cloud-hosted services. It explicitly stated that direct production AWS depth is still developing and did not claim unverified AWS certification or enterprise-AWS tenure. GitHub and LinkedIn links were included.
+- Recruiter/contact: Registfy hiring team, `career@registfy.com`
+- Next action: Monitor email and phone. Prepare to discuss how existing API, Docker, database, deployment, evaluation, and reliability experience transfers to AWS services without overstating direct AWS experience.
+- Follow-up date: 2026-11-06
+- Notes: A tailored email was sent with the listing's requested subject `R3-AI Engineer` and the AI Engineer résumé attached. Gmail message ID: `1a18c8eed2435f07`.
+
+### RoboDesk — Proactive Applied AI / AI Engineer Application
+- Status: not delivered; original application and 2026-11-04 retry were both blocked
+- Location: Egypt
+- Work mode: Not specified; official careers page describes an Egypt-based team
+- Source: RoboDesk official careers page
+- Job URL: https://www.robodesk.ai/careers/
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong direct positioning match for RoboDesk's stated hiring areas in applied AI and machine learning, retrieval, agents, evaluation, backend/platform engineering, and implementation/support engineering. Fares's evidence-grounded SAGA work, RenderLab reliability engineering, bilingual English/Arabic communication, and verified Python, FastAPI, React/Next.js, TypeScript, PostgreSQL, APIs, Docker, testing, CI/CD, LangGraph, RAG, observability, and documentation experience align closely with the company's enterprise-software focus.
+- Compensation: Not stated.
+- Important screening answers: The application described the preferred problem area as making bilingual enterprise AI systems reliable enough for live workflows through evidence preservation, observable failure modes, evaluation, and clean integration with product and customer operations. It highlighted SAGA, RenderLab, AI automation work, English/Arabic communication, Alexandria location, and immediate availability. No specific vacancy, compensation, or work-mode claim was invented.
+- Recruiter/contact: RoboDesk team, `hello@robodesk.ai`
+- Next action: Find a verified alternative official application channel before retrying; do not assume RoboDesk received this email.
+- Follow-up date:
+- Notes: RoboDesk's official careers page explicitly invites proactive applications when a matching role is not currently listed. The tailored email used a `Careers` subject as requested and included the AI Engineer résumé. Gmail message ID: `1a18c8f4ec1bdaf5`. A delivery failure arrived at 11:26 UTC on 2026-10-30: `550 5.4.1 Recipient address rejected: Access denied` for `hello@robodesk.ai` (Gmail message ID: `1a18c8f5a20ecaf9`). A second tailored retry on 2026-11-04 was also blocked; sent-message ID `1a1a538a5a1ed94d`, delivery-failure message ID `1a1a538b1e3224b6`. Do not retry this mailbox again without a verified change or alternate official channel.
+
+### LamdaX — AI Engineer
+- Status: applied; Workable confirmed submission by email on 2026-10-30
+- Location: Remote; accepts candidates in Egypt or Saudi Arabia
+- Work mode: Remote, full-time
+- Source: LamdaX official Workable careers page
+- Job URL: https://apply.workable.com/lamdax/j/E770665A8C/
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume prepared: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Excellent fresh-graduate match for Computer Science, Python, SQL, machine-learning projects, PyTorch/scikit-learn/Hugging Face, data preparation, APIs, Docker, model deployment or monitoring, technical documentation, and immediate availability. Working knowledge of .NET is not established and was answered `No`.
+- Compensation: Not stated. The optional expected-net-salary field was left blank.
+- Important screening answers prepared: Bachelor's degree in a related field: yes; hands-on ML experience through projects: yes; working knowledge of Python, SQL, and .NET together: no; exposure to deployment/monitoring, APIs, Docker, or cloud services: yes; AI Engineer experience: 2 years of related AI and automation experience; currently unemployed and available immediately: yes; GPA: 3.9738/4.0. The graduation-project answer accurately described SAGA, including durable jobs, provenance, evaluation contracts, 0.8563 quote-detection F1, and a 0.7791 BookNLP event-trigger challenger. The cover letter disclosed the .NET gap explicitly.
+- Recruiter/contact: LamdaX hiring team via Workable.
+- Next action: Monitor for recruiter response; do not submit a duplicate.
+- Follow-up date: 2026-11-06
+- Notes: The form was populated and the résumé uploaded. A Cloudflare Turnstile challenge initially prevented confirmation, but Workable subsequently emailed `Your application for the AI Engineer job was submitted successfully` at 11:27 UTC on 2026-10-30 (Gmail message ID: `1a18c9073c2f3c6d`).
+
+### XonTel — Backend Engineer
+- Status: withdrawn from active consideration; application email had already been sent on 2026-10-30 before Fares clarified that non-AI titles are unsuitable
+- Location: Gleem, Alexandria, Egypt
+- Work mode: On-site, full-time; Sunday–Thursday, 9:00 AM–5:00 PM
+- Source: XonTel LinkedIn vacancy with a direct company application email
+- Job URL: https://www.linkedin.com/jobs/view/4455879175/
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong technical-stack match for Python, FastAPI, PostgreSQL, REST APIs, Docker, pytest, RAG, multi-tenant data scoping, reliable background work, integrations, and production-minded debugging. The listing asks for 2–4 years of production backend experience, which exceeds Fares's verified formal backend tenure; however, it is tagged entry level and the project evidence is unusually aligned.
+- Compensation: Not stated.
+- Important screening answers: The tailored email highlighted SAGA's Python/FastAPI, PostgreSQL/Supabase, durable background jobs, owner-scoped data flows, and RAG-related work, plus Fares Uniform's Python, PostgreSQL, Playwright, and automated-testing experience. It explicitly stated that Fares is earlier-career than the requested 2–4 years and did not claim unverified professional tenure, messaging-platform API experience, or production Celery/Redis experience. Alexandria location, GitHub, LinkedIn, phone, and immediate availability were included.
+- Recruiter/contact: XonTel Egypt hiring team, `hr.eg@xontel.com`
+- Next action: Do not pursue or follow up. Send a withdrawal message only if Fares explicitly requests one.
+- Follow-up date: 2026-11-06
+- Notes: A tailored application email was sent with the AI Engineer résumé attached. Gmail message ID: `1a18c93bf51ad203`.
+
+### Applied Innovation Center (AIC / MCIT Egypt) — Junior R&D Engineer, Arabic NLP
+- Status: applied; official site confirmed `Application submitted successfully!`
+- Location: Cairo, Egypt
+- Work mode: Full-time, on-site status not explicitly stated
+- Source: Applied Innovation Center official careers page
+- Job URL: https://www.aic.gov.eg/careers/3
+- Date discovered: 2026-10-30
+- Date applied: 2026-10-30
+- Resume used: `Fares_Mohamed_Graduate_AI_CV.pdf`
+- Fit / rationale: Excellent qualification match. The role is explicitly junior (0–2 years) and AI-centered, working on deep learning for Arabic NLP, Arabic speech recognition, text-to-speech, machine translation, natural-language datasets, ML/DL models, benchmarking, research reviews, and technical documentation. Fares has a B.Sc. in Computer Science (Intelligent Systems), ranked first with a 3.9738/4.00 CGPA, and verified NLP, ML, deep-learning education, Python/C++, evaluation, data, documentation, Arabic/English, and research-oriented project evidence. Direct ASR, TTS, and production machine-translation experience are not established, so the application should rely on transferable NLP/deep-learning foundations rather than claim those specialties.
+- Compensation: Not stated.
+- Important screening answers prepared: Name `Fares Mohamed`; email `faresmohamed260@gmail.com`; graduate AI CV selected because it foregrounds Intelligent Systems education, CGPA/class rank, NLP and research interests, measurable SAGA evaluation, computer vision, Python/C++, ML coursework, and Arabic/English capability.
+- Recruiter/contact: Applied Innovation Center hiring team through the official application form; job code `R&D003`.
+- Next action: Monitor email and phone for assessment or interview contact. Prepare to discuss Arabic NLP, ML/DL fundamentals, dataset preparation, evaluation and benchmarking, Python/C++, SAGA's measurable NLP work, and the distinction between strong transferable NLP foundations and direct ASR/TTS/MT experience.
+- Follow-up date: 2026-11-06
+- Notes: The official form required only name, email, and a PDF résumé. No references, salary question, or video interview was shown. The site displayed the explicit confirmation `Application submitted successfully!` after submission.
+
+### Techeffic — AI Engineer
+- Status: applied; official site confirmed receipt on 2026-11-04
+- Location: Cairo, Egypt
+- Work mode: Not stated in the application confirmation
+- Source: Techeffic official careers page
+- Job URL: https://techeffic.com/careers/ai-engineer
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong match for Python, FastAPI, LangGraph, RAG, LLM evaluation, Docker, PostgreSQL, agentic systems, and production-minded AI integration. SAGA and RenderLab supplied concrete evidence beyond coursework.
+- Compensation: Not stated.
+- Important screening answers: First-ranked Computer Science (Intelligent Systems) graduate; Python/FastAPI/LangGraph/RAG/evaluation/Docker/PostgreSQL; SAGA and RenderLab project evidence; immediate availability.
+- Recruiter/contact: Techeffic hiring team through the official form.
+- Next action: Monitor email and phone; prepare to discuss SAGA evaluation and RenderLab reliability architecture.
+- Follow-up date: 2026-11-11
+- Notes: The official page displayed: `Thanks — we've received your application for AI Engineer and will be in touch.`
+
+### Henkel — AI Engineer (26102264)
+- Status: applied; official ATS and confirmation email verified on 2026-11-04
+- Location: Cairo, Egypt
+- Work mode: Full-time, regular
+- Source: Henkel official careers page
+- Job URL: https://www.henkel.com/careers/find-your-job-apply/2256974-2256974
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong stretch match for generative AI, PyTorch, LLMs, prompting, evaluation, multimodal systems, Python, APIs, and production integration. Direct enterprise Azure and RLHF depth remain gaps and were not invented.
+- Compensation: Not stated.
+- Important screening answers: Immediate availability; gender response declined; source `Henkel Website`; tailored cover letter highlighted first-place graduation, SAGA's 0.8563 quote F1, RenderLab, Python/FastAPI/LangGraph/RAG/Docker/PostgreSQL, and reliable AI engineering.
+- Recruiter/contact: Henkel recruitment through the official ATS.
+- Next action: Monitor email and prepare examples of LLM evaluation, model integration, and how current cloud/deployment experience transfers to Azure.
+- Follow-up date: 2026-11-11
+- Notes: ATS displayed `You have successfully applied to AI Engineer.` Henkel also emailed confirmation for job ID 26102264.
+
+### Modern Telecom Systems — AI Engineer
+- Status: applied by email on 2026-11-04; no bounce observed
+- Location: Cairo, Egypt
+- Work mode: Not established
+- Source: Vacancy listing using the company's official recruiting mailbox
+- Job URL: https://www.glassdoor.co.uk/job-listing/ai-engineer-modern-telecom-systems-JV_IC3438985_KO0%2C11_KE12%2C34.htm?jl=1007903712064
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf`
+- Fit / rationale: Strong match for Python, PyTorch/scikit-learn, NLP, FastAPI/REST APIs, Docker, SQL, LLMs, and RAG.
+- Compensation: Not stated.
+- Important screening answers: First-ranked Intelligent Systems graduate; immediate availability; verified AI/ML, NLP, API, database, Docker, LLM, and RAG experience.
+- Recruiter/contact: `mts-hr@mts-mea.com`
+- Next action: Monitor email and phone; follow up if no response.
+- Follow-up date: 2026-11-11
+- Notes: Tailored email sent successfully with the AI Engineer résumé attached. Gmail message ID: `1a1a535e8811aaa2`.
+
+### Mondia Group — Agentic AI Engineer
+- Status: applied; Workable confirmed successful submission on 2026-11-04
+- Location: Cairo, Egypt
+- Work mode: Hybrid; four office days and one home day stated in the application
+- Source: Mondia Group official Workable page
+- Job URL: https://apply.workable.com/mondia-group/j/45FB0DB880/
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent role-title and technical match for agentic AI, Python, LangGraph, tool-using workflows, RAG, evaluation, FastAPI, PostgreSQL, reliability, and observability.
+- Compensation: Expected EUR 550 gross per month, negotiable.
+- Important screening answers: Immediate availability; comfortable with the stated four-office-day/one-home-day pattern; SAGA and RenderLab evidence; no unverified LangChain or enterprise-cloud claims.
+- Recruiter/contact: Mondia Group via Workable.
+- Next action: Monitor for recruiter follow-up and prepare a concise walkthrough of orchestration, retrieval, evaluation, and production failure handling.
+- Follow-up date: 2026-11-11
+- Notes: Workable emailed `Your application to Mondia Group was submitted successfully.` A role-specific email was also sent to the Workable recruiting address (Gmail message ID `1a1a5388a238895e`).
+
+### Planck AI — AI Engineer
+- Status: applied by email on 2026-11-04; no bounce observed
+- Location: Egypt / Cairo opportunity
+- Work mode: Not established
+- Source: Planck AI official careers page
+- Job URL: https://www.planckai.io/careers
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong match for applied AI, LLM systems, RAG, agents, evaluation, Python services, and production-oriented engineering.
+- Compensation: Not stated.
+- Important screening answers: First-ranked Intelligent Systems graduate; immediate availability; SAGA, RenderLab, GitHub, and LinkedIn supplied.
+- Recruiter/contact: `contact@planckai.io`
+- Next action: Monitor for response; follow up if the role remains open.
+- Follow-up date: 2026-11-11
+- Notes: Tailored application email sent with the agentic-AI résumé. Gmail message ID: `1a1a53891b4ee5de`.
+
+### NEXEL by Logic — AI Engineer
+- Status: applied by email on 2026-11-04; no bounce observed
+- Location: Cairo, Egypt
+- Work mode: Not established
+- Source: NEXEL official careers page
+- Job URL: https://nexelbylogic.ai/careers
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Strong match for enterprise AI integration, agentic workflows, retrieval, evaluation, Python APIs, databases, Docker, and responsible production operation.
+- Compensation: Not stated.
+- Important screening answers: SAGA, RenderLab, Python/FastAPI/LangGraph/RAG/PostgreSQL/Docker, first-place graduation, and immediate availability.
+- Recruiter/contact: `hr@nexelbylogic.io`
+- Next action: Monitor for response and follow up after one week.
+- Follow-up date: 2026-11-11
+- Notes: Tailored application email sent with the agentic-AI résumé. Gmail message ID: `1a1a538abbcdddd7`.
+
+### Macber Technology — AI Engineer
+- Status: applied; official site confirmed receipt on 2026-11-04
+- Location: Cairo, Egypt
+- Work mode: Hybrid, full-time, subject to confirmation in the listing
+- Source: Macber official careers page
+- Job URL: https://www.macber.co/careers/ai-engineer
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf`
+- Fit / rationale: Excellent match for production LLM features, intelligent workflows, retrieval, tool use, evaluation, guardrails, human review, APIs, data systems, reliability, and explaining AI limitations.
+- Compensation: Not stated.
+- Important screening answers: Name, email, LinkedIn, AI Engineer role, tailored project statement, and agentic-AI résumé.
+- Recruiter/contact: Macber hiring team through the official form.
+- Next action: Monitor email and phone; prepare examples of evaluation, guardrails, permissions, logging, and failure modes.
+- Follow-up date: 2026-11-11
+- Notes: The site displayed: `Thank you for getting in touch. We have received your expression of interest...`
+
+### Smarterminds — AI Engineer Intern
+- Status: applied; confirmation email received on 2026-11-04
+- Location: Sheikh Zayed, Giza, Egypt
+- Work mode: Listed as hybrid; screening asked about Monday-Friday commuting
+- Source: Smarterminds official SmarterATS page
+- Job URL: https://smarterminds.smarterats.com/careers/262
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_Graduate_AI_CV.pdf`
+- Fit / rationale: Strong early-career match for a recent graduate who has shipped AI projects and knows React/Next.js, SQL, REST APIs, LLM workflows, and product engineering. The internship-to-full-time path is relevant, although daily commuting from Alexandria is not practical.
+- Compensation: Paid internship; amount not stated.
+- Important screening answers: Military status `Completed or Exempted`; commute answer `It's too far / can do only hybrid`; current location Alexandria, Egypt.
+- Recruiter/contact: Smarterminds through SmarterATS.
+- Next action: Monitor email. If contacted, clarify the real hybrid schedule before committing.
+- Follow-up date: 2026-11-11
+- Notes: The submit dialog remained disabled after clicking, but SmarterATS immediately sent `We Received Your Application!`, which is the authoritative confirmation.
+
+### Mara7el Inclusive Technologies — AI Engineer
+- Status: applied by email on 2026-11-04; no bounce observed
+- Location: Cairo, Egypt
+- Work mode: Hybrid / remote, full-time
+- Source: Current Mara7el recruiting listing
+- Job URL: https://eg.linkedin.com/jobs/view/ai-engineer-egyptian-at-mara7el-inclusive-technologies-4487038785
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: Public link to `Fares_Mohamed_Agentic_AI_Systems_Resume.pdf` in the career repository
+- Fit / rationale: Strong technical match for Python, PyTorch, LLM APIs, prompting, agents, cloud APIs, evaluation, and privacy/security-minded AI development. SAGA and RenderLab provide relevant evidence.
+- Compensation: Equity only; the listing explicitly states no salary at this stage.
+- Important screening answers: First-ranked graduate; approximately two years of related hands-on AI/automation experience; SAGA project note with 0.8563 quote F1 and 0.7791 event challenger score; GitHub, LinkedIn, public résumé link, phone, and immediate availability.
+- Recruiter/contact: `hr@mara7el.com`
+- Next action: Treat as lower priority because it is equity-only. If contacted, clarify equity terms, expected weekly commitment, funding/runway, IP terms, and whether any cash compensation is planned.
+- Follow-up date: 2026-11-11
+- Notes: Tailored application email sent. Gmail showed `Message sent`; a focused delivery-failure search found no bounce immediately after sending. The browser could not attach the local PDF, so the email included a direct public GitHub link to the same résumé instead.
+
+### RizmiWare — Machine Learning Engineer
+- Status: applied; official site confirmed successful submission on 2026-11-04
+- Location: Nasr City, Cairo, Egypt
+- Work mode: Project-based, part-time, remote; immediate start
+- Source: RizmiWare official careers page
+- Job URL: https://rizmiware.com/en/careers/machine-learning-engineer-7
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: Public link to `Fares_Mohamed_ML_Engineer_Resume.pdf` in the career repository
+- Fit / rationale: Excellent technical match for Python, PyTorch/scikit-learn, NLP, retrieval systems, LLMs, APIs, PostgreSQL/pgvector concepts, documentation, and independent end-to-end project delivery.
+- Compensation: Not stated.
+- Important screening answers: Full contact information and LinkedIn; short introduction with first-place graduation, 3.9738/4.0 CGPA, immediate availability, SAGA metrics and repository, RenderLab production/reliability work, GitHub, and a direct public résumé link.
+- Recruiter/contact: Mohamed Fouad / RizmiWare hiring team; official listing email `llm-job@rizmiware.com`, application submitted through the official form.
+- Next action: Monitor email and phone; prepare SAGA retrieval/evaluation details and availability for a project-based engagement.
+- Follow-up date: 2026-11-11
+- Notes: The official page displayed `Your application has been submitted successfully! We'll be in touch soon.` The résumé upload field was optional, and the public résumé link was included in the application text.
+
+### Inspekt AI — AI Engineer, Computer Vision
+- Status: not delivered; application email bounced on 2026-11-04
+- Location: Egypt / remote context not fully established
+- Work mode: Not established
+- Source: Inspekt AI official vacancy page
+- Job URL: https://inspektai.com/career/ai-engineer-computer-vision/
+- Date discovered: 2026-11-04
+- Date applied: 2026-11-04
+- Resume used: `Fares_Mohamed_ML_Engineer_Resume.pdf`
+- Fit / rationale: Strong computer-vision and ML project match, but the published mailbox was invalid at the time of application.
+- Compensation: Not stated.
+- Important screening answers: Tailored CV-focused project summary, GitHub, LinkedIn, and immediate availability.
+- Recruiter/contact: Published mailbox `careers@inspektai.com`
+- Next action: Do not count as an application. Retry only through a newly verified official form or corrected mailbox.
+- Follow-up date:
+- Notes: Gmail returned `Address not found`; the email account could not receive mail.
+
+### PwC ETIC — AI Engineer, Associate (752966WD)
+- Status: application not submitted; blocked at Workday account sign-in
+- Location: Cairo, Egypt
+- Work mode: Not established
+- Source: PwC official Workday listing
+- Job URL: https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--AI-Engineer---Associate_752966WD
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: None transmitted in this attempt
+- Fit / rationale: Strong corporate target and relevant associate-level AI role.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: PwC Workday.
+- Next action: Fares must sign in or create the candidate account and choose a private password; then resume the application.
+- Follow-up date:
+- Notes: Do not invent or store a password on Fares's behalf.
+
+### Capgemini — Software AI Engineer (589966) / AI & Automation roles
+- Status: applications not submitted; blocked at SuccessFactors account sign-in
+- Location: Cairo, Egypt
+- Work mode: Permanent for Software AI Engineer; other details vary by listing
+- Source: Capgemini official careers site
+- Job URL: https://careers.capgemini.com/job/Cairo-Software-AI-Engineer/1453444033/
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: None transmitted in this attempt
+- Fit / rationale: Excellent corporate stretch match for Python, LLMs, RAG, embeddings, semantic search, LangGraph, REST APIs, and backend integration; the listing prefers at least two years of experience.
+- Compensation: Not stated.
+- Important screening answers: None submitted.
+- Recruiter/contact: Capgemini SuccessFactors.
+- Next action: Fares must sign in or create the candidate account and choose a private password; then apply to every suitable AI vacancy in the account.
+- Follow-up date:
+- Notes: Do not invent or store a password on Fares's behalf.
+
+### ATOMIC — Software Engineer, FinTech & AI
+- Status: application prepared but not submitted; awaiting factual screening answers
+- Location: Cairo, Egypt
+- Work mode: Not fully established
+- Source: ATOMIC official careers page
+- Job URL: https://atomic.limited/en/careers/apply/?job=software-engineer-fintech-ai
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: `Fares_Mohamed_AI_Engineer_Resume.pdf` uploaded to the form
+- Fit / rationale: Strong adjacent AI/software-engineering fit for Python, APIs, databases, AI integrations, and production engineering.
+- Compensation: Not stated.
+- Important screening answers: All known fields were completed; the form still requires whether Fares has a driving licence and whether he owns a car.
+- Recruiter/contact: ATOMIC official application form.
+- Next action: Obtain truthful answers to the driving-licence and car-ownership questions, then submit.
+- Follow-up date:
+- Notes: The in-progress form was deliberately left unsubmitted rather than guessing consequential personal facts.
+
+### IST Networks — Conversational AI Engineer
+- Status: application not submitted; embedded form résumé upload failed
+- Location: Cairo, Egypt
+- Work mode: Not established
+- Source: IST Networks official careers page
+- Job URL: https://istnetworks.com/careers/conversational-ai-engineer
+- Date discovered: 2026-11-04
+- Date applied:
+- Resume used: Upload attempted but not completed
+- Fit / rationale: Strong conversational-AI, LLM, NLP, API, and integration match. Direct speech-to-text and text-to-speech experience is not established.
+- Compensation: Not stated.
+- Important screening answers: Known identity/contact fields were entered; no unsupported speech-specialist claim was made.
+- Recruiter/contact: IST Networks embedded Zoho application form.
+- Next action: Retry through a verified alternate browser or official contact channel if the vacancy remains active.
+- Follow-up date:
+- Notes: Do not treat this as submitted.
 
 
 ## Application record format
@@ -1973,6 +2404,32 @@ Only record facts actually established from the job listing, application, connec
 ## Closed applications
 
 Move or summarize completed/rejected/withdrawn opportunities here when the active section becomes difficult to scan. Preserve enough information to recognize duplicate future listings and understand prior outcomes.
+
+### Enozom — Software Engineer
+- Status: closed before application; official application route returned 404
+- Location: Alexandria, Egypt
+- Work mode: On-site, full-time
+- Source: Enozom official job page and official careers page
+- Job URL: https://enozom.com/blog/open-position/software-engineer/
+- Date discovered: 2026-10-30
+- Date closed: 2026-10-30
+- Resume used: None; no application was transmitted
+- Fit / rationale: Strong adjacent software-engineering match for a 2026 Computer Science graduate with verified React/Next.js, TypeScript, Python, REST API, PostgreSQL, testing, review, documentation, reliability, and full-stack product-delivery experience. The role targeted junior candidates with 0–2 years of experience in Alexandria. It was not AI-specific, but it offered realistic interview potential and local on-site work.
+- Next action: Recheck only if Enozom publishes a new junior software-engineering, AI, backend, full-stack, or quality-engineering vacancy through its official careers page or LinkedIn account. Do not use the stale application URL.
+- Notes: The Enozom-hosted job description remained publicly accessible and was labelled October 2026, but its `Apply Now` link redirected to Manatal job ID `QW87V4WW`, which returned a 404. Enozom's official Join Us page showed only Marketing Manager (Growth), which is not a suitable match, and its Manatal career page reported no open positions in the latest indexed result. No personal data or resume was submitted.
+
+### Arabic.AI — AI Engineer
+- Status: closed before application at Fares's request; required two professional references were not available
+- Location: Egypt
+- Work mode: Remote, full-time
+- Source: Arabic.AI official Workable careers page
+- Job URL: https://apply.workable.com/arabicai/j/FF9481A413/
+- Date discovered: 2026-10-30
+- Date closed: 2026-10-30
+- Resume used: None; no application was transmitted
+- Fit / rationale: Strong technical match for agentic and multimodal AI, RAG, embeddings, reranking, tool-using agents, evaluation, observability, data pipelines, model robustness, deployment, documentation, and cross-functional product engineering. The form required two references with names and contact details plus a USD salary expectation.
+- Next action: Do not apply unless Fares later has two references he is comfortable providing and explicitly reopens the opportunity.
+- Notes: Fares stated that no references were available and instructed that the application be skipped. No personal data or résumé was submitted to Arabic.AI.
 
 ### Talkpush — Solutions Engineer — Egypt (Remote)
 - Status: withdrawn before final submission; automated interview invitation received
