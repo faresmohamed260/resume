@@ -1,0 +1,49 @@
+name: Validate one-page career resumes
+
+on:
+  pull_request:
+    paths:
+      - "CAREER_PROFILE.md"
+      - "latex/**"
+      - "*.pdf"
+      - ".github/workflows/validate-resumes.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "CAREER_PROFILE.md"
+      - "latex/**"
+      - "*.pdf"
+      - ".github/workflows/validate-resumes.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  latex-one-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed sources and tracked PDFs
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX and PDF inspection tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended lmodern poppler-utils
+
+      - name: Compile and check all six role-specific resumes
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p build
+          for source in latex/*.tex; do
+            name="$(basename "$source" .tex)"
+            pdflatex -interaction=nonstopmode -halt-on-error -output-directory=build "$source" > /dev/null
+            pdflatex -interaction=nonstopmode -halt-on-error -output-directory=build "$source" > /dev/null
+            test "$(pdfinfo "build/$name.pdf" | awk '/^Pages:/ {print $2}')" = "1"
+            test "$(pdfinfo "$name.pdf" | awk '/^Pages:/ {print $2}')" = "1"
+            pdftotext "build/$name.pdf" - | grep -q 'FIBO'
+            pdftotext "$name.pdf" - | grep -q 'FIBO'
+            echo "Verified $name: compiled and tracked PDFs are each one page and reference FIBO."
+          done
+          test "$(find latex -maxdepth 1 -type f -name '*.tex' | wc -l)" -eq 6
