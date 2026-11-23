@@ -1,6 +1,6 @@
 # Career Profile
 
-Last reviewed: 2026-10-15
+Last reviewed: 2026-11-23
 
 This file is the living factual career record used to maintain resumes, evaluate jobs, prepare applications, and support professional LinkedIn content. Update it when verified career-significant information changes.
 
@@ -59,16 +59,16 @@ Authoritative repository: https://github.com/faresmohamed260/saga
 
 **Maintenance rule:** inspect the SAGA repository, active phase contract and recent merged/open PRs before using detailed claims. The project repository outranks this summary for current implementation facts and metrics.
 
-### RenderLab — AI Image/Video Creation Platform
+### RenderLab — Generative Media Suite (FIBO Image Beta; Video Planned)
 Authoritative repository: https://github.com/faresmohamed260/renderlab
 Production domain: https://renderlab.faresuniform.uk
 
-- Built a production-domain, invite-only AI image/video creation workspace over cloud-hosted ComfyUI/Modal workers while hiding workflow/provider complexity behind product-level contracts.
+- Built a production-domain, invite-only FIBO image generation and reference-editing beta over cloud-hosted ComfyUI/Modal workers; video remains planned, not available for new submissions.
 - Next.js/React/TypeScript application spans Create, Library/Viewer, Activity, Settings and fresh-authorized Admin surfaces; infrastructure uses Supabase, PostgreSQL/RLS, Cloudflare R2 and Vercel.
-- Implemented browser-independent generation reconciliation and durable finalization, retry/cancel/run-again flows, admission limits, failover, sanitized failures, durable uploads/media organization and continuation actions.
+- Implemented browser-independent durable dispatch and owner-return job settlement, retry/cancel flows, admission limits, durable uploads/media organization, and continuation actions; retains a failover design, but current FIBO production uses a single-worker route.
 - Delivered closed-beta identity/admission, branded transactional email, profile/preferences, password/session controls, MFA, secure email change, data export/deletion and operator observability with owner-scoped authorization.
 - Production qualification uses exact-head CI, real browser journeys, fixture cleanup/non-interference, release manifests, explicit custom-domain cutover and rollback anchors.
-- Draft PR #313 proposes MiniMax H3 video support but is blocked on Modal payment/spend limits; it is not merged, deployed or a current production capability.
+- MiniMax H3 video PR #313 is closed and unmerged; its proposed video implementation is not deployed or a current production capability.
 
 **Maintenance rule:** inspect RenderLab AGENTS.md, PROJECT.md, architecture/UI docs and recent PRs before using implementation, deployment or validation claims.
 
